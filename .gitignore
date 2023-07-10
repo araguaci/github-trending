@@ -8,4 +8,4 @@ pip-delete-this-directory.txt
 
 *.log
 *.out
-TODO.bat
+TODO.ps1
