@@ -28,7 +28,7 @@ def scrape(language, filename):
         'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
         'Accept'			: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         'Accept-Encoding'	: 'gzip,deflate,sdch',
-        'Accept-Language'	: 'zh-CN,zh;q=0.8'
+        'Accept-Language'	: 'pt-BR,zh;q=0.8'
     }
 
     url = 'https://github.com/trending/{language}'.format(language=language)
@@ -66,6 +66,8 @@ def job():
     scrape('swift', filename)
     scrape('javascript', filename)
     scrape('go', filename)
+    scrape('php', filename)
+    scrape('vue', filename)
 
     # git add commit push
     # git_add_commit_push(strdate, filename)

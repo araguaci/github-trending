@@ -1,13 +1,5 @@
-venv/
-__pycache__/
-log/
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-*.log
-*.out
-TODO.ps1
-TODO.bat
-hoje.ps1
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
