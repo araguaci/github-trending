@@ -1,5 +1,11 @@
 _site
+.venv
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+*.ps1
+*.bat
+desktop.ini
+makesidebar.php
