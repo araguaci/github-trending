@@ -46,16 +46,14 @@ if (isset($_GET['phpinfo'])) {
 }
 ?>
 <?php
-    echo '
-<pre>
-';
+    echo "<pre>";
 	$handle = opendir(".");
 	$cnt = 0;
 	while ($file = readdir($handle)) {
         $file = strtolower($file);
 		    if (substr($file, -2)=="md") {
           echo '
-  - [' . str_replace('.md', '', $file) . '](/repos/' . $file . ')';
+    - [' . str_replace('.md', '', $file) . '](/repos/' . $file . ')';
         }
 	}
 	closedir($handle);
@@ -65,9 +63,7 @@ if (isset($_GET['phpinfo'])) {
 	echo "</pre>";
 	die();
 	*/
-    echo '
-    
-</pre>';
+    echo "</pre>";
 
 
 //Verifica o Proxy e retorna o ip real

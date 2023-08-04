@@ -66,7 +66,6 @@ if (isset($_GET['phpinfo'])) {
 	die();
 	*/
     echo '
-    
 </pre>';
 
 
