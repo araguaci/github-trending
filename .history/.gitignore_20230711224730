@@ -5,9 +5,7 @@ _site
 .jekyll-metadata
 vendor
 
-*.log
 *.ps1
 *.bat
-*.php
 desktop.ini
 makesidebar.php
