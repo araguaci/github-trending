@@ -1,3 +1,7 @@
+# Element Plus
+
+A Vue 3 based component library for designers and developers
+
 # Dependents stats for element-plus/element-plus
 
 [![](https://img.shields.io/static/v1?label=Used%20by&message=56937&color=informational&logo=slickpic)](https://github.com/element-plus/element-plus/network/dependents)

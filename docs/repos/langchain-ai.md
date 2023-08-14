@@ -1,3 +1,7 @@
+# LangChain
+
+⚡ Building applications with LLMs through composability ⚡
+
 # Dependents stats for langchain-ai/langchain
 
 [![](https://img.shields.io/static/v1?label=Used%20by&message=17729&color=informational&logo=slickpic)](https://github.com/langchain-ai/langchain/network/dependents)
