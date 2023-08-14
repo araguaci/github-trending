@@ -1,1 +1,3 @@
- powershell D:\var\www\html\github-trending\TODO.ps1
+cd D:\var\www\html\github-trending\
+
+pwsh D:\var\www\html\github-trending\TODO.ps1
