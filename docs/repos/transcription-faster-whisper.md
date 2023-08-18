@@ -1,0 +1,61 @@
+# Dependents stats for guillaumekln/faster-whisper
+
+## Package guillaumekln/faster-whisper
+
+[![](https://img.shields.io/static/v1?label=Used%20by&message=222&color=informational&logo=slickpic)](https://github.com/guillaumekln/faster-whisper/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=48&color=informational&logo=slickpic)](https://github.com/guillaumekln/faster-whisper/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=174&color=informational&logo=slickpic)](https://github.com/guillaumekln/faster-whisper/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=419&color=informational&logo=slickpic)](https://github.com/guillaumekln/faster-whisper/network/dependents)
+
+| Repository | Stars  |
+| :--------  | -----: |
+|[chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 7029 |
+|[Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) | 4792 |
+|[m-bain/whisperX](https://github.com/m-bain/whisperX) | 4527 |
+|[ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) | 877 |
+|[MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) | 775 |
+|[saharmor/whisper-playground](https://github.com/saharmor/whisper-playground) | 632 |
+|[Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) | 392 |
+|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) | 258 |
+|[zh-plus/openlrc](https://github.com/zh-plus/openlrc) | 113 |
+|[reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text) | 97 |
+|[collabora/WhisperLive](https://github.com/collabora/WhisperLive) | 88 |
+|[Wordcab/wordcab-transcribe](https://github.com/Wordcab/wordcab-transcribe) | 85 |
+|[ycyy/faster-whisper-webui](https://github.com/ycyy/faster-whisper-webui) | 53 |
+|[discus0434/minutes-maker](https://github.com/discus0434/minutes-maker) | 47 |
+|[yum-food/TaSTT](https://github.com/yum-food/TaSTT) | 40 |
+|[tiansztiansz/voice-assistant](https://github.com/tiansztiansz/voice-assistant) | 40 |
+|[nalbion/whisper-server](https://github.com/nalbion/whisper-server) | 37 |
+|[daymade/tiktok-whisper](https://github.com/daymade/tiktok-whisper) | 35 |
+|[JonathanFly/faster-whisper-livestream-translator](https://github.com/JonathanFly/faster-whisper-livestream-translator) | 33 |
+|[OpenReplicant/ProtoReplicant](https://github.com/OpenReplicant/ProtoReplicant) | 28 |
+|[I5UCC/VRCTextboxSTT](https://github.com/I5UCC/VRCTextboxSTT) | 27 |
+|[Ifan24/GPT_subtitles](https://github.com/Ifan24/GPT_subtitles) | 26 |
+|[mldljyh/whisper_real_time_translation](https://github.com/mldljyh/whisper_real_time_translation) | 25 |
+|[RomanKlimov/faster-whisper-acceleration](https://github.com/RomanKlimov/faster-whisper-acceleration) | 24 |
+|[allwefantasy/byzer-llm](https://github.com/allwefantasy/byzer-llm) | 21 |
+|[lugia19/Echo-XI](https://github.com/lugia19/Echo-XI) | 20 |
+|[hibobmaster/matrix-stt-bot](https://github.com/hibobmaster/matrix-stt-bot) | 12 |
+|[noman-land/transcript.fish](https://github.com/noman-land/transcript.fish) | 11 |
+|[deforum/real-time-vision](https://github.com/deforum/real-time-vision) | 10 |
+|[markgoodhead/dictate-wizard](https://github.com/markgoodhead/dictate-wizard) | 9 |
+|[ckaytev/tgisper](https://github.com/ckaytev/tgisper) | 9 |
+|[CerebriumAI/examples](https://github.com/CerebriumAI/examples) | 9 |
+|[wwdok/faster-whisper-webui-cn](https://github.com/wwdok/faster-whisper-webui-cn) | 7 |
+|[Luruu/RViewer](https://github.com/Luruu/RViewer) | 6 |
+|[runpod-workers/worker-faster_whisper](https://github.com/runpod-workers/worker-faster_whisper) | 6 |
+|[thomasmol/potassium-whisper-diarization](https://github.com/thomasmol/potassium-whisper-diarization) | 5 |
+|[135e2/transcriber](https://github.com/135e2/transcriber) | 5 |
+|[Cerlancism/faster-whisper-webui](https://github.com/Cerlancism/faster-whisper-webui) | 5 |
+|[seriousm4x/wubbl0rz-archiv-transcribe](https://github.com/seriousm4x/wubbl0rz-archiv-transcribe) | 4 |
+|[tiansztiansz/langchain-chatyuan](https://github.com/tiansztiansz/langchain-chatyuan) | 4 |
+|[jojeyh/subtitler-backend](https://github.com/jojeyh/subtitler-backend) | 4 |
+|[DessertShop/tsukiyo](https://github.com/DessertShop/tsukiyo) | 3 |
+|[CheshireCC/fatser-whisper-GUI](https://github.com/CheshireCC/fatser-whisper-GUI) | 3 |
+|[pladisdev/Discord-AI-With-STT](https://github.com/pladisdev/Discord-AI-With-STT) | 3 |
+|[Dschogo/whisperx-webui](https://github.com/Dschogo/whisperx-webui) | 3 |
+|[OpenVoiceOS/ovos-stt-plugin-fasterwhisper](https://github.com/OpenVoiceOS/ovos-stt-plugin-fasterwhisper) | 3 |
+|[RudolfVonKrugstein/faster-whisper-life-transcribing](https://github.com/RudolfVonKrugstein/faster-whisper-life-transcribing) | 3 |
+|[Softcatala/transcribe-service](https://github.com/Softcatala/transcribe-service) | 3 |
+
+_Generated by [github-dependents-info](https://github.com/nvuillam/github-dependents-info)_
