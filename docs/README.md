@@ -73,7 +73,7 @@
 * [nuxt / movies](https://github.com/nuxt/movies):🍿 A TMDB client built with Nuxt 3
 * [huchenlei / sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor):Openpose editor for ControlNet. Full hand/face support.
 * [radix-vue / shadcn-vue](https://github.com/radix-vue/shadcn-vue):Vue port of shadcn-ui
-* [GradientSurfer / Draw2Img](https://github.com/GradientSurfer/Draw2Img):A simple web UI for interactive text-guided image to image generation, intended for any age and level of expertise.
+* [GradientSurfer / Draw2Img](https://github.com/GradientSurfer/Draw2Img):A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.
 * [Orbiter-Finance / OrbiterFE-V2](https://github.com/Orbiter-Finance/OrbiterFE-V2):
 * [amvstrm / amvstrm](https://github.com/amvstrm/amvstrm):Open source anime streaming website
 * [imsyy / home](https://github.com/imsyy/home):个人主页，我的个人主页，个人主页源码，主页模板，homepage
