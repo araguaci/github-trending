@@ -8,7 +8,7 @@
 - [2018](/2018/index.md)
 - [2017](/2017/index.md)
 - [repos](/repos/index.md)
-  - [a]
+  ## [a]
     - [adminlte-laravel](https://araguaci.github.io/github-trending/#/repos/adminlte-laravel)
     - [aidify](https://araguaci.github.io/github-trending/#/repos/aidify)
     - [airbnb-visx](https://araguaci.github.io/github-trending/#/repos/airbnb-visx)
@@ -22,7 +22,7 @@
     - [astro-windy-radix-palette](https://araguaci.github.io/github-trending/#/repos/astro-windy-radix-palette)    
     - [astro](https://araguaci.github.io/github-trending/#/repos/astro)
     - [atomiks-tippyjs](https://araguaci.github.io/github-trending/#/repos/atomiks-tippyjs)
-  - [b/c/d]
+  ## [b/c/d]
     - [blip-lavis](https://araguaci.github.io/github-trending/#/repos/blip-lavis)
     - [capture-website](https://araguaci.github.io/github-trending/#/repos/capture-website)
     - [chartjs-chart-matrix](https://araguaci.github.io/github-trending/#/repos/chartjs-chart-matrix)
@@ -39,7 +39,7 @@
     - [docsifyjs-docsify](https://araguaci.github.io/github-trending/#/repos/docsifyjs-docsify)
     - [doctrine-dbal](https://araguaci.github.io/github-trending/#/repos/doctrine-dbal)
     - [drive.code-search](https://araguaci.github.io/github-trending/#/repos/drive.code-search)
-  - [e/f/g]
+  ## [e/f/g]
     - [ecomfe-vue-echarts](https://araguaci.github.io/github-trending/#/repos/ecomfe-vue-echarts)
     - [electron-nextron](https://araguaci.github.io/github-trending/#/repos/electron-nextron)
     - [electron-router-dom](https://araguaci.github.io/github-trending/#/repos/electron-router-dom)
@@ -54,7 +54,7 @@
     - [google-neuroglancer](https://araguaci.github.io/github-trending/#/repos/google-neuroglancer)
     - [google.code-search](https://araguaci.github.io/github-trending/#/repos/google.code-search)
     - [grid-js-gridjs](https://araguaci.github.io/github-trending/#/repos/grid-js-gridjs)
-  - [h/i/l]
+  ## [h/i/l]
     - [halaxa-json-machine](https://araguaci.github.io/github-trending/#/repos/halaxa-json-machine)
     - [ics](https://araguaci.github.io/github-trending/#/repos/ics)
     - [index](https://araguaci.github.io/github-trending/#/repos/index)
@@ -73,7 +73,7 @@
     - [laravel-serializable-closure](https://araguaci.github.io/github-trending/#/repos/laravel-serializable-closure)
     - [laravel-views](https://araguaci.github.io/github-trending/#/repos/laravel-views)
     - [localforage](https://araguaci.github.io/github-trending/#/repos/localforage)
-  - [m/n/o]
+  ## [m/n/o]
     - [mdb-ui-kit](https://araguaci.github.io/github-trending/#/repos/mdb-ui-kit)
     - [mdn-browser-compat-data](https://araguaci.github.io/github-trending/#/repos/mdn-browser-compat-data)        
     - [microsoft-fast](https://araguaci.github.io/github-trending/#/repos/microsoft-fast)
@@ -88,7 +88,7 @@
     - [nostr-tools](https://araguaci.github.io/github-trending/#/repos/nostr-tools)
     - [nuxt-devtools](https://araguaci.github.io/github-trending/#/repos/nuxt-devtools)
     - [openai-dall-e](https://araguaci.github.io/github-trending/#/repos/openai-dall-e)
-  - [p/q/r]
+  ## [p/q/r]
     - [pami](https://araguaci.github.io/github-trending/#/repos/pami)
     - [pancake](https://araguaci.github.io/github-trending/#/repos/pancake)
     - [pdf-extract](https://araguaci.github.io/github-trending/#/repos/pdf-extract)
@@ -110,7 +110,7 @@
     - [reactphp](https://araguaci.github.io/github-trending/#/repos/reactphp)
     - [rectorphp](https://araguaci.github.io/github-trending/#/repos/rectorphp)
     - [rxdb](https://araguaci.github.io/github-trending/#/repos/rxdb)
-  - [s/t/u]
+  ## [s/t/u]
     - [scrapetube](https://araguaci.github.io/github-trending/#/repos/scrapetube)
     - [selecao](https://araguaci.github.io/github-trending/#/repos/selecao)
     - [sindresorhus-ky](https://araguaci.github.io/github-trending/#/repos/sindresorhus-ky)
@@ -131,7 +131,7 @@
     - [tui.calendar](https://araguaci.github.io/github-trending/#/repos/tui.calendar)
     - [unjs-nitro-10stars](https://araguaci.github.io/github-trending/#/repos/unjs-nitro-10stars)
     - [unjs-nitro](https://araguaci.github.io/github-trending/#/repos/unjs-nitro)
-  - [v/w/y]
+  ## [v/w/y]
     - [vakata-jstree](https://araguaci.github.io/github-trending/#/repos/vakata-jstree)
     - [vite-electron-builder](https://araguaci.github.io/github-trending/#/repos/vite-electron-builder)
     - [vite-plugin-pwa](https://araguaci.github.io/github-trending/#/repos/vite-plugin-pwa)
