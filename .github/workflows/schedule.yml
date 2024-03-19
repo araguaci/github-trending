@@ -32,4 +32,8 @@ jobs:
         
         git add -A
         git commit -m $(date '+%Y-%m-%d')
+<<<<<<< HEAD
         git push
+=======
+        git push
+>>>>>>> b667a175327a9e6be1b2cecf132661cc64c20b64
