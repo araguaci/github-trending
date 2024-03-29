@@ -52,7 +52,7 @@ if (isset($_GET['phpinfo'])) {
 	$handle = opendir(".");
 	$cnt = 0;
 	while ($file = readdir($handle)) {
-        $file = strtolower($file);
+        $file = $file;
 		    if (substr($file, -2)=="md") {
           echo '
   - [' . str_replace('.md', '', $file) . '](/repos/' . $file . ')';
