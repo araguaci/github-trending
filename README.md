@@ -37,3 +37,5 @@ Thus the code will run never stop
 ## License
 
 MIT
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faraguaci%2Fgithub-trending&countColor=%2337d67a)
