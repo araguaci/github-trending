@@ -676,182 +676,182 @@
 [![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=2849&color=informational&logo=slickpic)](https://github.com/airbnb/visx/network/dependents?package_id=UGFja2FnZS0xNDQzOTIxNTI1)
 [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=19546&color=informational&logo=slickpic)](https://github.com/airbnb/visx/network/dependents?package_id=UGFja2FnZS0xNDQzOTIxNTI1)
 
-| Repository | Stars  |
-| :--------  | -----: |
-|[grafana/grafana](https://github.com/grafana/grafana) | 56531 |
-|[apache/superset](https://github.com/apache/superset) | 53232 |
-|[metabase/metabase](https://github.com/metabase/metabase) | 33566 |
-|[apache/airflow](https://github.com/apache/airflow) | 31204 |
-|[airbnb/visx](https://github.com/airbnb/visx) | 17569 |
-|[NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 12768 |
-|[steven-tey/dub](https://github.com/steven-tey/dub) | 9776 |
-|[sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) | 8684 |
-|[datahub-project/datahub](https://github.com/datahub-project/datahub) | 8089 |
-|[mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) | 5282 |
-|[MystenLabs/sui](https://github.com/MystenLabs/sui) | 5159 |
-|[growthbook/growthbook](https://github.com/growthbook/growthbook) | 4795 |
-|[Uniswap/interface](https://github.com/Uniswap/interface) | 4240 |
-|[porter-dev/porter](https://github.com/porter-dev/porter) | 3862 |
-|[litmuschaos/litmus](https://github.com/litmuschaos/litmus) | 3768 |
-|[mui/mui-x](https://github.com/mui/mui-x) | 2915 |
-|[grafana/oncall](https://github.com/grafana/oncall) | 2853 |
-|[motifland/markprompt](https://github.com/motifland/markprompt) | 2049 |
-|[open-source-labs/reactime](https://github.com/open-source-labs/reactime) | 1952 |
-|[grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix) | 1940 |
-|[twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react) | 1760 |
-|[MarquezProject/marquez](https://github.com/MarquezProject/marquez) | 1390 |
-|[TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) | 1037 |
-|[opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) | 906 |
-|[tektoncd/dashboard](https://github.com/tektoncd/dashboard) | 748 |
-|[remorses/genql](https://github.com/remorses/genql) | 694 |
-|[Altinity/clickhouse-grafana](https://github.com/Altinity/clickhouse-grafana) | 664 |
-|[blockchain/blockchain-wallet-v4-frontend](https://github.com/blockchain/blockchain-wallet-v4-frontend) | 664 |
-|[centreon/centreon-archived](https://github.com/centreon/centreon-archived) | 577 |
-|[numaproj/numaflow](https://github.com/numaproj/numaflow) | 439 |
-|[sigle/sigle](https://github.com/sigle/sigle) | 386 |
-|[apotdevin/thunderhub](https://github.com/apotdevin/thunderhub) | 376 |
-|[MaximeHeckel/blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com) | 354 |
-|[sushiswap/sushiswap-interface](https://github.com/sushiswap/sushiswap-interface) | 350 |
-|[armadaproject/armada](https://github.com/armadaproject/armada) | 347 |
-|[aave/interface](https://github.com/aave/interface) | 328 |
-|[zengm-games/zengm](https://github.com/zengm-games/zengm) | 290 |
-|[TerriaJS/TerriaMap](https://github.com/TerriaJS/TerriaMap) | 253 |
-|[grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource) | 232 |
-|[andrewcooke/choochoo](https://github.com/andrewcooke/choochoo) | 230 |
-|[hystax/optscale](https://github.com/hystax/optscale) | 216 |
-|[franky47/francoisbest.com](https://github.com/franky47/francoisbest.com) | 208 |
-|[genshinsim/gcsim](https://github.com/genshinsim/gcsim) | 199 |
-|[minvws/nl-covid19-data-dashboard](https://github.com/minvws/nl-covid19-data-dashboard) | 178 |
-|[grafana/github-datasource](https://github.com/grafana/github-datasource) | 171 |
-|[osmosis-labs/osmosis-frontend](https://github.com/osmosis-labs/osmosis-frontend) | 168 |
-|[th0th/poeticmetric](https://github.com/th0th/poeticmetric) | 158 |
-|[ryantxu/ajax-panel](https://github.com/ryantxu/ajax-panel) | 146 |
-|[hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | 142 |
-|[TencentCloud/tencentcloud-monitor-grafana-app](https://github.com/TencentCloud/tencentcloud-monitor-grafana-app) | 142 |
-|[shapeshift/web](https://github.com/shapeshift/web) | 136 |
-|[grafana/strava-datasource](https://github.com/grafana/strava-datasource) | 134 |
-|[aave/aave-ui](https://github.com/aave/aave-ui) | 121 |
-|[silx-kit/h5web](https://github.com/silx-kit/h5web) | 120 |
-|[TerriaJS/nationalmap](https://github.com/TerriaJS/nationalmap) | 120 |
-|[jose-donato/race-stack](https://github.com/jose-donato/race-stack) | 119 |
-|[ShieldBattery/ShieldBattery](https://github.com/ShieldBattery/ShieldBattery) | 116 |
-|[porames/the-researcher-covid-tracker](https://github.com/porames/the-researcher-covid-tracker) | 111 |
-|[performancecopilot/grafana-pcp](https://github.com/performancecopilot/grafana-pcp) | 101 |
-|[grafana/google-sheets-datasource](https://github.com/grafana/google-sheets-datasource) | 98 |
-|[oslabs-beta/Squrl](https://github.com/oslabs-beta/Squrl) | 97 |
-|[BeanstalkFarms/Beanstalk](https://github.com/BeanstalkFarms/Beanstalk) | 95 |
-|[zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo) | 92 |
-|[ae3e/ae3e-plotly-panel](https://github.com/ae3e/ae3e-plotly-panel) | 91 |
-|[grafana/clock-panel](https://github.com/grafana/clock-panel) | 88 |
-|[sourcegraph/about](https://github.com/sourcegraph/about) | 85 |
-|[openmhz/trunk-server](https://github.com/openmhz/trunk-server) | 81 |
-|[pierosavi/pierosavi-imageit-panel](https://github.com/pierosavi/pierosavi-imageit-panel) | 80 |
-|[yesoreyeram/yesoreyeram-boomtheme-panel](https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel) | 80 |
-|[Shardeum/shardeum-missions](https://github.com/Shardeum/shardeum-missions) | 79 |
-|[Snazzah/stub](https://github.com/Snazzah/stub) | 77 |
-|[sixstars/starctf2022](https://github.com/sixstars/starctf2022) | 74 |
-|[Checkmk/grafana-checkmk-datasource](https://github.com/Checkmk/grafana-checkmk-datasource) | 73 |
-|[igorsheg/astro](https://github.com/igorsheg/astro) | 72 |
-|[trytrench/trench](https://github.com/trytrench/trench) | 71 |
-|[mattrothenberg/use-gauge](https://github.com/mattrothenberg/use-gauge) | 71 |
-|[oracle/oci-grafana-metrics](https://github.com/oracle/oci-grafana-metrics) | 70 |
-|[alexandrainst/alexandra-trackmap-panel](https://github.com/alexandrainst/alexandra-trackmap-panel) | 69 |
-|[gesinger/debug-video](https://github.com/gesinger/debug-video) | 63 |
-|[footprintanalytics/footprint-web](https://github.com/footprintanalytics/footprint-web) | 61 |
-|[jet-lab/jet-v2](https://github.com/jet-lab/jet-v2) | 61 |
-|[ft-interactive/starter-kit](https://github.com/ft-interactive/starter-kit) | 61 |
-|[grafadruid/druid-grafana](https://github.com/grafadruid/druid-grafana) | 61 |
-|[grafana/grafana-csv-datasource](https://github.com/grafana/grafana-csv-datasource) | 60 |
-|[fiberplane/fiberplane](https://github.com/fiberplane/fiberplane) | 59 |
-|[michaeldmoore/michaeldmoore-multistat-panel](https://github.com/michaeldmoore/michaeldmoore-multistat-panel) | 56 |
-|[radiasoft/sirepo](https://github.com/radiasoft/sirepo) | 55 |
-|[startreedata/thirdeye](https://github.com/startreedata/thirdeye) | 55 |
-|[taosdata/grafanaplugin](https://github.com/taosdata/grafanaplugin) | 55 |
-|[looker-open-source/components](https://github.com/looker-open-source/components) | 52 |
-|[status-im/status-web](https://github.com/status-im/status-web) | 51 |
-|[briangann/grafana-gauge-panel](https://github.com/briangann/grafana-gauge-panel) | 51 |
-|[silx-kit/jupyterlab-h5web](https://github.com/silx-kit/jupyterlab-h5web) | 50 |
-|[geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel) | 50 |
-|[sushiswap/sushiswap-analytics](https://github.com/sushiswap/sushiswap-analytics) | 50 |
-|[centreon/centreon](https://github.com/centreon/centreon) | 44 |
-|[VictoriaMetrics/grafana-datasource](https://github.com/VictoriaMetrics/grafana-datasource) | 43 |
-|[oslabs-beta/deValtio](https://github.com/oslabs-beta/deValtio) | 43 |
-|[chanzuckerberg/single-cell-data-portal](https://github.com/chanzuckerberg/single-cell-data-portal) | 42 |
-|[Matico-Platform/matico](https://github.com/Matico-Platform/matico) | 42 |
-|[oslabs-beta/atomic](https://github.com/oslabs-beta/atomic) | 42 |
-|[grafana/azure-data-explorer-datasource](https://github.com/grafana/azure-data-explorer-datasource) | 38 |
-|[blahaj-app/blahaj-app](https://github.com/blahaj-app/blahaj-app) | 33 |
-|[grafana/grafana-treemap-panel](https://github.com/grafana/grafana-treemap-panel) | 32 |
-|[riftdweb/rift](https://github.com/riftdweb/rift) | 32 |
-|[canada-ca/tracker](https://github.com/canada-ca/tracker) | 31 |
-|[sigle/stxstats](https://github.com/sigle/stxstats) | 30 |
-|[remoteit/desktop](https://github.com/remoteit/desktop) | 30 |
-|[AKASHAorg/akasha-core](https://github.com/AKASHAorg/akasha-core) | 29 |
-|[marcusolsson/grafana-hourly-heatmap-panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel) | 29 |
-|[grafana/x-ray-datasource](https://github.com/grafana/x-ray-datasource) | 28 |
-|[sni/grafana-pnp-datasource](https://github.com/sni/grafana-pnp-datasource) | 28 |
-|[vnglst/koenvangilst.nl](https://github.com/vnglst/koenvangilst.nl) | 27 |
-|[visualize-admin/visualization-tool](https://github.com/visualize-admin/visualization-tool) | 26 |
-|[argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) | 26 |
-|[PoeStack/poestack-next](https://github.com/PoeStack/poestack-next) | 25 |
-|[miotech/kun-scheduler](https://github.com/miotech/kun-scheduler) | 25 |
-|[OpenNMS/grafana-plugin](https://github.com/OpenNMS/grafana-plugin) | 24 |
-|[robocorp/robo](https://github.com/robocorp/robo) | 23 |
-|[Fgerthoffert/jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity) | 23 |
-|[CDCgov/cdc-open-viz](https://github.com/CDCgov/cdc-open-viz) | 22 |
-|[grumd/osu-pps](https://github.com/grumd/osu-pps) | 22 |
-|[looker-open-source/extension-examples](https://github.com/looker-open-source/extension-examples) | 22 |
-|[LucasArona/larona-epict-panel](https://github.com/LucasArona/larona-epict-panel) | 22 |
-|[Janpot/mui-plus](https://github.com/Janpot/mui-plus) | 22 |
-|[simimpact/srsim](https://github.com/simimpact/srsim) | 21 |
-|[lies-exposed/lies.exposed](https://github.com/lies-exposed/lies.exposed) | 21 |
-|[grafana/timestream-datasource](https://github.com/grafana/timestream-datasource) | 21 |
-|[marcusolsson/grafana-gantt-panel](https://github.com/marcusolsson/grafana-gantt-panel) | 21 |
-|[LabRitz/roomier](https://github.com/LabRitz/roomier) | 20 |
-|[humanmade/aws-analytics](https://github.com/humanmade/aws-analytics) | 20 |
-|[GlobalNOC/globalnoc-worldview-panel](https://github.com/GlobalNOC/globalnoc-worldview-panel) | 20 |
-|[silx-kit/vscode-h5web](https://github.com/silx-kit/vscode-h5web) | 19 |
-|[credativ/plutono](https://github.com/credativ/plutono) | 19 |
-|[kyh/tc](https://github.com/kyh/tc) | 18 |
-|[neu-se/covey.town](https://github.com/neu-se/covey.town) | 18 |
-|[marcusolsson/grafana-hexmap-panel](https://github.com/marcusolsson/grafana-hexmap-panel) | 18 |
-|[AlexCheema/eth-tokyo-23](https://github.com/AlexCheema/eth-tokyo-23) | 17 |
-|[fluidity-money/fluidity-app](https://github.com/fluidity-money/fluidity-app) | 17 |
-|[pixie-io/grafana-plugin](https://github.com/pixie-io/grafana-plugin) | 17 |
-|[SoulSwapFinance/soul-interface](https://github.com/SoulSwapFinance/soul-interface) | 17 |
-|[dynatrace-extensions/dynatrace-extensions-vscode](https://github.com/dynatrace-extensions/dynatrace-extensions-vscode) | 16 |
-|[casweeney/Uniswap-ALL-IN-ONE](https://github.com/casweeney/Uniswap-ALL-IN-ONE) | 16 |
-|[toptal126/Sushswap-forked](https://github.com/toptal126/Sushswap-forked) | 16 |
-|[Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel) | 16 |
-|[SD11892/Uniswap](https://github.com/SD11892/Uniswap) | 15 |
-|[raulsperoni/magnesium-wordcloud-panel](https://github.com/raulsperoni/magnesium-wordcloud-panel) | 15 |
-|[grafana/opensearch-datasource](https://github.com/grafana/opensearch-datasource) | 15 |
-|[acryldata/datahub](https://github.com/acryldata/datahub) | 15 |
-|[starman1121/AAVE_Protocol](https://github.com/starman1121/AAVE_Protocol) | 15 |
-|[motor-js/motor-ui](https://github.com/motor-js/motor-ui) | 15 |
-|[wilkerlucio/pathom3-docs](https://github.com/wilkerlucio/pathom3-docs) | 15 |
-|[elliothershberg/interactive-mutation-browser](https://github.com/elliothershberg/interactive-mutation-browser) | 14 |
-|[iron-fish/node-app](https://github.com/iron-fish/node-app) | 14 |
-|[mattmontgomery/formguide](https://github.com/mattmontgomery/formguide) | 14 |
-|[Groww/webster](https://github.com/Groww/webster) | 14 |
-|[grafana/sentry-datasource](https://github.com/grafana/sentry-datasource) | 14 |
-|[grafana/iot-sitewise-datasource](https://github.com/grafana/iot-sitewise-datasource) | 14 |
-|[gregszalay/ocpp-csms](https://github.com/gregszalay/ocpp-csms) | 13 |
-|[blockchain/constellation](https://github.com/blockchain/constellation) | 13 |
-|[USEPA/mywaterway](https://github.com/USEPA/mywaterway) | 13 |
-|[cognitedata/cognite-grafana-datasource](https://github.com/cognitedata/cognite-grafana-datasource) | 13 |
-|[nanyaDev/statkani](https://github.com/nanyaDev/statkani) | 13 |
-|[autometrics-dev/vscode-autometrics](https://github.com/autometrics-dev/vscode-autometrics) | 12 |
-|[preset-io/superset](https://github.com/preset-io/superset) | 12 |
-|[HappyDream0317/uniswap-interface-customized](https://github.com/HappyDream0317/uniswap-interface-customized) | 12 |
-|[MetricsDAO/xyz](https://github.com/MetricsDAO/xyz) | 12 |
-|[aws-samples/amazon-ivs-ugc-platform-web-demo](https://github.com/aws-samples/amazon-ivs-ugc-platform-web-demo) | 11 |
-|[hubmapconsortium/portal-ui](https://github.com/hubmapconsortium/portal-ui) | 11 |
-|[ycryptx/zk-state-channel](https://github.com/ycryptx/zk-state-channel) | 10 |
-|[iron-fish/block-explorer](https://github.com/iron-fish/block-explorer) | 10 |
-|[oliverbutler/finance](https://github.com/oliverbutler/finance) | 10 |
-|[mtanda/grafana-sumologic-datasource](https://github.com/mtanda/grafana-sumologic-datasource) | 10 |
-|[naturalsolutions/ecoteka](https://github.com/naturalsolutions/ecoteka) | 10 |
+| Repository                                                                                                              | Stars |
+| :---------------------------------------------------------------------------------------------------------------------- | ----: |
+| [grafana/grafana](https://github.com/grafana/grafana)                                                                   | 56531 |
+| [apache/superset](https://github.com/apache/superset)                                                                   | 53232 |
+| [metabase/metabase](https://github.com/metabase/metabase)                                                               | 33566 |
+| [apache/airflow](https://github.com/apache/airflow)                                                                     | 31204 |
+| [airbnb/visx](https://github.com/airbnb/visx)                                                                           | 17569 |
+| [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)                                                                       | 12768 |
+| [steven-tey/dub](https://github.com/steven-tey/dub)                                                                     |  9776 |
+| [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)                                                   |  8684 |
+| [datahub-project/datahub](https://github.com/datahub-project/datahub)                                                   |  8089 |
+| [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)                                                                   |  5282 |
+| [MystenLabs/sui](https://github.com/MystenLabs/sui)                                                                     |  5159 |
+| [growthbook/growthbook](https://github.com/growthbook/growthbook)                                                       |  4795 |
+| [Uniswap/interface](https://github.com/Uniswap/interface)                                                               |  4240 |
+| [porter-dev/porter](https://github.com/porter-dev/porter)                                                               |  3862 |
+| [litmuschaos/litmus](https://github.com/litmuschaos/litmus)                                                             |  3768 |
+| [mui/mui-x](https://github.com/mui/mui-x)                                                                               |  2915 |
+| [grafana/oncall](https://github.com/grafana/oncall)                                                                     |  2853 |
+| [motifland/markprompt](https://github.com/motifland/markprompt)                                                         |  2049 |
+| [open-source-labs/reactime](https://github.com/open-source-labs/reactime)                                               |  1952 |
+| [grafana/grafana-zabbix](https://github.com/grafana/grafana-zabbix)                                                     |  1940 |
+| [twilio/twilio-video-app-react](https://github.com/twilio/twilio-video-app-react)                                       |  1760 |
+| [MarquezProject/marquez](https://github.com/MarquezProject/marquez)                                                     |  1390 |
+| [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs)                                                               |  1037 |
+| [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform)                                     |   906 |
+| [tektoncd/dashboard](https://github.com/tektoncd/dashboard)                                                             |   748 |
+| [remorses/genql](https://github.com/remorses/genql)                                                                     |   694 |
+| [Altinity/clickhouse-grafana](https://github.com/Altinity/clickhouse-grafana)                                           |   664 |
+| [blockchain/blockchain-wallet-v4-frontend](https://github.com/blockchain/blockchain-wallet-v4-frontend)                 |   664 |
+| [centreon/centreon-archived](https://github.com/centreon/centreon-archived)                                             |   577 |
+| [numaproj/numaflow](https://github.com/numaproj/numaflow)                                                               |   439 |
+| [sigle/sigle](https://github.com/sigle/sigle)                                                                           |   386 |
+| [apotdevin/thunderhub](https://github.com/apotdevin/thunderhub)                                                         |   376 |
+| [MaximeHeckel/blog.maximeheckel.com](https://github.com/MaximeHeckel/blog.maximeheckel.com)                             |   354 |
+| [sushiswap/sushiswap-interface](https://github.com/sushiswap/sushiswap-interface)                                       |   350 |
+| [armadaproject/armada](https://github.com/armadaproject/armada)                                                         |   347 |
+| [aave/interface](https://github.com/aave/interface)                                                                     |   328 |
+| [zengm-games/zengm](https://github.com/zengm-games/zengm)                                                               |   290 |
+| [TerriaJS/TerriaMap](https://github.com/TerriaJS/TerriaMap)                                                             |   253 |
+| [grafana/grafana-json-datasource](https://github.com/grafana/grafana-json-datasource)                                   |   232 |
+| [andrewcooke/choochoo](https://github.com/andrewcooke/choochoo)                                                         |   230 |
+| [hystax/optscale](https://github.com/hystax/optscale)                                                                   |   216 |
+| [franky47/francoisbest.com](https://github.com/franky47/francoisbest.com)                                               |   208 |
+| [genshinsim/gcsim](https://github.com/genshinsim/gcsim)                                                                 |   199 |
+| [minvws/nl-covid19-data-dashboard](https://github.com/minvws/nl-covid19-data-dashboard)                                 |   178 |
+| [grafana/github-datasource](https://github.com/grafana/github-datasource)                                               |   171 |
+| [osmosis-labs/osmosis-frontend](https://github.com/osmosis-labs/osmosis-frontend)                                       |   168 |
+| [th0th/poeticmetric](https://github.com/th0th/poeticmetric)                                                             |   158 |
+| [ryantxu/ajax-panel](https://github.com/ryantxu/ajax-panel)                                                             |   146 |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)                                                           |   142 |
+| [TencentCloud/tencentcloud-monitor-grafana-app](https://github.com/TencentCloud/tencentcloud-monitor-grafana-app)       |   142 |
+| [shapeshift/web](https://github.com/shapeshift/web)                                                                     |   136 |
+| [grafana/strava-datasource](https://github.com/grafana/strava-datasource)                                               |   134 |
+| [aave/aave-ui](https://github.com/aave/aave-ui)                                                                         |   121 |
+| [silx-kit/h5web](https://github.com/silx-kit/h5web)                                                                     |   120 |
+| [TerriaJS/nationalmap](https://github.com/TerriaJS/nationalmap)                                                         |   120 |
+| [jose-donato/race-stack](https://github.com/jose-donato/race-stack)                                                     |   119 |
+| [ShieldBattery/ShieldBattery](https://github.com/ShieldBattery/ShieldBattery)                                           |   116 |
+| [porames/the-researcher-covid-tracker](https://github.com/porames/the-researcher-covid-tracker)                         |   111 |
+| [performancecopilot/grafana-pcp](https://github.com/performancecopilot/grafana-pcp)                                     |   101 |
+| [grafana/google-sheets-datasource](https://github.com/grafana/google-sheets-datasource)                                 |    98 |
+| [oslabs-beta/Squrl](https://github.com/oslabs-beta/Squrl)                                                               |    97 |
+| [BeanstalkFarms/Beanstalk](https://github.com/BeanstalkFarms/Beanstalk)                                                 |    95 |
+| [zooniverse/front-end-monorepo](https://github.com/zooniverse/front-end-monorepo)                                       |    92 |
+| [ae3e/ae3e-plotly-panel](https://github.com/ae3e/ae3e-plotly-panel)                                                     |    91 |
+| [grafana/clock-panel](https://github.com/grafana/clock-panel)                                                           |    88 |
+| [sourcegraph/about](https://github.com/sourcegraph/about)                                                               |    85 |
+| [openmhz/trunk-server](https://github.com/openmhz/trunk-server)                                                         |    81 |
+| [pierosavi/pierosavi-imageit-panel](https://github.com/pierosavi/pierosavi-imageit-panel)                               |    80 |
+| [yesoreyeram/yesoreyeram-boomtheme-panel](https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel)                   |    80 |
+| [Shardeum/shardeum-missions](https://github.com/Shardeum/shardeum-missions)                                             |    79 |
+| [Snazzah/stub](https://github.com/Snazzah/stub)                                                                         |    77 |
+| [sixstars/starctf2022](https://github.com/sixstars/starctf2022)                                                         |    74 |
+| [Checkmk/grafana-checkmk-datasource](https://github.com/Checkmk/grafana-checkmk-datasource)                             |    73 |
+| [igorsheg/astro](https://github.com/igorsheg/astro)                                                                     |    72 |
+| [trytrench/trench](https://github.com/trytrench/trench)                                                                 |    71 |
+| [mattrothenberg/use-gauge](https://github.com/mattrothenberg/use-gauge)                                                 |    71 |
+| [oracle/oci-grafana-metrics](https://github.com/oracle/oci-grafana-metrics)                                             |    70 |
+| [alexandrainst/alexandra-trackmap-panel](https://github.com/alexandrainst/alexandra-trackmap-panel)                     |    69 |
+| [gesinger/debug-video](https://github.com/gesinger/debug-video)                                                         |    63 |
+| [footprintanalytics/footprint-web](https://github.com/footprintanalytics/footprint-web)                                 |    61 |
+| [jet-lab/jet-v2](https://github.com/jet-lab/jet-v2)                                                                     |    61 |
+| [ft-interactive/starter-kit](https://github.com/ft-interactive/starter-kit)                                             |    61 |
+| [grafadruid/druid-grafana](https://github.com/grafadruid/druid-grafana)                                                 |    61 |
+| [grafana/grafana-csv-datasource](https://github.com/grafana/grafana-csv-datasource)                                     |    60 |
+| [fiberplane/fiberplane](https://github.com/fiberplane/fiberplane)                                                       |    59 |
+| [michaeldmoore/michaeldmoore-multistat-panel](https://github.com/michaeldmoore/michaeldmoore-multistat-panel)           |    56 |
+| [radiasoft/sirepo](https://github.com/radiasoft/sirepo)                                                                 |    55 |
+| [startreedata/thirdeye](https://github.com/startreedata/thirdeye)                                                       |    55 |
+| [taosdata/grafanaplugin](https://github.com/taosdata/grafanaplugin)                                                     |    55 |
+| [looker-open-source/components](https://github.com/looker-open-source/components)                                       |    52 |
+| [status-im/status-web](https://github.com/status-im/status-web)                                                         |    51 |
+| [briangann/grafana-gauge-panel](https://github.com/briangann/grafana-gauge-panel)                                       |    51 |
+| [silx-kit/jupyterlab-h5web](https://github.com/silx-kit/jupyterlab-h5web)                                               |    50 |
+| [geeks-r-us/mqtt-panel](https://github.com/geeks-r-us/mqtt-panel)                                                       |    50 |
+| [sushiswap/sushiswap-analytics](https://github.com/sushiswap/sushiswap-analytics)                                       |    50 |
+| [centreon/centreon](https://github.com/centreon/centreon)                                                               |    44 |
+| [VictoriaMetrics/grafana-datasource](https://github.com/VictoriaMetrics/grafana-datasource)                             |    43 |
+| [oslabs-beta/deValtio](https://github.com/oslabs-beta/deValtio)                                                         |    43 |
+| [chanzuckerberg/single-cell-data-portal](https://github.com/chanzuckerberg/single-cell-data-portal)                     |    42 |
+| [Matico-Platform/matico](https://github.com/Matico-Platform/matico)                                                     |    42 |
+| [oslabs-beta/atomic](https://github.com/oslabs-beta/atomic)                                                             |    42 |
+| [grafana/azure-data-explorer-datasource](https://github.com/grafana/azure-data-explorer-datasource)                     |    38 |
+| [blahaj-app/blahaj-app](https://github.com/blahaj-app/blahaj-app)                                                       |    33 |
+| [grafana/grafana-treemap-panel](https://github.com/grafana/grafana-treemap-panel)                                       |    32 |
+| [riftdweb/rift](https://github.com/riftdweb/rift)                                                                       |    32 |
+| [canada-ca/tracker](https://github.com/canada-ca/tracker)                                                               |    31 |
+| [sigle/stxstats](https://github.com/sigle/stxstats)                                                                     |    30 |
+| [remoteit/desktop](https://github.com/remoteit/desktop)                                                                 |    30 |
+| [AKASHAorg/akasha-core](https://github.com/AKASHAorg/akasha-core)                                                       |    29 |
+| [marcusolsson/grafana-hourly-heatmap-panel](https://github.com/marcusolsson/grafana-hourly-heatmap-panel)               |    29 |
+| [grafana/x-ray-datasource](https://github.com/grafana/x-ray-datasource)                                                 |    28 |
+| [sni/grafana-pnp-datasource](https://github.com/sni/grafana-pnp-datasource)                                             |    28 |
+| [vnglst/koenvangilst.nl](https://github.com/vnglst/koenvangilst.nl)                                                     |    27 |
+| [visualize-admin/visualization-tool](https://github.com/visualize-admin/visualization-tool)                             |    26 |
+| [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics)                     |    26 |
+| [PoeStack/poestack-next](https://github.com/PoeStack/poestack-next)                                                     |    25 |
+| [miotech/kun-scheduler](https://github.com/miotech/kun-scheduler)                                                       |    25 |
+| [OpenNMS/grafana-plugin](https://github.com/OpenNMS/grafana-plugin)                                                     |    24 |
+| [robocorp/robo](https://github.com/robocorp/robo)                                                                       |    23 |
+| [Fgerthoffert/jira-agile-velocity](https://github.com/Fgerthoffert/jira-agile-velocity)                                 |    23 |
+| [CDCgov/cdc-open-viz](https://github.com/CDCgov/cdc-open-viz)                                                           |    22 |
+| [grumd/osu-pps](https://github.com/grumd/osu-pps)                                                                       |    22 |
+| [looker-open-source/extension-examples](https://github.com/looker-open-source/extension-examples)                       |    22 |
+| [LucasArona/larona-epict-panel](https://github.com/LucasArona/larona-epict-panel)                                       |    22 |
+| [Janpot/mui-plus](https://github.com/Janpot/mui-plus)                                                                   |    22 |
+| [simimpact/srsim](https://github.com/simimpact/srsim)                                                                   |    21 |
+| [lies-exposed/lies.exposed](https://github.com/lies-exposed/lies.exposed)                                               |    21 |
+| [grafana/timestream-datasource](https://github.com/grafana/timestream-datasource)                                       |    21 |
+| [marcusolsson/grafana-gantt-panel](https://github.com/marcusolsson/grafana-gantt-panel)                                 |    21 |
+| [LabRitz/roomier](https://github.com/LabRitz/roomier)                                                                   |    20 |
+| [humanmade/aws-analytics](https://github.com/humanmade/aws-analytics)                                                   |    20 |
+| [GlobalNOC/globalnoc-worldview-panel](https://github.com/GlobalNOC/globalnoc-worldview-panel)                           |    20 |
+| [silx-kit/vscode-h5web](https://github.com/silx-kit/vscode-h5web)                                                       |    19 |
+| [credativ/plutono](https://github.com/credativ/plutono)                                                                 |    19 |
+| [kyh/tc](https://github.com/kyh/tc)                                                                                     |    18 |
+| [neu-se/covey.town](https://github.com/neu-se/covey.town)                                                               |    18 |
+| [marcusolsson/grafana-hexmap-panel](https://github.com/marcusolsson/grafana-hexmap-panel)                               |    18 |
+| [AlexCheema/eth-tokyo-23](https://github.com/AlexCheema/eth-tokyo-23)                                                   |    17 |
+| [fluidity-money/fluidity-app](https://github.com/fluidity-money/fluidity-app)                                           |    17 |
+| [pixie-io/grafana-plugin](https://github.com/pixie-io/grafana-plugin)                                                   |    17 |
+| [SoulSwapFinance/soul-interface](https://github.com/SoulSwapFinance/soul-interface)                                     |    17 |
+| [dynatrace-extensions/dynatrace-extensions-vscode](https://github.com/dynatrace-extensions/dynatrace-extensions-vscode) |    16 |
+| [casweeney/Uniswap-ALL-IN-ONE](https://github.com/casweeney/Uniswap-ALL-IN-ONE)                                         |    16 |
+| [toptal126/Sushswap-forked](https://github.com/toptal126/Sushswap-forked)                                               |    16 |
+| [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)                                           |    16 |
+| [SD11892/Uniswap](https://github.com/SD11892/Uniswap)                                                                   |    15 |
+| [raulsperoni/magnesium-wordcloud-panel](https://github.com/raulsperoni/magnesium-wordcloud-panel)                       |    15 |
+| [grafana/opensearch-datasource](https://github.com/grafana/opensearch-datasource)                                       |    15 |
+| [acryldata/datahub](https://github.com/acryldata/datahub)                                                               |    15 |
+| [starman1121/AAVE_Protocol](https://github.com/starman1121/AAVE_Protocol)                                               |    15 |
+| [motor-js/motor-ui](https://github.com/motor-js/motor-ui)                                                               |    15 |
+| [wilkerlucio/pathom3-docs](https://github.com/wilkerlucio/pathom3-docs)                                                 |    15 |
+| [elliothershberg/interactive-mutation-browser](https://github.com/elliothershberg/interactive-mutation-browser)         |    14 |
+| [iron-fish/node-app](https://github.com/iron-fish/node-app)                                                             |    14 |
+| [mattmontgomery/formguide](https://github.com/mattmontgomery/formguide)                                                 |    14 |
+| [Groww/webster](https://github.com/Groww/webster)                                                                       |    14 |
+| [grafana/sentry-datasource](https://github.com/grafana/sentry-datasource)                                               |    14 |
+| [grafana/iot-sitewise-datasource](https://github.com/grafana/iot-sitewise-datasource)                                   |    14 |
+| [gregszalay/ocpp-csms](https://github.com/gregszalay/ocpp-csms)                                                         |    13 |
+| [blockchain/constellation](https://github.com/blockchain/constellation)                                                 |    13 |
+| [USEPA/mywaterway](https://github.com/USEPA/mywaterway)                                                                 |    13 |
+| [cognitedata/cognite-grafana-datasource](https://github.com/cognitedata/cognite-grafana-datasource)                     |    13 |
+| [nanyaDev/statkani](https://github.com/nanyaDev/statkani)                                                               |    13 |
+| [autometrics-dev/vscode-autometrics](https://github.com/autometrics-dev/vscode-autometrics)                             |    12 |
+| [preset-io/superset](https://github.com/preset-io/superset)                                                             |    12 |
+| [HappyDream0317/uniswap-interface-customized](https://github.com/HappyDream0317/uniswap-interface-customized)           |    12 |
+| [MetricsDAO/xyz](https://github.com/MetricsDAO/xyz)                                                                     |    12 |
+| [aws-samples/amazon-ivs-ugc-platform-web-demo](https://github.com/aws-samples/amazon-ivs-ugc-platform-web-demo)         |    11 |
+| [hubmapconsortium/portal-ui](https://github.com/hubmapconsortium/portal-ui)                                             |    11 |
+| [ycryptx/zk-state-channel](https://github.com/ycryptx/zk-state-channel)                                                 |    10 |
+| [iron-fish/block-explorer](https://github.com/iron-fish/block-explorer)                                                 |    10 |
+| [oliverbutler/finance](https://github.com/oliverbutler/finance)                                                         |    10 |
+| [mtanda/grafana-sumologic-datasource](https://github.com/mtanda/grafana-sumologic-datasource)                           |    10 |
+| [naturalsolutions/ecoteka](https://github.com/naturalsolutions/ecoteka)                                                 |    10 |
 
 ## Package @visx/text
 
