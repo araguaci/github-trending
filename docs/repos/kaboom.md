@@ -37,7 +37,7 @@
 |[DevBubba/Dark-Tower](https://github.com/DevBubba/Dark-Tower) | 12 |
 |[aryangarg08/Hacktoberfest_2022_Web_Dev_Projects](https://github.com/aryangarg08/Hacktoberfest_2022_Web_Dev_Projects) | 12 |
 |[replit/kaboomware](https://github.com/replit/kaboomware) | 9 |
-|[buneeIsSlo/Space-Ranger](https://github.com/buneeIsSlo/Space-Ranger) | 9 |
+|[buneeIsSlo/Space-Ranger](https://github.com/buneeIsSlo/Space-Ranger) | **COOL** 9 | 
 |[lajbel/mandarina](https://github.com/lajbel/mandarina) | 8 |
 |[JohnsonHuang555/maore](https://github.com/JohnsonHuang555/maore) | 8 |
 |[stmn/ascii-map-editor](https://github.com/stmn/ascii-map-editor) | 7 |
