@@ -1,6 +1,6 @@
-# Dependents stats for saas-ui/theme
+# Dependents stats for tauri-apps/plugin-autostart
 
-## Package saas-ui/theme
+## Package tauri-apps/plugin-autostart
 
 No dependent repositories
 
