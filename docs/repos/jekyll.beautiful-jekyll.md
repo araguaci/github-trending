@@ -1,25 +1,30 @@
 # Dependents stats for daattali/beautiful-jekyll
 
-[![](https://img.shields.io/static/v1?label=Used%20by&message=1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by&message=6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
 [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents)
 
 | Package    | Total  | Public | Private | Stars |
 | :--------  | -----: | -----: | -----:  | ----: |
-| [beautiful-jekyll-theme](#package-beautiful-jekyll-theme)    | [![](https://img.shields.io/static/v1?label=Used%20by&message=1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)  | [![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1) | [![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1) | [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1) |
+| [beautiful-jekyll-theme](#package-beautiful-jekyll-theme)    | [![](https://img.shields.io/static/v1?label=Used%20by&message=6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)  | [![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1) | [![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1) | [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1) |
 | [github.com/daattali/beautiful-jekyll](#package-github.comdaattalibeautiful-jekyll)    | [![](https://img.shields.io/static/v1?label=Used%20by&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00MzA1NTM3Nzc0)  | [![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00MzA1NTM3Nzc0) | [![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00MzA1NTM3Nzc0) | [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00MzA1NTM3Nzc0) |
 
 ## Package beautiful-jekyll-theme
 
-[![](https://img.shields.io/static/v1?label=Used%20by&message=1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-1&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
+[![](https://img.shields.io/static/v1?label=Used%20by&message=6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-6&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
 [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/daattali/beautiful-jekyll/network/dependents?package_id=UGFja2FnZS00NzE3NjA1)
 
 | Repository | Stars  |
 | :--------  | -----: |
 |[shageman/cbra.info](https://github.com/shageman/cbra.info) | 18 |
+|[ThiagoLira/CartasGPT](https://github.com/ThiagoLira/CartasGPT) | 6 |
+|[sts10/sts10.github.io](https://github.com/sts10/sts10.github.io) | 3 |
+|[HappyCerberus/happycerberus.github.io](https://github.com/HappyCerberus/happycerberus.github.io) | 3 |
+|[Ao-Collaboration/Ao-Collaboration.github.io](https://github.com/Ao-Collaboration/Ao-Collaboration.github.io) | 3 |
+|[TheRoboticsClub/colab-gsoc2020-Sakshay_Mahna](https://github.com/TheRoboticsClub/colab-gsoc2020-Sakshay_Mahna) | 3 |
 
 ## Package github.com/daattali/beautiful-jekyll
 
