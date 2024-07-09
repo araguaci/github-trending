@@ -1,23 +1,43 @@
 # Dependents stats for LeCoupa/vuetimeline
 
-## Package LeCoupa/vuetimeline
+[![](https://img.shields.io/static/v1?label=Used%20by&message=16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=13&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
 
-[![](https://img.shields.io/static/v1?label=Used%20by&message=10&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=10&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-10&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
-[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents)
+| Package    | Total  | Public | Private | Stars |
+| :--------  | -----: | -----: | -----:  | ----: |
+| [@growthbunker/vuetimeline](#package-growthbunkervuetimeline)    | [![](https://img.shields.io/static/v1?label=Used%20by&message=16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D)  | [![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D) | [![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D) | [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=13&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D) |
+| [github.com/growthbunker/vuetimeline](#package-github.comgrowthbunkervuetimeline)    | [![](https://img.shields.io/static/v1?label=Used%20by&message=0&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS00OTA4ODU5MjU3)  | [![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=0&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS00OTA4ODU5MjU3) | [![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=0&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS00OTA4ODU5MjU3) | [![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS00OTA4ODU5MjU3) |
+
+## Package @growthbunker/vuetimeline
+
+[![](https://img.shields.io/static/v1?label=Used%20by&message=16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=-16&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D)
+[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=13&color=informational&logo=slickpic)](https://github.com/LeCoupa/vuetimeline/network/dependents?package_id=UGFja2FnZS03MDI3MzU2NTc%3D)
 
 | Repository | Stars  |
 | :--------  | -----: |
-|[hbollon/portfolio-vuejs](https://github.com/hbollon/portfolio-vuejs) | 122 |
-|[romancm/gamebrary](https://github.com/romancm/gamebrary) | 76 |
-|[DeltaPrimeLabs/deltaprime-primeloans](https://github.com/DeltaPrimeLabs/deltaprime-primeloans) | 22 |
-|[Myhare/Blog](https://github.com/Myhare/Blog) | 17 |
+|[hbollon/portfolio-vuejs](https://github.com/hbollon/portfolio-vuejs) | 124 |
+|[romancm/gamebrary](https://github.com/romancm/gamebrary) | 77 |
+|[DeltaPrimeLabs/deltaprime-primeloans](https://github.com/DeltaPrimeLabs/deltaprime-primeloans) | 24 |
+|[Myhare/Blog](https://github.com/Myhare/Blog) | 19 |
 |[SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui) | 15 |
 |[viryl15/vuejs-portfolio](https://github.com/viryl15/vuejs-portfolio) | 13 |
 |[dtphi/gp_phucuong](https://github.com/dtphi/gp_phucuong) | 8 |
 |[jakub-wojciechowski/osmosis](https://github.com/jakub-wojciechowski/osmosis) | 8 |
 |[DRC-COVID19/stopcoronavirus.cd](https://github.com/DRC-COVID19/stopcoronavirus.cd) | 7 |
 |[ava-loan/avaloan](https://github.com/ava-loan/avaloan) | 7 |
+|[jamesdordoy/Portfolio](https://github.com/jamesdordoy/Portfolio) | 6 |
+|[TigselemaAlex/portfolio-vuejs](https://github.com/TigselemaAlex/portfolio-vuejs) | 4 |
+|[arminv/Personal-Website](https://github.com/arminv/Personal-Website) | 4 |
+|[aditya-singh9/v1](https://github.com/aditya-singh9/v1) | 3 |
+|[dmtan90/Farmery](https://github.com/dmtan90/Farmery) | 3 |
+|[paulb896/product-application](https://github.com/paulb896/product-application) | 3 |
+
+## Package github.com/growthbunker/vuetimeline
+
+No dependent repositories
 
 _Generated by [github-dependents-info](https://github.com/nvuillam/github-dependents-info)_
