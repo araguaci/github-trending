@@ -40,7 +40,9 @@ def scrape(language, filename):
     
     d = pq(r.content)
     items = d('div.Box article.Box-row')
-    print(items)
+    
+    if language=="":
+        print(items)
 
     # codecs to solve the problem utf-8 codec like chinese
     with codecs.open(filename, "a", "utf-8") as f:
