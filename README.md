@@ -15,6 +15,10 @@ You need install `pyquery` & `requests`
   $ python scraper.py
 ```
 
+## Typescript
+
+- [github-trending](https://github.com/lxfriday/github-trending)
+
 ## Advance
 
 A better place to use the script is in VPS
