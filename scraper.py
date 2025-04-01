@@ -62,11 +62,15 @@ def job():
     createMarkdown(strdate, filename)
 
     # write markdown
+    scrape('', filename)
     scrape('c#', filename)
+    scrape('c++', filename)
     scrape('go', filename)
+    scrape('html', filename)
     scrape('javascript', filename)
     scrape('php', filename)
-    #scrape('ruby', filename)
+    scrape('markdown', filename)
+    #toscrape('ruby', filename)
     scrape('rust', filename)
     scrape('swift', filename)
     scrape('vue', filename)
