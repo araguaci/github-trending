@@ -43,8 +43,8 @@ def scrape(language, filename):
     items = d('div.Box article.Box-row')
     
     if language=="":
-        print(items)
-        markdown = html2markdown.convert(items)
+        #print(items)
+        markdown = html2markdown.convert(r.content)
         with open("trending.md", "w", encoding="utf-8") as file:
             file.write(markdown)
 
