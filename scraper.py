@@ -66,7 +66,7 @@ def job():
     scrape('go', filename)
     scrape('javascript', filename)
     scrape('php', filename)
-    scrape('ruby', filename)
+    #scrape('ruby', filename)
     scrape('rust', filename)
     scrape('swift', filename)
     scrape('vue', filename)
