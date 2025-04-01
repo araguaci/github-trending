@@ -5,6 +5,7 @@ import codecs
 import requests
 import os
 import time
+import html2markdown
 from pyquery import PyQuery as pq
 
 
@@ -43,6 +44,9 @@ def scrape(language, filename):
     
     if language=="":
         print(items)
+        markdown = html2markdown.convert(items)
+        with open("trending.md", "w", encoding="utf-8") as file:
+            file.write(markdown)
 
     # codecs to solve the problem utf-8 codec like chinese
     with codecs.open(filename, "a", "utf-8") as f:
