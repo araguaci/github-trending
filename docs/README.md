@@ -139,3 +139,98 @@
 * [twigphp / Twig](https://github.com/twigphp/Twig):Twig, the flexible, fast, and secure template language for PHP
 * [vimeo / psalm](https://github.com/vimeo/psalm):A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 * [pelican-dev / panel](https://github.com/pelican-dev/panel):
+
+#### rust
+* [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk):An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+* [supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server):A Language Server for Postgres
+* [medialab / xan](https://github.com/medialab/xan):The CSV magician
+* [biomejs / biome](https://github.com/biomejs/biome):A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+* [astral-sh / uv](https://github.com/astral-sh/uv):An extremely fast Python package and project manager, written in Rust.
+* [nushell / nushell](https://github.com/nushell/nushell):A new type of shell
+* [jtroo / kanata](https://github.com/jtroo/kanata):Improve keyboard comfort and usability with advanced customization
+* [tw93 / Pake](https://github.com/tw93/Pake):🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+* [solana-foundation / anchor](https://github.com/solana-foundation/anchor):⚓ Solana Sealevel Framework
+* [leptos-rs / leptos](https://github.com/leptos-rs/leptos):Build fast web applications with Rust.
+* [tursodatabase / limbo](https://github.com/tursodatabase/limbo):Limbo is a project to build the modern evolution of SQLite.
+* [open-telemetry / opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust):The Rust OpenTelemetry implementation
+* [helix-editor / helix](https://github.com/helix-editor/helix):A post-modern modal text editor.
+* [aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli):✨ Add autocomplete and AI to your existing terminal on macOS & Linux
+* [neondatabase / neon](https://github.com/neondatabase/neon):Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+* [jdx / mise](https://github.com/jdx/mise):dev tools, env vars, task runner
+* [dfinity / ic](https://github.com/dfinity/ic):Internet Computer blockchain source: the client/replica software run by nodes
+* [dora-rs / dora](https://github.com/dora-rs/dora):DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.
+* [pola-rs / polars](https://github.com/pola-rs/polars):Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+* [visioncortex / vtracer](https://github.com/visioncortex/vtracer):Raster to Vector Graphics Converter
+
+#### swift
+* [pointfreeco / swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing):📸 Delightful Swift snapshot testing.
+* [devMEremenko / XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark):XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
+* [yonaskolb / XcodeGen](https://github.com/yonaskolb/XcodeGen):A Swift command line tool for generating your Xcode project
+* [khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer):Run iOS app without actually installing it!
+* [RevenueCat / purchases-ios](https://github.com/RevenueCat/purchases-ios):In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
+* [apple / swift-protobuf](https://github.com/apple/swift-protobuf):Plugin and runtime library for using protobuf with Swift
+* [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture):A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* [mrousavy / react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera):📸 A powerful, high-performance React Native Camera library.
+* [Caldis / Mos](https://github.com/Caldis/Mos):一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+* [MessageKit / MessageKit](https://github.com/MessageKit/MessageKit):A community-driven replacement for JSQMessagesViewController
+* [groue / GRDB.swift](https://github.com/groue/GRDB.swift):A toolkit for SQLite databases, with a focus on application development
+* [lwouis / alt-tab-macos](https://github.com/lwouis/alt-tab-macos):Windows alt-tab on macOS
+* [onevcat / Kingfisher](https://github.com/onevcat/Kingfisher):A lightweight, pure-Swift library for downloading and caching images from the web.
+* [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire):Elegant HTTP Networking in Swift
+* [apple / swift-openapi-generator](https://github.com/apple/swift-openapi-generator):Generate Swift client and server code from an OpenAPI document.
+* [Moya / Moya](https://github.com/Moya/Moya):Network abstraction layer written in Swift.
+* [apple / swift-nio](https://github.com/apple/swift-nio):Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+* [realm / SwiftLint](https://github.com/realm/SwiftLint):A tool to enforce Swift style and conventions.
+* [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift):Reactive Programming in Swift
+* [apollographql / apollo-ios](https://github.com/apollographql/apollo-ios):📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
+* [wordpress-mobile / WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS):WordPress for iOS - Official repository
+* [mapbox / mapbox-maps-ios](https://github.com/mapbox/mapbox-maps-ios):Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal
+* [tuist / tuist](https://github.com/tuist/tuist):Tuist's CLI
+
+#### vue
+* [hslr-s / sun-panel](https://github.com/hslr-s/sun-panel):A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+* [doocs / md](https://github.com/doocs/md):✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+* [primefaces / primevue](https://github.com/primefaces/primevue):Next Generation Vue UI Component Library
+* [vuejs / docs](https://github.com/vuejs/docs):📄 Documentation for Vue 3
+* [vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue):🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
+* [yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3):🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
+* [kailong321200875 / vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin):A backend management system based on vue3, typescript, element-plus, and vite
+* [Akryum / vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller):⚡️ Blazing fast scrolling for any amount of data
+* [nuxt-ui-pro / dashboard](https://github.com/nuxt-ui-pro/dashboard):Nuxt Dashboard Template made with Nuxt UI Pro.
+* [ElemeFE / element](https://github.com/ElemeFE/element):A Vue.js 2.0 UI Toolkit for Web
+* [pipipi-pikachu / PPTist](https://github.com/pipipi-pikachu/PPTist):PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.
+* [xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know):基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
+* [wilfredinni / python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet):All-inclusive Python cheatsheet
+* [jekip / naive-ui-admin](https://github.com/jekip/naive-ui-admin):Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+* [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin):A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+* [Moonofweisheng / wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni):一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。
+* [requarks / wiki](https://github.com/requarks/wiki):Wiki.js | A modern and powerful wiki app built on Node.js
+* [dcloudio / uni-ui](https://github.com/dcloudio/uni-ui):基于uni-app的、全端兼容的、高性能UI框架
+
+#### python
+* [jlowin / fastmcp](https://github.com/jlowin/fastmcp):The fast, Pythonic way to build Model Context Protocol servers 🚀
+* [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai):🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+* [lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent):Build effective agents using Model Context Protocol and simple workflow patterns
+* [browser-use / browser-use](https://github.com/browser-use/browser-use):Make websites accessible for AI agents
+* [crewAIInc / crewAI](https://github.com/crewAIInc/crewAI):Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+* [jingyaogong / minimind](https://github.com/jingyaogong/minimind):🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+* [leminlimez / Nugget](https://github.com/leminlimez/Nugget):Unlock the fullest potential of your device
+
+#### typescript
+* [th-ch / youtube-music](https://github.com/th-ch/youtube-music):YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+* [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram):Free, simple, fast interactive diagrams for any GitHub repository
+* [louislam / dockge](https://github.com/louislam/dockge):A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+* [executeautomation / mcp-playwright](https://github.com/executeautomation/mcp-playwright):Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+* [Budibase / budibase](https://github.com/Budibase/budibase):Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+* [cuixueshe / earthworm](https://github.com/cuixueshe/earthworm):Learning English through the method of constructing sentences with conjunctions
+* [supabase / supabase](https://github.com/supabase/supabase):The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+* [Zippland / worth-calculator](https://github.com/Zippland/worth-calculator):Calculating the actual value of your job beyond just salary
+* [iib0011 / omni-tools](https://github.com/iib0011/omni-tools):Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+* [hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch):Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+* [apache / superset](https://github.com/apache/superset):Apache Superset is a Data Visualization and Data Exploration Platform
+* [dubinc / dub](https://github.com/dubinc/dub):Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+* [nestjs / nest](https://github.com/nestjs/nest):A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+* [btjawa / BiliTools](https://github.com/btjawa/BiliTools):A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
+* [beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio):Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+* [remotion-dev / remotion](https://github.com/remotion-dev/remotion):🎥 Make videos programmatically with React
+* [vitejs / vite](https://github.com/vitejs/vite):Next generation frontend tooling. It's fast!

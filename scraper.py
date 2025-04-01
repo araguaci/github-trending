@@ -69,14 +69,13 @@ def job():
     scrape('html', filename)
     scrape('javascript', filename)
     scrape('php', filename)
-    scrape('markdown', filename)
     #toscrape('ruby', filename)
     scrape('rust', filename)
     scrape('swift', filename)
     scrape('vue', filename)
     scrape('python', filename)
     scrape('typescript', filename)
-    
+    scrape('markdown', filename)
     # git add commit push
     # git_add_commit_push(strdate, filename)
 
