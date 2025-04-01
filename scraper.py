@@ -40,6 +40,9 @@ def scrape(language, filename):
 
     # codecs to solve the problem utf-8 codec like chinese
     with codecs.open(filename, "a", "utf-8") as f:
+        if language=="":
+            language= "trending"
+            
         f.write('\n#### {language}\n'.format(language=language))
 
         for item in items:
@@ -75,7 +78,7 @@ def job():
     scrape('vue', filename)
     scrape('python', filename)
     scrape('typescript', filename)
-    scrape('markdown', filename)
+    #scrape('markdown', filename)
     # git add commit push
     # git_add_commit_push(strdate, filename)
 

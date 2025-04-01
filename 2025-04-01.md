@@ -1,6 +1,6 @@
 ## 2025-04-01
 
-#### 
+#### trending
 * [th-ch / youtube-music](https://github.com/th-ch/youtube-music):YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 * [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram):Free, simple, fast interactive diagrams for any GitHub repository
 * [punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers):A collection of MCP servers.
