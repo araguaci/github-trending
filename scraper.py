@@ -34,12 +34,13 @@ def scrape(language, filename):
     url = 'https://github.com/trending/{language}'.format(language=language)
     
     print(url)
-    
+
     r = requests.get(url, headers=HEADERS)
     assert r.status_code == 200
     
     d = pq(r.content)
     items = d('div.Box article.Box-row')
+    print(items)
 
     # codecs to solve the problem utf-8 codec like chinese
     with codecs.open(filename, "a", "utf-8") as f:
