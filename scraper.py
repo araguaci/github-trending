@@ -62,12 +62,16 @@ def job():
     createMarkdown(strdate, filename)
 
     # write markdown
+    scrape('c#', filename)
     scrape('go', filename)
-    scrape('php', filename)
-    scrape('vue', filename)
-    scrape('swift', filename)
-    scrape('python', filename)
     scrape('javascript', filename)
+    scrape('php', filename)
+    scrape('ruby', filename)
+    scrape('rust', filename)
+    scrape('swift', filename)
+    scrape('vue', filename)
+    scrape('python', filename)
+    scrape('typescript', filename)
     
     # git add commit push
     # git_add_commit_push(strdate, filename)

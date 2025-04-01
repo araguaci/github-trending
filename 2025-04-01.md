@@ -1,5 +1,27 @@
 ## 2025-04-01
 
+#### c#
+* [bol-van / zapret](https://github.com/bol-van/zapret):DPI bypass multi platform
+* [hufrea / byedpi](https://github.com/hufrea/byedpi):Bypass DPI
+* [uber / h3](https://github.com/uber/h3):Hexagonal hierarchical geospatial indexing system
+* [FreeRDP / FreeRDP](https://github.com/FreeRDP/FreeRDP):FreeRDP is a free remote desktop protocol library and clients
+* [ThrowTheSwitch / Unity](https://github.com/ThrowTheSwitch/Unity):Simple unit testing for C
+* [espressif / esp-idf](https://github.com/espressif/esp-idf):Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+* [bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner):A bitcoin ASIC miner for the ESP32
+* [Klipper3d / klipper](https://github.com/Klipper3d/klipper):Klipper is a 3d-printer firmware
+* [AFLplusplus / AFLplusplus](https://github.com/AFLplusplus/AFLplusplus):The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+* [TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib):TA-Lib (Core C Library)
+* [eclipse-threadx / threadx](https://github.com/eclipse-threadx/threadx):Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+* [zephyrproject-rtos / zephyr](https://github.com/zephyrproject-rtos/zephyr):Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+* [DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware):Flipper Zero Unleashed Firmware
+* [nrfconnect / sdk-nrf](https://github.com/nrfconnect/sdk-nrf):nRF Connect SDK main repository
+* [openwrt / openwrt](https://github.com/openwrt/openwrt):This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+* [flipperdevices / flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware):Flipper Zero firmware source code
+* [curl / curl](https://github.com/curl/curl):A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+* [limine-bootloader / limine](https://github.com/limine-bootloader/limine):Modern, advanced, portable, multiprotocol bootloader and boot manager.
+* [Syllo / nvtop](https://github.com/Syllo/nvtop):GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
+* [zmkfirmware / zmk](https://github.com/zmkfirmware/zmk):ZMK Firmware Repository
+
 #### go
 * [tulir / whatsmeow](https://github.com/tulir/whatsmeow):Go library for the WhatsApp web multidevice API
 * [SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound):Six Degrees of Domain Admin
@@ -26,6 +48,18 @@
 * [kubernetes / enhancements](https://github.com/kubernetes/enhancements):Enhancements tracking repo for Kubernetes
 * [flipped-aurora / gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin):🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
+#### javascript
+* [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+* [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider):A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+* [HeyPuter / puter](https://github.com/HeyPuter/puter):🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+* [open-webui / open-webui](https://github.com/open-webui/open-webui):User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+* [songquanpeng / one-api](https://github.com/songquanpeng/one-api):LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+* [devlikeapro / waha](https://github.com/devlikeapro/waha):WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+* [xnx3 / translate](https://github.com/xnx3/translate):AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
+* [shaka-project / shaka-player](https://github.com/shaka-project/shaka-player):JavaScript player library / DASH & HLS client / MSE-EME player
+* [501351981 / vue-office](https://github.com/501351981/vue-office):支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
+* [huggingface / transformers.js](https://github.com/huggingface/transformers.js):State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+
 #### php
 * [coollabsio / coolify](https://github.com/coollabsio/coolify):An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * [nextcloud / server](https://github.com/nextcloud/server):☁️ Nextcloud server, a safe home for all your data
@@ -48,69 +82,3 @@
 * [twigphp / Twig](https://github.com/twigphp/Twig):Twig, the flexible, fast, and secure template language for PHP
 * [vimeo / psalm](https://github.com/vimeo/psalm):A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 * [pelican-dev / panel](https://github.com/pelican-dev/panel):
-
-#### vue
-* [hslr-s / sun-panel](https://github.com/hslr-s/sun-panel):A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-* [doocs / md](https://github.com/doocs/md):✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-* [primefaces / primevue](https://github.com/primefaces/primevue):Next Generation Vue UI Component Library
-* [vuejs / docs](https://github.com/vuejs/docs):📄 Documentation for Vue 3
-* [vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue):🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜
-* [yangzongzhuan / RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3):🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统
-* [kailong321200875 / vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin):A backend management system based on vue3, typescript, element-plus, and vite
-* [Akryum / vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller):⚡️ Blazing fast scrolling for any amount of data
-* [nuxt-ui-pro / dashboard](https://github.com/nuxt-ui-pro/dashboard):Nuxt Dashboard Template made with Nuxt UI Pro.
-* [ElemeFE / element](https://github.com/ElemeFE/element):A Vue.js 2.0 UI Toolkit for Web
-* [pipipi-pikachu / PPTist](https://github.com/pipipi-pikachu/PPTist):PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.
-* [xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know):基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
-* [wilfredinni / python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet):All-inclusive Python cheatsheet
-* [jekip / naive-ui-admin](https://github.com/jekip/naive-ui-admin):Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
-* [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin):A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
-* [Moonofweisheng / wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni):一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。
-* [requarks / wiki](https://github.com/requarks/wiki):Wiki.js | A modern and powerful wiki app built on Node.js
-* [dcloudio / uni-ui](https://github.com/dcloudio/uni-ui):基于uni-app的、全端兼容的、高性能UI框架
-
-#### swift
-* [pointfreeco / swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing):📸 Delightful Swift snapshot testing.
-* [devMEremenko / XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark):XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro
-* [yonaskolb / XcodeGen](https://github.com/yonaskolb/XcodeGen):A Swift command line tool for generating your Xcode project
-* [khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer):Run iOS app without actually installing it!
-* [RevenueCat / purchases-ios](https://github.com/RevenueCat/purchases-ios):In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
-* [apple / swift-protobuf](https://github.com/apple/swift-protobuf):Plugin and runtime library for using protobuf with Swift
-* [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture):A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-* [mrousavy / react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera):📸 A powerful, high-performance React Native Camera library.
-* [Caldis / Mos](https://github.com/Caldis/Mos):一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-* [MessageKit / MessageKit](https://github.com/MessageKit/MessageKit):A community-driven replacement for JSQMessagesViewController
-* [groue / GRDB.swift](https://github.com/groue/GRDB.swift):A toolkit for SQLite databases, with a focus on application development
-* [lwouis / alt-tab-macos](https://github.com/lwouis/alt-tab-macos):Windows alt-tab on macOS
-* [onevcat / Kingfisher](https://github.com/onevcat/Kingfisher):A lightweight, pure-Swift library for downloading and caching images from the web.
-* [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire):Elegant HTTP Networking in Swift
-* [apple / swift-openapi-generator](https://github.com/apple/swift-openapi-generator):Generate Swift client and server code from an OpenAPI document.
-* [Moya / Moya](https://github.com/Moya/Moya):Network abstraction layer written in Swift.
-* [apple / swift-nio](https://github.com/apple/swift-nio):Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-* [realm / SwiftLint](https://github.com/realm/SwiftLint):A tool to enforce Swift style and conventions.
-* [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift):Reactive Programming in Swift
-* [apollographql / apollo-ios](https://github.com/apollographql/apollo-ios):📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
-* [wordpress-mobile / WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS):WordPress for iOS - Official repository
-* [mapbox / mapbox-maps-ios](https://github.com/mapbox/mapbox-maps-ios):Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal
-* [tuist / tuist](https://github.com/tuist/tuist):Tuist's CLI
-
-#### python
-* [jlowin / fastmcp](https://github.com/jlowin/fastmcp):The fast, Pythonic way to build Model Context Protocol servers 🚀
-* [unclecode / crawl4ai](https://github.com/unclecode/crawl4ai):🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-* [lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent):Build effective agents using Model Context Protocol and simple workflow patterns
-* [browser-use / browser-use](https://github.com/browser-use/browser-use):Make websites accessible for AI agents
-* [crewAIInc / crewAI](https://github.com/crewAIInc/crewAI):Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-* [jingyaogong / minimind](https://github.com/jingyaogong/minimind):🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-* [leminlimez / Nugget](https://github.com/leminlimez/Nugget):Unlock the fullest potential of your device
-
-#### javascript
-* [f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-* [NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider):A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-* [HeyPuter / puter](https://github.com/HeyPuter/puter):🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-* [open-webui / open-webui](https://github.com/open-webui/open-webui):User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-* [songquanpeng / one-api](https://github.com/songquanpeng/one-api):LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-* [devlikeapro / waha](https://github.com/devlikeapro/waha):WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
-* [xnx3 / translate](https://github.com/xnx3/translate):AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
-* [shaka-project / shaka-player](https://github.com/shaka-project/shaka-player):JavaScript player library / DASH & HLS client / MSE-EME player
-* [501351981 / vue-office](https://github.com/501351981/vue-office):支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library
-* [huggingface / transformers.js](https://github.com/huggingface/transformers.js):State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
