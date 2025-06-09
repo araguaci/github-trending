@@ -3,3 +3,4 @@ lxml
 pyquery
 requests
 schedule
+html2markdown
