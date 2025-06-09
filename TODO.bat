@@ -1,3 +1,3 @@
-cd D:\var\www\html\github-trending\
+cd D:/_developer/github-trending
 
-pwsh D:\var\www\html\github-trending\TODO.ps1
+pwsh D:/_developer/github-trending/TODO.ps1
