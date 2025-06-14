@@ -1,4 +1,4 @@
-## 2025-06-12
+## 2025-06-14
 
 #### trending
 * [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps):Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -28,6 +28,7 @@
 * [OpenVPN / openvpn](https://github.com/OpenVPN/openvpn):OpenVPN is an open source VPN daemon
 * [ThrowTheSwitch / Unity](https://github.com/ThrowTheSwitch/Unity):Simple unit testing for C
 * [tmux / tmux](https://github.com/tmux/tmux):tmux source code
+* [PostHog / DeskHog](https://github.com/PostHog/DeskHog):A friend for your desk, a dedicated terminal for numbers
 * [kingToolbox / WindTerm](https://github.com/kingToolbox/WindTerm):A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 * [bol-van / zapret](https://github.com/bol-van/zapret):DPI bypass multi platform
 * [duixcom / Duix.Heygem](https://github.com/duixcom/Duix.Heygem):
@@ -39,7 +40,7 @@
 * [OSGeo / gdal](https://github.com/OSGeo/gdal):GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 * [firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk):Firebase SDK for Apple App Development
 * [uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets):Simple, secure & standards compliant web server for the most demanding of applications
-* [alibaba / MNN](https://github.com/alibaba/MNN):MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)
+* [alibaba / MNN](https://github.com/alibaba/MNN):MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
 * [facebook / rocksdb](https://github.com/facebook/rocksdb):A library that provides an embeddable, persistent key-value store for fast storage.
 * [catchorg / Catch2](https://github.com/catchorg/Catch2):A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 * [endless-sky / endless-sky](https://github.com/endless-sky/endless-sky):Space exploration, trading, and combat game.
@@ -64,7 +65,7 @@
 * [jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker):The lazier way to manage everything docker
 * [gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser):📂 Web File Browser
 * [filebrowser / filebrowser](https://github.com/filebrowser/filebrowser):📂 Web File Browser
-* [cloudreve / Cloudreve](https://github.com/cloudreve/Cloudreve):🌩 Self-hosted file management and sharing system, supports multiple storage providers
+* [cloudreve / cloudreve](https://github.com/cloudreve/cloudreve):🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * [projectcalico / calico](https://github.com/projectcalico/calico):Cloud native networking and network security
 * [minio / minio](https://github.com/minio/minio):MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 * [hashicorp / terraform](https://github.com/hashicorp/terraform):Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
