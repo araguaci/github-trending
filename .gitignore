@@ -9,7 +9,6 @@ vendor
 
 *.log
 *.ps1
-*.bat
-*.php
+*.bat 
 desktop.ini
 makesidebar.php
