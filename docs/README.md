@@ -1,253 +1,237 @@
-## 2025-08-02
+## 2025-08-03
 
 #### trending
 * [dyad-sh / dyad](https://github.com/dyad-sh/dyad):Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
-* [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture):A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-* [MotiaDev / motia](https://github.com/MotiaDev/motia):Unified Backend Framework for APIs, Events, and AI Agents
-* [OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas):Open Adversary Exposure Validation Platform
-* [tonsky / FiraCode](https://github.com/tonsky/FiraCode):Free monospaced font with programming ligatures
-* [kubesphere / kubesphere](https://github.com/kubesphere/kubesphere):The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+* [wg-easy / wg-easy](https://github.com/wg-easy/wg-easy):The easiest way to run WireGuard VPN + Web-based Admin UI.
+* [eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo):Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 * [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms):📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-* [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):Master the command line, in one page
-* [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions):A long list of (advanced) JavaScript questions, and their explanations ✨
-* [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo):Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+* [XTLS / Xray-core](https://github.com/XTLS/Xray-core):Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+* [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin):The Free Software Media System - Server Backend & API
+* [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch):Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+* [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird):Truly independent web browser
+* [sst / opencode](https://github.com/sst/opencode):AI coding agent, built for the terminal.
+* [TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily):Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+* [TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes):Application for managing recipes, planning meals, building shopping lists and much much more!
+* [MotiaDev / motia](https://github.com/MotiaDev/motia):Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+* [reflex-dev / reflex](https://github.com/reflex-dev/reflex):🕸️ Web apps in pure Python 🐍
+* [flydelabs / flyde](https://github.com/flydelabs/flyde):Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
+* [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture):A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 
 #### c#
-* [php / php-src](https://github.com/php/php-src):The PHP Interpreter
-* [lvgl / lvgl](https://github.com/lvgl/lvgl):Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
-* [valkey-io / valkey](https://github.com/valkey-io/valkey):A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-* [arthenica / ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit):FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
-* [nothings / stb](https://github.com/nothings/stb):stb single-file public domain libraries for C/C++
-* [taosdata / TDengine](https://github.com/taosdata/TDengine):High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
-* [micropython / micropython](https://github.com/micropython/micropython):MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
-* [ThrowTheSwitch / Unity](https://github.com/ThrowTheSwitch/Unity):Simple unit testing for C
-* [portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware):Custom firmware for the HackRF+PortaPack H1/H2/H4
-* [zephyrproject-rtos / zephyr](https://github.com/zephyrproject-rtos/zephyr):Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 * [hashcat / hashcat](https://github.com/hashcat/hashcat):World's fastest and most advanced password recovery utility
-* [libuv / libuv](https://github.com/libuv/libuv):Cross-platform asynchronous I/O
-* [haproxy / haproxy](https://github.com/haproxy/haproxy):HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
-* [nrfconnect / sdk-nrf](https://github.com/nrfconnect/sdk-nrf):nRF Connect SDK main repository
-* [timescale / timescaledb](https://github.com/timescale/timescaledb):A time-series database for high-performance real-time analytics packaged as a Postgres extension
-* [pgvector / pgvector](https://github.com/pgvector/pgvector):Open-source vector similarity search for Postgres
-* [BitMaker-hub / NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2):Improved version of first ESP32 NerdMiner
-* [Tencent / puerts](https://github.com/Tencent/puerts):PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
-* [TsudaKageyu / minhook](https://github.com/TsudaKageyu/minhook):The Minimalistic x86/x64 API Hooking Library for Windows
-* [Xilinx / linux-xlnx](https://github.com/Xilinx/linux-xlnx):The official Linux kernel from Xilinx
-* [TeraTermProject / teraterm](https://github.com/TeraTermProject/teraterm):
-* [memcached / memcached](https://github.com/memcached/memcached):memcached development tree
+* [libopencm3 / libopencm3](https://github.com/libopencm3/libopencm3):Open source ARM Cortex-M microcontroller library
+* [Genymobile / scrcpy](https://github.com/Genymobile/scrcpy):Display and control your Android device
+* [bol-van / zapret](https://github.com/bol-van/zapret):DPI bypass multi platform
+* [openwrt / openwrt](https://github.com/openwrt/openwrt):This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+* [zmkfirmware / zmk](https://github.com/zmkfirmware/zmk):ZMK Firmware Repository
+* [rxi / microui](https://github.com/rxi/microui):A tiny immediate-mode UI library
+* [nicbarker / clay](https://github.com/nicbarker/clay):High performance UI layout library in C.
+* [raysan5 / raylib](https://github.com/raysan5/raylib):A simple and easy-to-use library to enjoy videogames programming
+* [glfw / glfw](https://github.com/glfw/glfw):A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+* [mit-pdos / xv6-riscv](https://github.com/mit-pdos/xv6-riscv):Xv6 for RISC-V
+* [pr3y / Bruce](https://github.com/pr3y/Bruce):Predatory ESP32 Firmware
+* [espressif / esp-idf](https://github.com/espressif/esp-idf):Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+* [HarbourMasters / Shipwright](https://github.com/HarbourMasters/Shipwright):
+* [Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware):🐬 Feature-rich, stable and customizable Flipper Firmware
+* [nothings / stb](https://github.com/nothings/stb):stb single-file public domain libraries for C/C++
+* [mpv-player / mpv](https://github.com/mpv-player/mpv):🎥 Command line media player
+* [axboe / liburing](https://github.com/axboe/liburing):Library providing helpers for the Linux kernel io_uring support
+* [netdata / netdata](https://github.com/netdata/netdata):The fastest path to AI-powered full stack observability, even for lean teams.
+* [rvaiya / keyd](https://github.com/rvaiya/keyd):A key remapping daemon for linux.
+* [hathach / tinyusb](https://github.com/hathach/tinyusb):An open source cross-platform USB stack for embedded system
+* [fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch):A maintained, feature-rich and performance oriented, neofetch like system information tool.
+* [c3lang / c3c](https://github.com/c3lang/c3c):Compiler for the C3 language
+* [libsdl-org / SDL](https://github.com/libsdl-org/SDL):Simple Directmedia Layer
+* [ThrowTheSwitch / Unity](https://github.com/ThrowTheSwitch/Unity):Simple unit testing for C
 
 #### c++
-* [stenzek / duckstation](https://github.com/stenzek/duckstation):Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 * [eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo):Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
-* [SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer):G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-* [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow):An Open Source Machine Learning Framework for Everyone
-* [zeux / meshoptimizer](https://github.com/zeux/meshoptimizer):Mesh optimization library that makes meshes smaller and faster to render
-* [WasmEdge / WasmEdge](https://github.com/WasmEdge/WasmEdge):WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
-* [gabime / spdlog](https://github.com/gabime/spdlog):Fast C++ logging library.
-* [google / perfetto](https://github.com/google/perfetto):Production-grade client-side tracing, profiling, and analysis for complex software systems.
-* [google / longfellow-zk](https://github.com/google/longfellow-zk):Implementation of the Google Zero-Knowledge library for Identity Protocols.
-* [tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal):🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
-* [azerothcore / azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk):Complete Open Source and Modular solution for MMO
-* [microsoft / onnxruntime](https://github.com/microsoft/onnxruntime):ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-* [microsoft / AirSim](https://github.com/microsoft/AirSim):Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
-* [fmtlib / fmt](https://github.com/fmtlib/fmt):A modern formatting library
-* [paullouisageneau / libdatachannel](https://github.com/paullouisageneau/libdatachannel):C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets
-* [catchorg / Catch2](https://github.com/catchorg/Catch2):A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-* [PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD):Universal Scene Description
-* [pybind / pybind11](https://github.com/pybind/pybind11):Seamless operability between C++11 and Python
-* [Tencent / ncnn](https://github.com/Tencent/ncnn):ncnn is a high-performance neural network inference framework optimized for the mobile platform
-* [Light-City / CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings):C++那些事
-* [electron / electron](https://github.com/electron/electron):Build cross-platform desktop apps with JavaScript, HTML, and CSS
-* [google / googletest](https://github.com/google/googletest):GoogleTest - Google Testing and Mocking Framework
+* [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird):Truly independent web browser
+* [MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights):《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+* [PCSX2 / pcsx2](https://github.com/PCSX2/pcsx2):PCSX2 - The Playstation 2 Emulator
+* [official-stockfish / Stockfish](https://github.com/official-stockfish/Stockfish):A free and strong UCI chess engine
+* [ocornut / imgui](https://github.com/ocornut/imgui):Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+* [microsoft / terminal](https://github.com/microsoft/terminal):The new Windows Terminal and the original Windows console host, all in the same place!
+* [MAZHARMIK / Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo):Super Repository for Coding Interview Preperation
+* [SFML / SFML](https://github.com/SFML/SFML):Simple and Fast Multimedia Library
+* [LizardByte / Sunshine](https://github.com/LizardByte/Sunshine):Self-hosted game stream host for Moonlight.
+* [mixxxdj / mixxx](https://github.com/mixxxdj/mixxx):Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+* [shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4):PlayStation 4 emulator for Windows, Linux and macOS written in C++
+* [godotengine / godot](https://github.com/godotengine/godot):Godot Engine – Multi-platform 2D and 3D game engine
+* [RPCS3 / rpcs3](https://github.com/RPCS3/rpcs3):PlayStation 3 emulator and debugger
+* [diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX):Diablo build for modern operating systems
+* [amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client):Amnezia VPN Client (Desktop+Mobile)
+* [ossrs / srs](https://github.com/ossrs/srs):SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+* [meshtastic / firmware](https://github.com/meshtastic/firmware):The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+* [melonDS-emu / melonDS](https://github.com/melonDS-emu/melonDS):DS emulator, sorta
+* [78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32):An MCP-based chatbot | 一个基于MCP的聊天机器人
+* [Alexays / Waybar](https://github.com/Alexays/Waybar):Highly customizable Wayland bar for Sway and Wlroots based compositors. ✌️ 🎉
+* [audacity / audacity](https://github.com/audacity/audacity):Audio Editor
+* [aseprite / aseprite](https://github.com/aseprite/aseprite):Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 
 #### go
-* [kubesphere / kubesphere](https://github.com/kubesphere/kubesphere):The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-* [charmbracelet / bubbletea](https://github.com/charmbracelet/bubbletea):A powerful little TUI framework 🏗
+* [XTLS / Xray-core](https://github.com/XTLS/Xray-core):Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 * [sst / opencode](https://github.com/sst/opencode):AI coding agent, built for the terminal.
-* [lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api):Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
-* [microsoft / typescript-go](https://github.com/microsoft/typescript-go):Staging repo for development of native port of TypeScript
+* [SagerNet / sing-box](https://github.com/SagerNet/sing-box):The universal proxy platform
+* [kubesphere / kubesphere](https://github.com/kubesphere/kubesphere):The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+* [glanceapp / glance](https://github.com/glanceapp/glance):A self-hosted dashboard that puts all your feeds in one place
+* [henrygd / beszel](https://github.com/henrygd/beszel):Lightweight server monitoring hub with historical data, docker stats, and alerts.
+* [aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice):GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
 * [AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc):Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-* [hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph):high-performance graph database for real-time use cases
-* [livekit / livekit](https://github.com/livekit/livekit):End-to-end stack for WebRTC. SFU media server and SDKs.
-* [kubesphere / kubekey](https://github.com/kubesphere/kubekey):Install Kubernetes/K3s, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
-* [putyy / res-downloader](https://github.com/putyy/res-downloader):视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-* [kedacore / keda](https://github.com/kedacore/keda):KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-* [open-telemetry / opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go):OpenTelemetry Go API and SDK
-* [kubernetes-sigs / kustomize](https://github.com/kubernetes-sigs/kustomize):Customization of kubernetes YAML configurations
-* [keploy / keploy](https://github.com/keploy/keploy):Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
-* [traefik / traefik](https://github.com/traefik/traefik):The Cloud Native Application Proxy
+* [microsoft / typescript-go](https://github.com/microsoft/typescript-go):Staging repo for development of native port of TypeScript
+* [evcc-io / evcc](https://github.com/evcc-io/evcc):solar charging ☀️🚘
 * [aquasecurity / trivy](https://github.com/aquasecurity/trivy):Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-* [onsi / ginkgo](https://github.com/onsi/ginkgo):A Modern Testing Framework for Go
-* [google / gvisor](https://github.com/google/gvisor):Application Kernel for Containers
-* [dagger / dagger](https://github.com/dagger/dagger):An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-* [ccfos / nightingale](https://github.com/ccfos/nightingale):Nightingale for monitoring and alerting, just as Grafana for visualization.
+* [traefik / traefik](https://github.com/traefik/traefik):The Cloud Native Application Proxy
+* [v2fly / v2ray-core](https://github.com/v2fly/v2ray-core):A platform for building proxies to bypass network restrictions.
+* [photoprism / photoprism](https://github.com/photoprism/photoprism):AI-Powered Photos App for the Decentralized Web 🌈💎✨
 * [ollama / ollama](https://github.com/ollama/ollama):Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-* [go-co-op / gocron](https://github.com/go-co-op/gocron):Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+* [navidrome / navidrome](https://github.com/navidrome/navidrome):🎧☁️ Your Personal Streaming Service
+* [wailsapp / wails](https://github.com/wailsapp/wails):Create beautiful applications using Go
+* [tinygo-org / tinygo](https://github.com/tinygo-org/tinygo):Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* [AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome):Network-wide ads & trackers blocking DNS server
+* [hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph):high-performance graph database for real-time use cases
 
 #### html
 * [TandoorRecipes / recipes](https://github.com/TandoorRecipes/recipes):Application for managing recipes, planning meals, building shopping lists and much much more!
-* [madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat):Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
-* [EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server):Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
+* [ossu / computer-science](https://github.com/ossu/computer-science):🎓 Path to a free self-taught education in Computer Science!
+* [CaiJimmy / hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack):Card-style Hugo theme designed for bloggers
+* [square / retrofit](https://github.com/square/retrofit):A type-safe HTTP client for Android and the JVM
 * [ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev):A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [DataDog / documentation](https://github.com/DataDog/documentation):The source for Datadog's documentation site.
-* [cipher387 / osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection):A collection of several hundred online tools for OSINT
-* [mdn / learning-area](https://github.com/mdn/learning-area):GitHub repo for the MDN Learning Area.
-* [Unstructured-IO / unstructured](https://github.com/Unstructured-IO/unstructured):Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.
-* [iam-veeramalla / ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero):Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
-* [imfing / hextra](https://github.com/imfing/hextra):🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
-* [mmistakes / minimal-mistakes](https://github.com/mmistakes/minimal-mistakes):📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-* [Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples):Samples using AI and Azure SQL DB
-* [wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note):主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题
-* [kubernetes / website](https://github.com/kubernetes/website):Kubernetes website and documentation repo:
-* [boostorg / boost](https://github.com/boostorg/boost):Super-project for modularized Boost
-* [juliocesarfort / public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports):A list of public penetration test reports published by several consulting firms and academic security groups.
-* [meichthys / foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries):Free and Open Source Photo Libraries
+* [alshedivat / al-folio](https://github.com/alshedivat/al-folio):A beautiful, simple, clean, and responsive Jekyll theme for academics
+* [givanz / Vvveb](https://github.com/givanz/Vvveb):Powerful and easy to use cms to build websites, blogs or ecommerce stores.
+* [iptv-org / epg](https://github.com/iptv-org/epg):Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
+* [Chuyu-Team / Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language):Dism++ Multi-language Support & BUG Report
+* [TheOdinProject / css-exercises](https://github.com/TheOdinProject/css-exercises):
+* [ultrasecurity / Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker):Social engineering tool [Access Webcam & Microphone & Location Finder] With {Py,JS,PHP}
+* [munificent / craftinginterpreters](https://github.com/munificent/craftinginterpreters):Repository for the book "Crafting Interpreters"
+* [madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat):Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 
 #### javascript
 * [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms):📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-* [MobSF / Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF):Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
+* [crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated):Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
+* [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui):A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+* [gorhill / uBlock](https://github.com/gorhill/uBlock):uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+* [open-webui / open-webui](https://github.com/open-webui/open-webui):User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [mrdoob / three.js](https://github.com/mrdoob/three.js):JavaScript 3D Library.
-* [Asabeneh / 30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React):30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-* [modood / Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China):中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-* [microsoft / monaco-editor](https://github.com/microsoft/monaco-editor):A browser based code editor
-* [meshery / meshery](https://github.com/meshery/meshery):Meshery, the cloud native manager
-* [playcanvas / engine](https://github.com/playcanvas/engine):Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-* [louislam / uptime-kuma](https://github.com/louislam/uptime-kuma):A fancy self-hosted monitoring tool
-* [ToolJet / ToolJet](https://github.com/ToolJet/ToolJet):Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-* [koaning / drawdata](https://github.com/koaning/drawdata):Draw datasets from within Python notebooks.
-* [FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome):The iconic SVG, font, and CSS toolkit
-* [lodash / lodash](https://github.com/lodash/lodash):A modern JavaScript utility library delivering modularity, performance, & extras.
-* [google / earthengine-api](https://github.com/google/earthengine-api):Python and JavaScript bindings for calling the Earth Engine API.
+* [qist / tvbox](https://github.com/qist/tvbox):OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+* [webpack / webpack](https://github.com/webpack/webpack):A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer):API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-* [zumerlab / snapdom](https://github.com/zumerlab/snapdom):snapDOM captures HTML elements to images with exceptional speed and accuracy.
+* [meshery / meshery](https://github.com/meshery/meshery):Meshery, the cloud native manager
+* [copy / v86](https://github.com/copy/v86):x86 PC emulator and x86-to-wasm JIT, running in the browser
 
 #### php
+* [openemr / openemr](https://github.com/openemr/openemr):The most popular open source electronic health records and medical practice management solution.
 * [kimai / kimai](https://github.com/kimai/kimai):Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud
 * [firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii):Firefly III: a personal finances manager
-* [DenverCoder1 / readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg):⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
-* [Dolibarr / dolibarr](https://github.com/Dolibarr/dolibarr):Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
-* [filegator / filegator](https://github.com/filegator/filegator):Powerful Multi-User File Manager
+* [danielmiessler / SecLists](https://github.com/danielmiessler/SecLists):SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 * [filamentphp / filament](https://github.com/filamentphp/filament):A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-* [DenverCoder1 / github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats):🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-* [MlgmXyysd / Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass):A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
-* [danielbrendel / hortusfox-web](https://github.com/danielbrendel/hortusfox-web):Self-hosted collaborative plant management and tracking system for plant enthusiasts
-* [symfony / ai](https://github.com/symfony/ai):
-* [hyperf / hyperf](https://github.com/hyperf/hyperf):🚀 A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.
-* [FreshRSS / FreshRSS](https://github.com/FreshRSS/FreshRSS):A free, self-hostable news aggregator…
-* [crazywhalecc / static-php-cli](https://github.com/crazywhalecc/static-php-cli):Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
-* [coollabsio / coolify](https://github.com/coollabsio/coolify):An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-* [BookStackApp / BookStack](https://github.com/BookStackApp/BookStack):A platform to create documentation/wiki content built with PHP & Laravel
-* [WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop):WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
-* [KhronosGroup / glTF-Sample-Assets](https://github.com/KhronosGroup/glTF-Sample-Assets):An assortment of assets that demonstrate features and capabilities of the glTF format
-* [doctrine / orm](https://github.com/doctrine/orm):Doctrine Object Relational Mapper (ORM)
-* [akaunting / akaunting](https://github.com/akaunting/akaunting):Online Accounting Software
-* [magento / magento2](https://github.com/magento/magento2):Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
+* [brufdev / many-notes](https://github.com/brufdev/many-notes):Markdown note-taking web application designed for simplicity
+* [dr5hn / countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database):🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities
+* [Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM):Multi-purpose proxy service management system
+* [matomo-org / matomo](https://github.com/matomo-org/matomo):Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!
+* [alexjustesen / speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker):Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
+* [nextcloud / all-in-one](https://github.com/nextcloud/all-in-one):📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+* [invoiceninja / invoiceninja](https://github.com/invoiceninja/invoiceninja):A source-available invoice, quote, project and time-tracking app built with Laravel
+* [vitodeploy / vito](https://github.com/vitodeploy/vito):Free and Self-Hosted Server Management Tool
+* [leokhoa / laragon](https://github.com/leokhoa/laragon):Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
+* [opencart / opencart](https://github.com/opencart/opencart):A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
+* [nextcloud / server](https://github.com/nextcloud/server):☁️ Nextcloud server, a safe home for all your data
+* [magicblack / maccms10](https://github.com/magicblack/maccms10):苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序
+* [DenverCoder1 / readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg):⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+* [wallabag / wallabag](https://github.com/wallabag/wallabag):wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+* [barryvdh / laravel-debugbar](https://github.com/barryvdh/laravel-debugbar):Debugbar for Laravel (Integrates PHP Debug Bar)
+* [fuzzdb-project / fuzzdb](https://github.com/fuzzdb-project/fuzzdb):Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+* [codeigniter4 / CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4):Open Source PHP Framework (originally from EllisLab)
+* [pelican-dev / panel](https://github.com/pelican-dev/panel):
 
 #### rust
+* [ajeetdsouza / zoxide](https://github.com/ajeetdsouza/zoxide):A smarter cd command. Supports all major shells.
+* [typst / typst](https://github.com/typst/typst):A new markup-based typesetting system that is powerful and easy to learn.
 * [gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler):The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-* [block / goose](https://github.com/block/goose):an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-* [rustdesk / rustdesk](https://github.com/rustdesk/rustdesk):An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-* [ai-dynamo / dynamo](https://github.com/ai-dynamo/dynamo):A Datacenter Scale Distributed Inference Serving Framework
+* [rust-lang / rust-clippy](https://github.com/rust-lang/rust-clippy):A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 * [gleam-lang / gleam](https://github.com/gleam-lang/gleam):⭐️ A friendly language for building type-safe, scalable systems!
-* [facebookincubator / below](https://github.com/facebookincubator/below):A time traveling resource monitor for modern Linux systems
-* [pola-rs / polars](https://github.com/pola-rs/polars):Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-* [YaLTeR / niri](https://github.com/YaLTeR/niri):A scrollable-tiling Wayland compositor.
-* [juspay / hyperswitch](https://github.com/juspay/hyperswitch):An open source payments switch written in Rust to make payments fast, reliable and affordable
-* [bevyengine / bevy](https://github.com/bevyengine/bevy):A refreshingly simple data-driven game engine built in Rust
-* [iced-rs / iced](https://github.com/iced-rs/iced):A cross-platform GUI library for Rust, inspired by Elm
-* [rustfs / rustfs](https://github.com/rustfs/rustfs):🚀 High-performance distributed object storage for MinIO alternative.
-* [tokio-rs / axum](https://github.com/tokio-rs/axum):Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-* [raphamorim / rio](https://github.com/raphamorim/rio):A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-* [awslabs / mountpoint-s3](https://github.com/awslabs/mountpoint-s3):A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-* [servo / servo](https://github.com/servo/servo):Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-* [nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli):Command line interface for supplying proofs to the Nexus network.
-* [boundless-xyz / boundless](https://github.com/boundless-xyz/boundless):Monorepo for Boundless, the universal ZK protocol
-* [Automattic / harper](https://github.com/Automattic/harper):Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 * [lumina-ai-inc / chunkr](https://github.com/lumina-ai-inc/chunkr):Vision infrastructure to turn complex documents into RAG/LLM-ready data
-* [Yamato-Security / hayabusa](https://github.com/Yamato-Security/hayabusa):Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
+* [alacritty / alacritty](https://github.com/alacritty/alacritty):A cross-platform, OpenGL terminal emulator.
+* [jtroo / kanata](https://github.com/jtroo/kanata):Improve keyboard comfort and usability with advanced customization
+* [block / goose](https://github.com/block/goose):an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+* [emilk / egui](https://github.com/emilk/egui):egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+* [nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli):Command line interface for supplying proofs to the Nexus network.
+* [elkowar / eww](https://github.com/elkowar/eww):ElKowars wacky widgets
+* [modelcontextprotocol / rust-sdk](https://github.com/modelcontextprotocol/rust-sdk):The official Rust SDK for the Model Context Protocol
+* [jdx / mise](https://github.com/jdx/mise):dev tools, env vars, task runner
+* [zama-ai / fhevm](https://github.com/zama-ai/fhevm):FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+* [unionlabs / union](https://github.com/unionlabs/union):The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+* [cloudflare / pingora](https://github.com/cloudflare/pingora):A library for building fast, reliable and evolvable network services.
+* [nushell / nushell](https://github.com/nushell/nushell):A new type of shell
+* [sharkdp / bat](https://github.com/sharkdp/bat):A cat(1) clone with wings.
+* [servo / servo](https://github.com/servo/servo):Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+* [awslabs / mountpoint-s3](https://github.com/awslabs/mountpoint-s3):A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+* [starship / starship](https://github.com/starship/starship):☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 #### swift
 * [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture):A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-* [theJayTea / WritingTools](https://github.com/theJayTea/WritingTools):The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
-* [apple / swift-nio](https://github.com/apple/swift-nio):Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-* [facebook / facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk):Used to integrate the Facebook Platform with your iOS & tvOS apps.
-* [realm / SwiftLint](https://github.com/realm/SwiftLint):A tool to enforce Swift style and conventions.
-* [tuist / tuist](https://github.com/tuist/tuist):A virtual platform team for mobile devs who ship
+* [Beingpax / VoiceInk](https://github.com/Beingpax/VoiceInk):Voice-to-text app for macOS to transcribe what you say to text almost instantly
 * [MonitorControl / MonitorControl](https://github.com/MonitorControl/MonitorControl):🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [MrKai77 / Loop](https://github.com/MrKai77/Loop):Window management made elegant.
 * [lwouis / alt-tab-macos](https://github.com/lwouis/alt-tab-macos):Windows alt-tab on macOS
-* [airbnb / lottie-ios](https://github.com/airbnb/lottie-ios):An iOS library to natively render After Effects vector animations
-* [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire):Elegant HTTP Networking in Swift
-* [stripe / stripe-ios](https://github.com/stripe/stripe-ios):Stripe iOS SDK
-* [exelban / stats](https://github.com/exelban/stats):macOS system monitor in your menu bar
-* [aws-amplify / amplify-swift](https://github.com/aws-amplify/amplify-swift):A declarative library for application development using cloud services.
-* [nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat):A command-line tool and Xcode Extension for formatting Swift code
-* [ChartsOrg / Charts](https://github.com/ChartsOrg/Charts):Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-* [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift):Reactive Programming in Swift
-* [nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace):AeroSpace is an i3-like tiling window manager for macOS
-* [AzureAD / microsoft-authentication-library-for-objc](https://github.com/AzureAD/microsoft-authentication-library-for-objc):Microsoft Authentication Library (MSAL) for iOS and macOS
-* [swiftlang / swift-syntax](https://github.com/swiftlang/swift-syntax):A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+* [modelcontextprotocol / swift-sdk](https://github.com/modelcontextprotocol/swift-sdk):The official Swift SDK for Model Context Protocol servers and clients.
+* [argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit):On-device Speech Recognition for Apple Silicon
+* [github / CopilotForXcode](https://github.com/github/CopilotForXcode):Xcode extension for GitHub Copilot
+* [googleprojectzero / fuzzilli](https://github.com/googleprojectzero/fuzzilli):A JavaScript Engine Fuzzer
+* [Whisky-App / Whisky](https://github.com/Whisky-App/Whisky):A modern Wine wrapper for macOS built with SwiftUI
+* [TelegramMessenger / Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS):Telegram-iOS
 * [awslabs / aws-sdk-swift](https://github.com/awslabs/aws-sdk-swift):
-* [pointfreeco / swift-dependencies](https://github.com/pointfreeco/swift-dependencies):A dependency management library inspired by SwiftUI's "environment."
-* [apple / swift-collections](https://github.com/apple/swift-collections):Commonly used data structures for Swift
-* [apple / swift-system](https://github.com/apple/swift-system):Low-level system calls and types for Swift
+* [mhaeuser / Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit):Control the platform power state of your Apple Silicon Mac.
+* [jellyfin / Swiftfin](https://github.com/jellyfin/Swiftfin):Native Jellyfin Client for iOS and tvOS
+* [apple / swift-async-algorithms](https://github.com/apple/swift-async-algorithms):Async Algorithms for Swift
+* [supabase / supabase-swift](https://github.com/supabase/supabase-swift):A Swift client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+* [whoeevee / EeveeSpotify](https://github.com/whoeevee/EeveeSpotify):A tweak to get Spotify Premium for free, just like Spotilife
 
 #### vue
-* [Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro):A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
-* [primefaces / primevue](https://github.com/primefaces/primevue):Next Generation Vue UI Component Library
-* [PanJiaChen / vue-element-admin](https://github.com/PanJiaChen/vue-element-admin):🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
-* [scalar / scalar](https://github.com/scalar/scalar):Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
-* [jd-opensource / nutui](https://github.com/jd-opensource/nutui):京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
-* [VueTorrent / VueTorrent](https://github.com/VueTorrent/VueTorrent):The sleekest looking WEBUI for qBittorrent made with Vuejs!
-* [laravel / vue-starter-kit](https://github.com/laravel/vue-starter-kit):
-* [un-pany / v3-admin-vite](https://github.com/un-pany/v3-admin-vite):☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
-* [staniel359 / muffon](https://github.com/staniel359/muffon):Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
+* [algerkong / AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer):一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+* [iAJue / MoeKoeMusic](https://github.com/iAJue/MoeKoeMusic):一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux / Web
+* [qier222 / YesPlayMusic](https://github.com/qier222/YesPlayMusic):高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+* [frappe / crm](https://github.com/frappe/crm):Fully featured, open source CRM
 * [Gzh0821 / pvzg_site](https://github.com/Gzh0821/pvzg_site):PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port
-* [imsyy / SPlayer](https://github.com/imsyy/SPlayer):🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-* [requarks / wiki](https://github.com/requarks/wiki):Wiki.js | A modern and powerful wiki app built on Node.js
-* [dreamhunter2333 / cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email):CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+* [unovue / shadcn-vue](https://github.com/unovue/shadcn-vue):Vue port of shadcn-ui
+* [Lissy93 / dashy](https://github.com/Lissy93/dashy):🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+* [TeamPiped / Piped](https://github.com/TeamPiped/Piped):An alternative privacy-friendly YouTube frontend which is efficient by design.
+* [jekip / naive-ui-admin](https://github.com/jekip/naive-ui-admin):Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+* [wyeeeee / hajimi](https://github.com/wyeeeee/hajimi):这是一个基于 FastAPI 构建的 Gemini API 代理
+* [staniel359 / muffon](https://github.com/staniel359/muffon):Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
+* [Virtual-Browser / VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser):Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://vbhub.net/?src=github
+* [primefaces / primevue](https://github.com/primefaces/primevue):Next Generation Vue UI Component Library
 * [Zephyruso / zashboard](https://github.com/Zephyruso/zashboard):A Dashboard Using Clash API
-* [Akryum / vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller):⚡️ Blazing fast scrolling for any amount of data
-* [DeepSourceCorp / good-first-issue](https://github.com/DeepSourceCorp/good-first-issue):Make your first open-source contribution.
-* [kailong321200875 / vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin):A backend management system based on vue3, typescript, element-plus, and vite
-* [zclzone / vue-naive-admin](https://github.com/zclzone/vue-naive-admin):⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
-* [vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin):A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
 #### python
-* [Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo):Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-* [comet-ml / opik](https://github.com/comet-ml/opik):Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-* [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps):Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* [PrefectHQ / prefect](https://github.com/PrefectHQ/prefect):Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 * [TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily):Recommend new arxiv papers of your interest daily according to your Zotero libarary.
-* [odoo / odoo](https://github.com/odoo/odoo):Odoo. Open Source Apps To Grow Your Business.
-* [gradio-app / gradio](https://github.com/gradio-app/gradio):Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-* [getsentry / sentry](https://github.com/getsentry/sentry):Developer-first error tracking and performance monitoring
-* [karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt):Video+code lecture on building nanoGPT from scratch
+* [reflex-dev / reflex](https://github.com/reflex-dev/reflex):🕸️ Web apps in pure Python 🐍
+* [yt-dlp / yt-dlp](https://github.com/yt-dlp/yt-dlp):A feature-rich command-line audio/video downloader
+* [spotDL / spotify-downloader](https://github.com/spotDL/spotify-downloader):Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 * [OpenPipe / ART](https://github.com/OpenPipe/ART):Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-* [paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx):A community-supported supercharged document management system: scan, index and archive all your documents
-* [GongRzhe / Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server):A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol.
-* [pathwaycom / pathway](https://github.com/pathwaycom/pathway):Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 * [nerfstudio-project / viser](https://github.com/nerfstudio-project/viser):Web-based 3D visualization + Python
-* [kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper):
+* [commaai / openpilot](https://github.com/commaai/openpilot):openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+* [RVC-Project / Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI):Easily train a good VC model with voice data <= 10 mins!
+* [paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx):A community-supported supercharged document management system: scan, index and archive all your documents
+* [freqtrade / freqtrade](https://github.com/freqtrade/freqtrade):Free, open source crypto trading bot
+* [zauberzeug / nicegui](https://github.com/zauberzeug/nicegui):Create web-based user interfaces with Python. The nice way.
+* [MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo):A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+* [souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy):An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 
 #### typescript
 * [dyad-sh / dyad](https://github.com/dyad-sh/dyad):Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
-* [MotiaDev / motia](https://github.com/MotiaDev/motia):Unified Backend Framework for APIs, Events, and AI Agents
-* [linkwarden / linkwarden](https://github.com/linkwarden/linkwarden):⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-* [puckeditor / puck](https://github.com/puckeditor/puck):The visual editor for React
-* [devlikeapro / waha](https://github.com/devlikeapro/waha):WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
-* [gothinkster / realworld](https://github.com/gothinkster/realworld):"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-* [fastrepl / hyprnote](https://github.com/fastrepl/hyprnote):Local-first AI Notepad for Private Meetings
-* [playcanvas / editor](https://github.com/playcanvas/editor):Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
-* [Canner / WrenAI](https://github.com/Canner/WrenAI):AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds.
-* [puppeteer / puppeteer](https://github.com/puppeteer/puppeteer):JavaScript API for Chrome and Firefox
-* [mendableai / firecrawl](https://github.com/mendableai/firecrawl):🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-* [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook):💯 Curated coding interview preparation materials for busy software engineers
-* [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti):Open Cyber Threat Intelligence Platform
-* [sourcebot-dev / sourcebot](https://github.com/sourcebot-dev/sourcebot):Sourcebot is a self-hosted tool that helps you understand your codebase.
+* [wg-easy / wg-easy](https://github.com/wg-easy/wg-easy):The easiest way to run WireGuard VPN + Web-based Admin UI.
+* [MotiaDev / motia](https://github.com/MotiaDev/motia):Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+* [flydelabs / flyde](https://github.com/flydelabs/flyde):Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
 * [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap):Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-* [refinedev / refine](https://github.com/refinedev/refine):A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-* [Mail-0 / Zero](https://github.com/Mail-0/Zero):Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-* [Kong / insomnia](https://github.com/Kong/insomnia):The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-* [silverbulletmd / silverbullet](https://github.com/silverbulletmd/silverbullet):An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
-* [anyproto / anytype-ts](https://github.com/anyproto/anytype-ts):Official Anytype client for MacOS, Linux, and Windows
+* [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook):💯 Curated coding interview preparation materials for busy software engineers
+* [logancyang / obsidian-copilot](https://github.com/logancyang/obsidian-copilot):THE Copilot in Obsidian
+* [bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop):Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+* [playcanvas / editor](https://github.com/playcanvas/editor):Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+* [better-auth / better-auth](https://github.com/better-auth/better-auth):The most comprehensive authentication framework for TypeScript
+* [discordjs / discord.js](https://github.com/discordjs/discord.js):A powerful JavaScript library for interacting with the Discord API
+* [payloadcms / payload](https://github.com/payloadcms/payload):Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+* [documenso / documenso](https://github.com/documenso/documenso):The Open Source DocuSign Alternative.
+* [actualbudget / actual](https://github.com/actualbudget/actual):A local-first personal finance app
+* [reactjs / react.dev](https://github.com/reactjs/react.dev):The React documentation website
+* [webstudio-is / webstudio](https://github.com/webstudio-is/webstudio):Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
