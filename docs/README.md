@@ -1,4 +1,4 @@
-## 2025-09-22
+## 2025-09-23
 
 #### trending
 * [Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC):🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
@@ -161,7 +161,6 @@
 * [solana-foundation / anchor](https://github.com/solana-foundation/anchor):⚓ Solana Program Framework
 * [fish-shell / fish-shell](https://github.com/fish-shell/fish-shell):The user-friendly command line shell.
 * [uutils / coreutils](https://github.com/uutils/coreutils):Cross-platform Rust rewrite of the GNU coreutils
-* [sigoden / aichat](https://github.com/sigoden/aichat):All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 * [sxyazi / yazi](https://github.com/sxyazi/yazi):💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 * [HelixDB / helix-db](https://github.com/HelixDB/helix-db):HelixDB is a database built from scratch to be the backend for any AI application.
 * [matrix-construct / tuwunel](https://github.com/matrix-construct/tuwunel):Official successor to conduwuit
