@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+# coding:utf-8
+
+def generate_enhanced_docsify_config():
+    """Gera configuração melhorada para o Docsify"""
+    
+    config = """<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -405,8 +410,8 @@
     <!-- Analytics (only for production) -->
     <script>
       if (location.hostname === 'araguaci.github.io') {
-        document.write('<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"><\/script>');
-        document.write('<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js"><\/script>');
+        document.write('<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"><\\/script>');
+        document.write('<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js"><\\/script>');
       }
     </script>
     
@@ -440,4 +445,32 @@
       });
     </script>
   </body>
-</html>
+</html>"""
+    
+    return config
+
+
+def main():
+    """Gera arquivo de configuração melhorado"""
+    config = generate_enhanced_docsify_config()
+    
+    with open('docs/index_enhanced.html', 'w', encoding='utf-8') as f:
+        f.write(config)
+    
+    print("Configuração Docsify melhorada gerada: docs/index_enhanced.html")
+    print("\nRecursos incluídos:")
+    print("   - Busca avançada")
+    print("   - Paginação")
+    print("   - Abas")
+    print("   - Cópia de código")
+    print("   - Zoom de imagens")
+    print("   - Links externos")
+    print("   - Edição no GitHub")
+    print("   - Comentários Disqus")
+    print("   - Analytics")
+    print("   - Temas personalizados")
+    print("   - Design responsivo")
+
+
+if __name__ == '__main__':
+    main()

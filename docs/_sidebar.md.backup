@@ -1,6 +1,4 @@
-- [categories](/categories.md)
-- [stats](/stats.md)
-- [trending-now](/trending-now.md)
+- [TODAY](/README.md)
 - [2025](/2025/index.md)
 - [2024](/2024/index.md)
 - [2023](/2023/index.md)
@@ -10,7 +8,7 @@
 - [2019](/2019/index.md)
 - [2018](/2018/index.md)
 - [2017](/2017/index.md)
-- [repos]
+- [repos](/repos/index.md)
   - [3DTresjs](/repos/3DTresjs.md)
   - [ace-builds](/repos/ace-builds.md)
   - [adminlte-laravel](/repos/adminlte-laravel.md)
