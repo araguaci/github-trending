@@ -13,4 +13,4 @@ vendor
 desktop.ini
 makesidebar.php.env
 .env.*
-
+.env
