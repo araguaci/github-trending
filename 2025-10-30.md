@@ -11,13 +11,13 @@
 * [block / goose](https://github.com/block/goose) ⭐ 21,103: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * [allenai / olmocr](https://github.com/allenai/olmocr) ⭐ 15,126: Toolkit for linearizing PDFs for LLM datasets/training
 * [dotnet / eShop](https://github.com/dotnet/eShop) ⭐ 9,417: A reference .NET application implementing an eCommerce site
-* [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 58,539: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-* [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) ⭐ 3,994: The absolute trainer to light up AI agents.
+* [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 58,540: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+* [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) ⭐ 3,995: The absolute trainer to light up AI agents.
 
 #### c#
 * [fluent / fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 7,358: Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows
 * [nothings / stb](https://github.com/nothings/stb) ⭐ 30,363: stb single-file public domain libraries for C/C++
-* [lvgl / lvgl](https://github.com/lvgl/lvgl) ⭐ 21,773: Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+* [lvgl / lvgl](https://github.com/lvgl/lvgl) ⭐ 21,774: Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 * [meetecho / janus-gateway](https://github.com/meetecho/janus-gateway) ⭐ 8,883: Janus WebRTC Server
 * [NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) ⭐ 16,302: NVIDIA Linux open GPU kernel module source
 * [freebsd / freebsd-src](https://github.com/freebsd/freebsd-src) ⭐ 8,575: The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
@@ -171,7 +171,7 @@
 * [Beingpax / VoiceInk](https://github.com/Beingpax/VoiceInk) ⭐ 2,332: Voice-to-text app for macOS to transcribe what you say to text almost instantly
 * [ml-explore / mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) ⭐ 2,270: Examples using MLX Swift
 * [permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat) ⭐ 23,140: bluetooth mesh chat, IRC vibes
-* [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,190: Elegant HTTP Networking in Swift
+* [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,191: Elegant HTTP Networking in Swift
 * [vapor / vapor](https://github.com/vapor/vapor) ⭐ 25,683: 💧 A server-side Swift HTTP web framework.
 * [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 14,023: A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 * [mozilla-mobile / firefox-ios](https://github.com/mozilla-mobile/firefox-ios) ⭐ 12,748: Firefox for iOS
@@ -215,7 +215,7 @@
 
 #### python
 * [allenai / olmocr](https://github.com/allenai/olmocr) ⭐ 15,126: Toolkit for linearizing PDFs for LLM datasets/training
-* [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) ⭐ 3,994: The absolute trainer to light up AI agents.
+* [microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) ⭐ 3,995: The absolute trainer to light up AI agents.
 * [microsoft / RD-Agent](https://github.com/microsoft/RD-Agent) ⭐ 8,998: Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
 * [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 74,137: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * [ansible / ansible](https://github.com/ansible/ansible) ⭐ 66,873: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
@@ -233,7 +233,7 @@
 
 #### typescript
 * [cjpais / Handy](https://github.com/cjpais/Handy) ⭐ 4,558: A free, open source, and extensible speech-to-text application that works completely offline.
-* [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 58,539: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+* [toeverything / AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 58,540: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 * [coinbase / x402](https://github.com/coinbase/x402) ⭐ 3,446: A payments protocol for the internet. Built on HTTP.
 * [n8n-io / n8n](https://github.com/n8n-io/n8n) ⭐ 152,714: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [sequelize / sequelize](https://github.com/sequelize/sequelize) ⭐ 30,200: Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
