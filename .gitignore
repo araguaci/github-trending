@@ -11,4 +11,6 @@ vendor
 *.ps1
 *.bat 
 desktop.ini
-makesidebar.php
+makesidebar.php.env
+.env.*
+
