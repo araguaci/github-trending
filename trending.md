@@ -25,44 +25,44 @@
 <link crossorigin="anonymous" href="https://github.githubassets.com/assets/github-490b3f68bf33.css" media="all" rel="stylesheet"/>
 <link crossorigin="anonymous" href="https://github.githubassets.com/assets/site-7908d55f3275.css" media="all" rel="stylesheet"/>
 <link crossorigin="anonymous" href="https://github.githubassets.com/assets/explore-0e6dba122f33.css" media="all" rel="stylesheet"/>
-<script id="client-env" type="application/json">{"locale":"en","featureFlags":["actions_custom_images_public_preview_visibility","actions_custom_images_storage_billing_ui_visibility","actions_enable_snapshot_keyword","actions_image_version_event","alternate_user_config_repo","api_insights_show_missing_data_banner","attestations_filtering","attestations_sorting","billing_hide_expired_credits","billing_split_pru_skus","billing_split_pru_skus","billing_unfiltered_discounts","client_version_header","codespaces_prebuild_region_target_update","contentful_lp_footnotes","copilot_agent_cli_public_preview","copilot_agent_task_list_v2","copilot_agent_tasks_btn_code_nav","copilot_agent_tasks_btn_code_view","copilot_agent_tasks_btn_code_view_lines","copilot_api_agentic_issue_marshal_yaml","copilot_api_github_draft_update_issue_skill","copilot_chat_agents_empty_state","copilot_chat_attach_multiple_images","copilot_chat_file_redirect","copilot_chat_input_commands","copilot_chat_reduce_quota_checks","copilot_chat_search_bar_redirect","copilot_chat_selection_attachments","copilot_chat_vision_in_claude","copilot_chat_vision_skip_thread_create","copilot_coding_agent_task_response","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_deprecation_notice","copilot_features_raycast_logo","copilot_file_block_ref_matching","copilot_free_to_paid_telem","copilot_ftp_hyperspace_upgrade_prompt","copilot_ftp_settings_upgrade","copilot_ftp_upgrade_to_pro_from_models","copilot_ftp_your_copilot_settings","copilot_immersive_structured_model_picker","copilot_immersive_task_hyperlinking","copilot_immersive_task_within_chat_thread","copilot_insights_column_chart_axis_legibility_fix","copilot_insights_public_preview","copilot_insights_usage_export_ndjson","copilot_no_floating_button","copilot_read_shared_conversation","copilot_security_alert_assignee_options","copilot_spaces_as_attachments","copilot_spaces_ga","copilot_spark_empty_state","copilot_spark_loading_webgl","copilot_spark_progressive_error_handling","copilot_spark_use_billing_headers","copilot_stable_conversation_view","copilot_swe_agent_progress_commands","copilot_swe_agent_use_subagents","copilot_workbench_agent_seed_tool","copilot_workbench_cache","copilot_workbench_preview_analytics","copilot_workbench_skip_repo_on_codespace","copilot_workbench_use_single_prompt","deployment_record_api","direct_to_salesforce","disable_dashboard_universe_2025_private_preview","dotcom_chat_client_side_skills","failbot_report_error_react_apps_on_page","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","global_search_multi_orgs","hpc_improve_dom_insertion_observer","hyperspace_2025_logged_out_batch_1","hyperspace_nudges_universe25","hyperspace_nudges_universe25_post_event","inp_reduced_threshold","insert_before_patch","issue_fields_report_usage","issues_copilot_cross_repo_assign","issues_react_blur_item_picker_on_close","issues_react_bots_timeline_pagination","issues_react_prohibit_title_fallback","issues_react_remove_placeholders","issues_sticky_sidebar","kb_convert_to_space","lifecycle_label_name_updates","link_contact_sales_swp_marketo","marketing_pages_search_explore_provider","mcp_registry_install","memex_mwl_filter_field_delimiter","new_traffic_page_banner","open_agent_session_in_vscode_insiders","pinned_issue_fields","primer_react_segmented_control_tooltip","primer_react_unified_portal_root","primer_react_use_styled_react_theming","react_fetch_graphql_validate_base_url","record_sso_banner_metrics","remove_child_patch","repos_insights_remove_new_url","sample_network_conn_type","scheduled_reminders_updated_limits","site_features_copilot_universe","site_homepage_collaborate_video","site_homepage_contentful","site_homepage_eyebrow_banner","site_homepage_universe_animations","site_msbuild_webgl_hero","spark_fix_rename","spark_force_push_after_checkout","spark_improve_image_upload","spark_kv_encocoded_keys","spark_show_data_access_on_publish","spark_sync_repository_after_iteration","viewscreen_sandbox","webp_support","workbench_store_readonly"],"copilotApiOverrideUrl":"https://api.githubcopilot.com"}</script>
-<script crossorigin="anonymous" src="https://github.githubassets.com/assets/high-contrast-cookie-f3788027bd8d.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/wp-runtime-1cc776af0381.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-468bf7cab607.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-2f4e04-280c10ec004d.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/environment-b4e74adb6411.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_index_mjs-3eee64e5ddf0.js" type="application/javascript"></script>
+<script id="client-env" type="application/json">{"locale":"en","featureFlags":["actions_custom_images_public_preview_visibility","actions_custom_images_storage_billing_ui_visibility","actions_enable_snapshot_keyword","actions_image_version_event","alternate_user_config_repo","api_insights_show_missing_data_banner","attestations_filtering","attestations_sorting","automated_review_comment_simplification","billing_hide_expired_credits","billing_split_pru_skus","billing_split_pru_skus","client_version_header","codespaces_prebuild_region_target_update","contentful_lp_footnotes","copilot_agent_cli_public_preview","copilot_agent_task_list_v2","copilot_agent_tasks_btn_code_nav","copilot_agent_tasks_btn_code_view","copilot_agent_tasks_btn_code_view_lines","copilot_api_agentic_issue_marshal_yaml","copilot_api_draft_issues_with_dependencies","copilot_api_github_draft_update_issue_skill","copilot_chat_agents_empty_state","copilot_chat_attach_multiple_images","copilot_chat_file_redirect","copilot_chat_input_commands","copilot_chat_reduce_quota_checks","copilot_chat_search_bar_redirect","copilot_chat_selection_attachments","copilot_chat_vision_in_claude","copilot_chat_vision_skip_thread_create","copilot_coding_agent_task_response","copilot_custom_copilots","copilot_custom_copilots_feature_preview","copilot_duplicate_thread","copilot_extensions_deprecation_notice","copilot_extensions_removal_on_marketplace","copilot_features_raycast_logo","copilot_file_block_ref_matching","copilot_free_to_paid_telem","copilot_ftp_hyperspace_upgrade_prompt","copilot_ftp_settings_upgrade","copilot_ftp_upgrade_to_pro_from_models","copilot_ftp_your_copilot_settings","copilot_immersive_structured_model_picker","copilot_immersive_task_hyperlinking","copilot_immersive_task_within_chat_thread","copilot_insights_column_chart_axis_legibility_fix","copilot_insights_public_preview","copilot_insights_usage_export_ndjson","copilot_no_floating_button","copilot_org_policy_page_focus_mode","copilot_read_shared_conversation","copilot_security_alert_assignee_options","copilot_spaces_as_attachments","copilot_spaces_ga","copilot_spark_empty_state","copilot_spark_loading_webgl","copilot_spark_progressive_error_handling","copilot_spark_use_billing_headers","copilot_stable_conversation_view","copilot_swe_agent_progress_commands","copilot_swe_agent_use_subagents","copilot_workbench_agent_seed_tool","copilot_workbench_cache","copilot_workbench_preview_analytics","copilot_workbench_skip_repo_on_codespace","copilot_workbench_use_single_prompt","deployment_record_api","direct_to_salesforce","disable_dashboard_universe_2025_private_preview","dotcom_chat_client_side_skills","failbot_report_error_react_apps_on_page","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","global_search_multi_orgs","hpc_improve_dom_insertion_observer","hyperspace_2025_logged_out_batch_1","hyperspace_nudges_universe25","hyperspace_nudges_universe25_post_event","inp_reduced_threshold","insert_before_patch","issue_fields_report_usage","issues_copilot_cross_repo_assign","issues_react_blur_item_picker_on_close","issues_react_bots_timeline_pagination","issues_react_prohibit_title_fallback","issues_react_remove_placeholders","issues_sticky_sidebar","kb_convert_to_space","lifecycle_label_name_updates","link_contact_sales_swp_marketo","marketing_pages_search_explore_provider","mcp_registry_install","memex_mwl_filter_field_delimiter","new_traffic_page_banner","open_agent_session_in_vscode_insiders","pinned_issue_fields","primer_react_segmented_control_tooltip","primer_react_unified_portal_root","primer_react_use_styled_react_theming","react_fetch_graphql_filter_sensitive_data","react_fetch_graphql_rate_limit_error_handling","react_fetch_graphql_validate_base_url","record_sso_banner_metrics","remove_child_patch","repos_insights_remove_new_url","repository_picker_fast_search","ruleset_deletion_confirmation","sample_network_conn_type","scheduled_reminders_updated_limits","site_features_copilot_universe","site_homepage_collaborate_video","site_homepage_contentful","site_homepage_eyebrow_banner","site_homepage_universe_animations","site_msbuild_webgl_hero","spark_fix_rename","spark_force_push_after_checkout","spark_improve_image_upload","spark_kv_encocoded_keys","spark_show_data_access_on_publish","spark_sync_repository_after_iteration","viewscreen_sandbox","webp_support","workbench_store_readonly"],"copilotApiOverrideUrl":"https://api.githubcopilot.com"}</script>
+<script crossorigin="anonymous" src="https://github.githubassets.com/assets/high-contrast-cookie-1a011967750c.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/wp-runtime-a5ff171ed4dc.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-392bf0ab720a.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-2f4e04-ebb51d646f4d.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/environment-18c386dc8ed3.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_index_mjs-1b15302f2da0.js" type="application/javascript"></script>
 <script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-9ab93471824e.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-ef89d23fcc0a.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-0d7d60-ad3a87b2f0eb.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-754f5b5e9e7e.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-665e70-ac788066c220.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-d41270eb61be.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-777ce2-9ec8c103bf42.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/github-elements-9e1d42c09c62.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/element-registry-91c24873dcb9.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-f11c694928ba.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-9012bef51135.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-15c8a75d3ef5.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-0d7d60-a999b98ae398.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_text-expander-element_dist_index_js-69eb26872f2d.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-665e70-6080d4c6306d.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-b03ed9e33b62.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-777ce2-fc39771b9382.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/github-elements-b6c5dfce8b45.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/element-registry-0e7d696b047b.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-4e1c4d231e25.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-0bb805df324c.js" type="application/javascript"></script>
 <script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-c1896e-ba47f43192a8.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-9ba0881c72fb.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-8eb9b2209bcd.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_hotkey_dist_index_js-node_modules_github_hydro-analytics-client_d-502318-b6850e6a8b08.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-7154bb-4c81ec053a86.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/packages_document-metadata_document-metadata_ts-packages_failbot_failbot_ts-06156f7d8d1a.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-893f9f-25a564a55564.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-b9d3c573623e.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_hotkey_dist_index_js-node_modules_github_hydro-analytics-client_d-502318-5215461ac705.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-7154bb-5d699c37a4cf.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/packages_document-metadata_document-metadata_ts-packages_failbot_failbot_ts-54754da9db3d.js" type="application/javascript"></script>
 <script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/packages_updatable-content_updatable-content_ts-38f5e2f7c2a7.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_details-6493f1-cecb020e2bb7.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_throttled-input_ts-047775-cfe8770908d1.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_details-6493f1-48f516987b6b.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_throttled-input_ts-047775-c6f476084254.js" type="application/javascript"></script>
 <script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-d8c5bfe37d1d.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/behaviors-debf59ec3fe9.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-ef6d0f-20d6767cecc0.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/notifications-global-d89a4ddd4532.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/behaviors-56b6864296cc.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-ef6d0f-af7473406ffd.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/notifications-global-54d9bcff2c38.js" type="application/javascript"></script>
 <title>Trending  repositories on GitHub today · GitHub</title>
 <meta content="/trending(/:language)(.:format)" data-turbo-transient="" name="route-pattern"/>
 <meta content="trending" data-turbo-transient="" name="route-controller"/>
 <meta content="index" data-turbo-transient="" name="route-action"/>
-<meta content="v2:4f45aa1e-869e-0b75-6370-506c2914c38d" name="fetch-nonce"/>
+<meta content="v2:f7f432ad-6d5a-c739-b150-9b24388d013c" name="fetch-nonce"/>
 <meta content="68905b05f2811955010ef44286a1edf6dad580d793d21bb719e7abcf48e7a0ae" name="current-catalog-service-hash"/>
-<meta content="D52B:1E0A87:1357E05:16EB26F:69067894" data-pjax-transient="true" name="request-id"><meta content="94bbe041895a5b504f434dc12701e48c793a1d7f8c0e2fbb0ea5ef520adc0751" data-pjax-transient="true" name="html-safe-nonce"><meta content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENTJCOjFFMEE4NzoxMzU3RTA1OjE2RUIyNkY6NjkwNjc4OTQiLCJ2aXNpdG9yX2lkIjoiNTU0MDE5NTg5NTg5NzEyNzA2MCIsInJlZ2lvbl9lZGdlIjoiYnJhemlsc291dGgiLCJyZWdpb25fcmVuZGVyIjoiYnJhemlsc291dGgifQ==" data-pjax-transient="true" name="visitor-payload"><meta content="22c31d05e4fa2558c1951eaeb234f58b22d90775021bc27a18875f8d63f596fa" data-pjax-transient="true" name="visitor-hmac">
+<meta content="F086:E85EE:5E262C:66BB31:690A6D09" data-pjax-transient="true" name="request-id"><meta content="82df05a6e461648fdcde88ba2df570ca948a9e6031ee8136ac236cf57fb50466" data-pjax-transient="true" name="html-safe-nonce"><meta content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGMDg2OkU4NUVFOjVFMjYyQzo2NkJCMzE6NjkwQTZEMDkiLCJ2aXNpdG9yX2lkIjoiMjA2MzA0NzUzMDQ4MDU2MTQxNyIsInJlZ2lvbl9lZGdlIjoiYnJhemlsc291dGgiLCJyZWdpb25fcmVuZGVyIjoiYnJhemlsc291dGgifQ==" data-pjax-transient="true" name="visitor-payload"><meta content="a0e81a634d18f0118d926f97674de29095828b9246144a37b44bad0c5e5853a7" data-pjax-transient="true" name="visitor-hmac">
 <meta content="copilot" data-turbo-transient="true" name="github-keyboard-shortcuts">
 <meta data-turbo-transient="" name="selected-link" value="trending_repositories"/>
 <link href="https://github.githubassets.com/" rel="assets"/>
@@ -103,16 +103,16 @@
 <meta content="1200" property="twitter:image:height"/>
 <meta content="github.com" name="hostname"/>
 <meta content="github.com" name="expected-hostname"/>
-<meta content="9890aecdee21df493c1ea7e1fcff6415eb8cc0af6ed8c7ce9734fcd5fe65cf1a" data-turbo-track="reload" http-equiv="x-pjax-version"/>
+<meta content="e82fcc53b1128b0d5e29a9817c85350724c326ff47fc3bbe9c2cbd07f92cad57" data-turbo-track="reload" http-equiv="x-pjax-version"/>
 <meta content="21a43568025709b66240454fc92d4f09335a96863f8ab1c46b4a07f6a5b67102" data-turbo-track="reload" http-equiv="x-pjax-csp-version"/>
 <meta content="64aa48ca69ddc4d1267863e96c8a5c11e0cb33842931f16e1441b54a84bcc1ad" data-turbo-track="reload" http-equiv="x-pjax-css-version"/>
-<meta content="b390268bacc1336925a16a0d32843839c3db64b65cf390fb0f19a7510eee3e4f" data-turbo-track="reload" http-equiv="x-pjax-js-version"/>
+<meta content="f50acf313128bd5cf1308c0a7d4f49f1537ccb12ffcc83f23e0d4c045d971ebd" data-turbo-track="reload" http-equiv="x-pjax-js-version"/>
 <meta content="no-preview" data-turbo-transient="" name="turbo-cache-control"/>
 <link data-turbo-transient="" href="https://github.com/trending" rel="canonical"/>
 <meta content="logged-out env-production page-responsive" name="turbo-body-classes"/>
 <meta content="https://api.github.com/_private/browser/stats" name="browser-stats-url"/>
 <meta content="https://api.github.com/_private/browser/errors" name="browser-errors-url"/>
-<meta content="6f0a50c83824a7b7b3ed4ac8a758c063075591b0" name="release"/>
+<meta content="8c034eb1e990cd37a0ca17fea47d45875d8cbedb" name="release"/>
 <meta content="full" name="ui-target"/>
 <link color="#000000" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" rel="mask-icon"/>
 <link class="js-site-favicon" href="https://github.githubassets.com/favicons/favicon.png" rel="alternate icon" type="image/png"/>
@@ -128,15 +128,15 @@
 <span class="progress-pjax-loader Progress position-fixed width-full" data-view-component="true">
 <span class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis" data-view-component="true" style="width: 0%;"></span>
 </span>
-<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.5e7f07b3b8c1e951002c.module.css" media="all" rel="stylesheet">
+<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.53f37102c46fd176a96b.module.css" media="all" rel="stylesheet">
 <link crossorigin="anonymous" href="https://github.githubassets.com/assets/keyboard-shortcuts-dialog.2de9c7d6456a311fce49.module.css" media="all" rel="stylesheet">
 <react-partial data-attempted-ssr="false" data-react-profiling="false" data-ssr="false" partial-name="keyboard-shortcuts-dialog">
 <script data-target="react-partial.embeddedData" type="application/json">{"props":{"docsUrl":"https://docs.github.com/get-started/accessibility/keyboard-shortcuts"}}</script>
 <div data-target="react-partial.reactRoot"></div>
 </react-partial>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_gsap_index_js-6265bea06e74.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-dc050877d1bf.js" type="application/javascript"></script>
-<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/sessions-917229b8a853.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_gsap_index_js-1399719d10c8.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-0b6bd345de5a.js" type="application/javascript"></script>
+<script crossorigin="anonymous" defer="defer" src="https://github.githubassets.com/assets/sessions-216a1543df89.js" type="application/javascript"></script>
 <header class="HeaderMktg header-logged-out js-details-container js-header Details f4 py-3" data-color-mode="light" data-dark-theme="dark" data-is-top="true" data-light-theme="light" role="banner">
 <h2 class="sr-only">Navigation Menu</h2>
 <button aria-label="Toggle navigation" class="HeaderMktg-backdrop d-lg-none border-0 position-fixed top-0 left-0 width-full height-full js-details-target" type="button">
@@ -163,12 +163,12 @@
           </a>
 <div class="AppHeader-appearanceSettings">
 <react-partial-anchor>
-<button aria-labelledby="tooltip-c5ed7daa-3321-4590-97e0-bbcbffc3c517" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait" data-target="react-partial-anchor.anchor" data-view-component="true" disabled="disabled" id="icon-button-c2b48c7e-0dc8-4f30-9c83-869549ac8288" type="button"> <svg aria-hidden="true" class="octicon octicon-sliders Button-visual" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<button aria-labelledby="tooltip-211493e5-dc41-4bd3-8b61-719803673438" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait" data-target="react-partial-anchor.anchor" data-view-component="true" disabled="disabled" id="icon-button-3165633e-d3af-4510-a3a7-e046e4e4a94c" type="button"> <svg aria-hidden="true" class="octicon octicon-sliders Button-visual" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-c2b48c7e-0dc8-4f30-9c83-869549ac8288" id="tooltip-c5ed7daa-3321-4590-97e0-bbcbffc3c517" popover="manual">Appearance settings</tool-tip>
+</button><tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-3165633e-d3af-4510-a3a7-e046e4e4a94c" id="tooltip-211493e5-dc41-4bd3-8b61-719803673438" popover="manual">Appearance settings</tool-tip>
 <template data-target="react-partial-anchor.template">
-<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.5e7f07b3b8c1e951002c.module.css" media="all" rel="stylesheet">
+<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.53f37102c46fd176a96b.module.css" media="all" rel="stylesheet">
 <link crossorigin="anonymous" href="https://github.githubassets.com/assets/appearance-settings.6c63a6de228d6520804d.module.css" media="all" rel="stylesheet">
 <react-partial data-attempted-ssr="false" data-react-profiling="false" data-ssr="false" partial-name="appearance-settings">
 <script data-target="react-partial.embeddedData" type="application/json">{"props":{}}</script>
@@ -181,610 +181,14 @@
 </div>
 <div class="HeaderMenu js-header-menu height-fit position-lg-relative d-lg-flex flex-column flex-auto top-0">
 <div class="HeaderMenu-wrapper d-flex flex-column flex-self-start flex-lg-row flex-auto rounded rounded-lg-0">
-<nav aria-label="Global" class="HeaderMenu-nav">
-<ul class="d-lg-flex list-style-none">
-<li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-<button aria-expanded="false" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" type="button">
-        Platform
-        <svg aria-hidden="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1" data-view-component="true" height="16" opacity="0.5" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-</button>
-<div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 dropdown-menu-wide">
-<div class="d-lg-flex dropdown-menu-wide">
-<div class="HeaderMenu-column px-lg-4">
-<div class="">
-<ul class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"github_copilot","context":"platform","tag":"link","label":"github_copilot_link_platform_navbar"}' href="https://github.com/features/copilot">
-<svg aria-hidden="true" class="octicon octicon-copilot color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          GitHub Copilot
-
-        </div>
-
-        Write better code with AI
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"github_spark","context":"platform","tag":"link","label":"github_spark_link_platform_navbar"}' href="https://github.com/features/spark">
-<svg aria-hidden="true" class="octicon octicon-sparkle-fill color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M11.296 1.924c.24-.656 1.168-.656 1.408 0l.717 1.958a11.25 11.25 0 0 0 6.697 6.697l1.958.717c.657.24.657 1.168 0 1.408l-1.958.717a11.25 11.25 0 0 0-6.697 6.697l-.717 1.958c-.24.657-1.168.657-1.408 0l-.717-1.958a11.25 11.25 0 0 0-6.697-6.697l-1.958-.717c-.656-.24-.656-1.168 0-1.408l1.958-.717a11.25 11.25 0 0 0 6.697-6.697l.717-1.958Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          GitHub Spark
-
-            <span class="HeaderMenu-label">
-              New
-            </span>
-</div>
-
-        Build and deploy intelligent apps
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"github_models","context":"platform","tag":"link","label":"github_models_link_platform_navbar"}' href="https://github.com/features/models">
-<svg aria-hidden="true" class="octicon octicon-ai-model color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M19.375 8.5a3.25 3.25 0 1 1-3.163 4h-3a3.252 3.252 0 0 1-4.443 2.509L7.214 17.76a3.25 3.25 0 1 1-1.342-.674l1.672-2.957A3.238 3.238 0 0 1 6.75 12c0-.907.371-1.727.97-2.316L6.117 6.846A3.253 3.253 0 0 1 1.875 3.75a3.25 3.25 0 1 1 5.526 2.32l1.603 2.836A3.25 3.25 0 0 1 13.093 11h3.119a3.252 3.252 0 0 1 3.163-2.5ZM10 10.25a1.75 1.75 0 1 0-.001 3.499A1.75 1.75 0 0 0 10 10.25ZM5.125 2a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5Zm12.5 9.75a1.75 1.75 0 1 0 3.5 0 1.75 1.75 0 0 0-3.5 0Zm-14.25 8.5a1.75 1.75 0 1 0 3.501-.001 1.75 1.75 0 0 0-3.501.001Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          GitHub Models
-
-            <span class="HeaderMenu-label">
-              New
-            </span>
-</div>
-
-        Manage and compare prompts
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"github_advanced_security","context":"platform","tag":"link","label":"github_advanced_security_link_platform_navbar"}' href="https://github.com/security/advanced-security">
-<svg aria-hidden="true" class="octicon octicon-shield-check color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          GitHub Advanced Security
-
-        </div>
-
-        Find and fix vulnerabilities
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event='{"location":"navbar","action":"actions","context":"platform","tag":"link","label":"actions_link_platform_navbar"}' href="https://github.com/features/actions">
-<svg aria-hidden="true" class="octicon octicon-workflow color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M1 3a2 2 0 0 1 2-2h6.5a2 2 0 0 1 2 2v6.5a2 2 0 0 1-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 0 1 2-2H21a2 2 0 0 1 2 2V21a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-2.5H8.437A2.939 2.939 0 0 1 5.5 15.562V11.5H3a2 2 0 0 1-2-2Zm2-.5a.5.5 0 0 0-.5.5v6.5a.5.5 0 0 0 .5.5h6.5a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5ZM14.5 14a.5.5 0 0 0-.5.5V21a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5v-6.5a.5.5 0 0 0-.5-.5Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Actions
-
-        </div>
-
-        Automate any workflow
-      </div>
-</a></li>
-</ul>
-</div>
-</div>
-<div class="HeaderMenu-column px-lg-4 pb-3 pb-lg-0 border-lg-right">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 pb-3">
-<ul class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"codespaces","context":"platform","tag":"link","label":"codespaces_link_platform_navbar"}' href="https://github.com/features/codespaces">
-<svg aria-hidden="true" class="octicon octicon-codespaces color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 18.75 13H5.25a1.75 1.75 0 0 1-1.75-1.75Zm-2 12c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75ZM5.25 3.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Zm-2 12a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25Z"></path><path d="M10 17.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Codespaces
-
-        </div>
-
-        Instant dev environments
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"issues","context":"platform","tag":"link","label":"issues_link_platform_navbar"}' href="https://github.com/features/issues">
-<svg aria-hidden="true" class="octicon octicon-issue-opened color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Zm9.5 2a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Issues
-
-        </div>
-
-        Plan and track work
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"code_review","context":"platform","tag":"link","label":"code_review_link_platform_navbar"}' href="https://github.com/features/code-review">
-<svg aria-hidden="true" class="octicon octicon-code-review color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M10.3 6.74a.75.75 0 0 1-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 0 1-1.75 1.75h-9.69l-3.573 3.573A1.458 1.458 0 0 1 5 21.043V18.5H3.25a1.75 1.75 0 0 1-1.75-1.75ZM3.25 4a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 .75.75v3.19l3.72-3.72a.749.749 0 0 1 .53-.22h10a.25.25 0 0 0 .25-.25V4.25a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Code Review
-
-        </div>
-
-        Manage code changes
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"discussions","context":"platform","tag":"link","label":"discussions_link_platform_navbar"}' href="https://github.com/features/discussions">
-<svg aria-hidden="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Discussions
-
-        </div>
-
-        Collaborate outside of code
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event='{"location":"navbar","action":"code_search","context":"platform","tag":"link","label":"code_search_link_platform_navbar"}' href="https://github.com/features/code-search">
-<svg aria-hidden="true" class="octicon octicon-code-square color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M10.3 8.24a.75.75 0 0 1-.04 1.06L7.352 12l2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M2 3.75C2 2.784 2.784 2 3.75 2h16.5c.966 0 1.75.784 1.75 1.75v16.5A1.75 1.75 0 0 1 20.25 22H3.75A1.75 1.75 0 0 1 2 20.25Zm1.75-.25a.25.25 0 0 0-.25.25v16.5c0 .138.112.25.25.25h16.5a.25.25 0 0 0 .25-.25V3.75a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Code Search
-
-        </div>
-
-        Find more, search less
-      </div>
-</a></li>
-</ul>
-</div>
-</div>
-<div class="HeaderMenu-column px-lg-4">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 mb-3 pb-3">
-<span class="d-block h4 color-fg-default my-1" id="platform-explore-heading">Explore</span>
-<ul aria-labelledby="platform-explore-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"why_github","context":"platform","tag":"link","label":"why_github_link_platform_navbar"}' href="https://github.com/why-github">
-      Why GitHub
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" data-analytics-event='{"location":"navbar","action":"documentation","context":"platform","tag":"link","label":"documentation_link_platform_navbar"}' href="https://docs.github.com" target="_blank">
-      Documentation
-
-    <svg aria-hidden="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" data-analytics-event='{"location":"navbar","action":"github_skills","context":"platform","tag":"link","label":"github_skills_link_platform_navbar"}' href="https://skills.github.com" target="_blank">
-      GitHub Skills
-
-    <svg aria-hidden="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" data-analytics-event='{"location":"navbar","action":"blog","context":"platform","tag":"link","label":"blog_link_platform_navbar"}' href="https://github.blog" target="_blank">
-      Blog
-
-    <svg aria-hidden="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-</ul>
-</div>
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 pb-3">
-<span class="d-block h4 color-fg-default my-1" id="platform-integrations-heading">Integrations</span>
-<ul aria-labelledby="platform-integrations-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"github_marketplace","context":"platform","tag":"link","label":"github_marketplace_link_platform_navbar"}' href="https://github.com/marketplace">
-      GitHub Marketplace
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"mcp_registry","context":"platform","tag":"link","label":"mcp_registry_link_platform_navbar"}' href="https://github.com/mcp">
-      MCP Registry
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="HeaderMenu-trailing-link rounded-bottom-2 mt-lg-4 px-lg-4 py-4 py-lg-3 f5 text-semibold">
-<a data-analytics-event='{"location":"navbar","action":"view_all_features","context":"platform","tag":"link","label":"view_all_features_link_platform_navbar"}' href="https://github.com/features">
-              View all features
-              <svg aria-hidden="true" class="octicon octicon-chevron-right HeaderMenu-trailing-link-icon" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a> </div>
-</div>
-</li>
-<li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-<button aria-expanded="false" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" type="button">
-        Solutions
-        <svg aria-hidden="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1" data-view-component="true" height="16" opacity="0.5" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-</button>
-<div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 dropdown-menu-wide">
-<div class="d-lg-flex dropdown-menu-wide">
-<div class="HeaderMenu-column px-lg-4 pb-3 pb-lg-0 border-lg-right">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 pb-3">
-<span class="d-block h4 color-fg-default my-1" id="solutions-by-company-size-heading">By company size</span>
-<ul aria-labelledby="solutions-by-company-size-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"enterprises","context":"solutions","tag":"link","label":"enterprises_link_solutions_navbar"}' href="https://github.com/enterprise">
-      Enterprises
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"small_and_medium_teams","context":"solutions","tag":"link","label":"small_and_medium_teams_link_solutions_navbar"}' href="https://github.com/team">
-      Small and medium teams
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"startups","context":"solutions","tag":"link","label":"startups_link_solutions_navbar"}' href="https://github.com/enterprise/startups">
-      Startups
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"nonprofits","context":"solutions","tag":"link","label":"nonprofits_link_solutions_navbar"}' href="/solutions/industry/nonprofits">
-      Nonprofits
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-<div class="HeaderMenu-column px-lg-4 pb-3 pb-lg-0 border-lg-right">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 pb-3">
-<span class="d-block h4 color-fg-default my-1" id="solutions-by-use-case-heading">By use case</span>
-<ul aria-labelledby="solutions-by-use-case-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"app_modernization","context":"solutions","tag":"link","label":"app_modernization_link_solutions_navbar"}' href="/solutions/use-case/app-modernization">
-      App Modernization
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"devsecops","context":"solutions","tag":"link","label":"devsecops_link_solutions_navbar"}' href="/solutions/use-case/devsecops">
-      DevSecOps
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"devops","context":"solutions","tag":"link","label":"devops_link_solutions_navbar"}' href="/solutions/use-case/devops">
-      DevOps
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"ci_cd","context":"solutions","tag":"link","label":"ci_cd_link_solutions_navbar"}' href="/solutions/use-case/ci-cd">
-      CI/CD
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"view_all_use_cases","context":"solutions","tag":"link","label":"view_all_use_cases_link_solutions_navbar"}' href="/solutions/use-case">
-      View all use cases
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-<div class="HeaderMenu-column px-lg-4">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 pb-3">
-<span class="d-block h4 color-fg-default my-1" id="solutions-by-industry-heading">By industry</span>
-<ul aria-labelledby="solutions-by-industry-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"healthcare","context":"solutions","tag":"link","label":"healthcare_link_solutions_navbar"}' href="/solutions/industry/healthcare">
-      Healthcare
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"financial_services","context":"solutions","tag":"link","label":"financial_services_link_solutions_navbar"}' href="/solutions/industry/financial-services">
-      Financial services
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"manufacturing","context":"solutions","tag":"link","label":"manufacturing_link_solutions_navbar"}' href="/solutions/industry/manufacturing">
-      Manufacturing
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"government","context":"solutions","tag":"link","label":"government_link_solutions_navbar"}' href="/solutions/industry/government">
-      Government
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"view_all_industries","context":"solutions","tag":"link","label":"view_all_industries_link_solutions_navbar"}' href="/solutions/industry">
-      View all industries
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="HeaderMenu-trailing-link rounded-bottom-2 mt-lg-4 px-lg-4 py-4 py-lg-3 f5 text-semibold">
-<a data-analytics-event='{"location":"navbar","action":"view_all_solutions","context":"solutions","tag":"link","label":"view_all_solutions_link_solutions_navbar"}' href="/solutions">
-              View all solutions
-              <svg aria-hidden="true" class="octicon octicon-chevron-right HeaderMenu-trailing-link-icon" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path>
-</svg>
-</a> </div>
-</div>
-</li>
-<li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-<button aria-expanded="false" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" type="button">
-        Resources
-        <svg aria-hidden="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1" data-view-component="true" height="16" opacity="0.5" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-</button>
-<div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4 dropdown-menu-wide">
-<div class="d-lg-flex dropdown-menu-wide">
-<div class="HeaderMenu-column px-lg-4 pb-3 pb-lg-0 border-lg-right">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 pb-3">
-<span class="d-block h4 color-fg-default my-1" id="resources-topics-heading">Topics</span>
-<ul aria-labelledby="resources-topics-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"ai","context":"resources","tag":"link","label":"ai_link_resources_navbar"}' href="/resources/articles?topic=ai">
-      AI
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"devops","context":"resources","tag":"link","label":"devops_link_resources_navbar"}' href="/resources/articles?topic=devops">
-      DevOps
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"security","context":"resources","tag":"link","label":"security_link_resources_navbar"}' href="/resources/articles?topic=security">
-      Security
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"software_development","context":"resources","tag":"link","label":"software_development_link_resources_navbar"}' href="/resources/articles?topic=software-development">
-      Software Development
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"view_all","context":"resources","tag":"link","label":"view_all_link_resources_navbar"}' href="/resources/articles">
-      View all
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-<div class="HeaderMenu-column px-lg-4">
-<div class="border-bottom border-lg-bottom-0 pb-lg-0 border-bottom-0">
-<span class="d-block h4 color-fg-default my-1" id="resources-explore-heading">Explore</span>
-<ul aria-labelledby="resources-explore-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary Link--external" data-analytics-event='{"location":"navbar","action":"learning_pathways","context":"resources","tag":"link","label":"learning_pathways_link_resources_navbar"}' href="https://resources.github.com/learn/pathways" target="_blank">
-      Learning Pathways
-
-    <svg aria-hidden="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path>
-</svg>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"events_amp_webinars","context":"resources","tag":"link","label":"events_amp_webinars_link_resources_navbar"}' href="https://github.com/resources/events">
-      Events &amp; Webinars
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"ebooks_amp_whitepapers","context":"resources","tag":"link","label":"ebooks_amp_whitepapers_link_resources_navbar"}' href="https://github.com/resources/whitepapers">
-      Ebooks &amp; Whitepapers
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"customer_stories","context":"resources","tag":"link","label":"customer_stories_link_resources_navbar"}' href="https://github.com/customer-stories">
-      Customer Stories
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"partners","context":"resources","tag":"link","label":"partners_link_resources_navbar"}' href="https://github.com/partners">
-      Partners
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"executive_insights","context":"resources","tag":"link","label":"executive_insights_link_resources_navbar"}' href="https://github.com/solutions/executive-insights">
-      Executive Insights
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-<button aria-expanded="false" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" type="button">
-        Open Source
-        <svg aria-hidden="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1" data-view-component="true" height="16" opacity="0.5" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-</button>
-<div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4">
-<div class="d-lg-flex dropdown-menu-wide">
-<div class="HeaderMenu-column px-lg-4">
-<div class="border-bottom mb-3 mb-lg-3 pb-3">
-<ul class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event='{"location":"navbar","action":"github_sponsors","context":"open_source","tag":"link","label":"github_sponsors_link_open_source_navbar"}' href="/sponsors">
-<div>
-<div class="color-fg-default h4">
-          GitHub Sponsors
-
-        </div>
-
-        Fund open source developers
-      </div>
-</a></li>
-</ul>
-</div>
-<div class="border-bottom mb-3 mb-lg-3 pb-3">
-<ul class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event='{"location":"navbar","action":"the_readme_project","context":"open_source","tag":"link","label":"the_readme_project_link_open_source_navbar"}' href="https://github.com/readme">
-<div>
-<div class="color-fg-default h4">
-          The ReadME Project
-
-        </div>
-
-        GitHub community articles
-      </div>
-</a></li>
-</ul>
-</div>
-<div class="border-bottom border-bottom-0">
-<span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading">Repositories</span>
-<ul aria-labelledby="open-source-repositories-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"topics","context":"open_source","tag":"link","label":"topics_link_open_source_navbar"}' href="https://github.com/topics">
-      Topics
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"trending","context":"open_source","tag":"link","label":"trending_link_open_source_navbar"}' href="https://github.com/trending">
-      Trending
-
-    
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary" data-analytics-event='{"location":"navbar","action":"collections","context":"open_source","tag":"link","label":"collections_link_open_source_navbar"}' href="https://github.com/collections">
-      Collections
-
-    
-</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-<button aria-expanded="false" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" type="button">
-        Enterprise
-        <svg aria-hidden="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1" data-view-component="true" height="16" opacity="0.5" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"></path>
-</svg>
-</button>
-<div class="HeaderMenu-dropdown dropdown-menu rounded m-0 p-0 pt-2 pt-lg-4 position-relative position-lg-absolute left-0 left-lg-n3 pb-2 pb-lg-4">
-<div class="d-lg-flex dropdown-menu-wide">
-<div class="HeaderMenu-column px-lg-4">
-<div class="border-bottom mb-3 mb-lg-3 pb-3">
-<ul class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event='{"location":"navbar","action":"enterprise_platform","context":"enterprise","tag":"link","label":"enterprise_platform_link_enterprise_navbar"}' href="/enterprise">
-<svg aria-hidden="true" class="octicon octicon-stack color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M11.063 1.456a1.749 1.749 0 0 1 1.874 0l8.383 5.316a1.751 1.751 0 0 1 0 2.956l-8.383 5.316a1.749 1.749 0 0 1-1.874 0L2.68 9.728a1.751 1.751 0 0 1 0-2.956Zm1.071 1.267a.25.25 0 0 0-.268 0L3.483 8.039a.25.25 0 0 0 0 .422l8.383 5.316a.25.25 0 0 0 .268 0l8.383-5.316a.25.25 0 0 0 0-.422Z"></path><path d="M1.867 12.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path><path d="M1.867 16.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Enterprise platform
-
-        </div>
-
-        AI-powered developer platform
-      </div>
-</a></li>
-</ul>
-</div>
-<div class="border-bottom border-bottom-0">
-<span class="d-block h4 color-fg-default my-1" id="enterprise-available-add-ons-heading">Available add-ons</span>
-<ul aria-labelledby="enterprise-available-add-ons-heading" class="list-style-none f5">
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"github_advanced_security","context":"enterprise","tag":"link","label":"github_advanced_security_link_enterprise_navbar"}' href="https://github.com/security/advanced-security">
-<svg aria-hidden="true" class="octicon octicon-shield-check color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          GitHub Advanced Security
-
-        </div>
-
-        Enterprise-grade security features
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description mb-lg-3" data-analytics-event='{"location":"navbar","action":"copilot_for_business","context":"enterprise","tag":"link","label":"copilot_for_business_link_enterprise_navbar"}' href="/features/copilot/copilot-business">
-<svg aria-hidden="true" class="octicon octicon-copilot color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Copilot for business
-
-        </div>
-
-        Enterprise-grade AI features
-      </div>
-</a></li>
-<li>
-<a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event='{"location":"navbar","action":"premium_support","context":"enterprise","tag":"link","label":"premium_support_link_enterprise_navbar"}' href="/premium-support">
-<svg aria-hidden="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3" data-view-component="true" height="24" version="1.1" viewbox="0 0 24 24" width="24">
-<path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
-</svg>
-<div>
-<div class="color-fg-default h4">
-          Premium Support
-
-        </div>
-
-        Enterprise-grade 24/7 support
-      </div>
-</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-<a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event='{"location":"navbar","action":"platform","context":"global","tag":"link","label":"platform_link_global_navbar"}' href="https://github.com/pricing">Pricing</a>
-</li>
-</ul>
-</nav>
+<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.53f37102c46fd176a96b.module.css" media="all" rel="stylesheet">
+<link crossorigin="anonymous" href="https://github.githubassets.com/assets/marketing-navigation.fd20bacfa4fdf4953836.module.css" media="all" rel="stylesheet">
+<react-partial data-attempted-ssr="true" data-react-profiling="false" data-ssr="true" partial-name="marketing-navigation">
+<script data-target="react-partial.embeddedData" type="application/json">{"props":{"should_use_dotcom_links":true}}</script>
+<div data-target="react-partial.reactRoot"><nav aria-label="Global" class="MarketingNavigation-module__nav--jA9Zq"><ul class="MarketingNavigation-module__list--r_vr2"><li><div class="NavDropdown-module__container--bmXM2 js-details-container js-header-menu-item"><button aria-expanded="false" class="NavDropdown-module__button--Hq9UR js-details-target" type="button">Platform<svg aria-hidden="true" class="octicon octicon-chevron-right NavDropdown-module__buttonIcon--SR0Ke" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></button><div class="NavDropdown-module__dropdown--Ig57Y"><ul class="NavDropdown-module__list--RwSSK"><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">AI CODE CREATION</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_copilot","tag":"link","context":"platform","location":"navbar","label":"github_copilot_link_platform_navbar"}' href="https://github.com/features/copilot"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-copilot NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path></svg><span class="NavLink-module__title--xw3ok">GitHub Copilot</span><span class="NavLink-module__subtitle--qC15H">Write better code with AI</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_spark","tag":"link","context":"platform","location":"navbar","label":"github_spark_link_platform_navbar"}' href="https://github.com/features/spark"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-sparkle-fill NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M11.296 1.924c.24-.656 1.168-.656 1.408 0l.717 1.958a11.25 11.25 0 0 0 6.697 6.697l1.958.717c.657.24.657 1.168 0 1.408l-1.958.717a11.25 11.25 0 0 0-6.697 6.697l-.717 1.958c-.24.657-1.168.657-1.408 0l-.717-1.958a11.25 11.25 0 0 0-6.697-6.697l-1.958-.717c-.656-.24-.656-1.168 0-1.408l1.958-.717a11.25 11.25 0 0 0 6.697-6.697l.717-1.958Z"></path></svg><span class="NavLink-module__title--xw3ok">GitHub Spark</span><span class="NavLink-module__subtitle--qC15H">Build and deploy intelligent apps</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_models","tag":"link","context":"platform","location":"navbar","label":"github_models_link_platform_navbar"}' href="https://github.com/features/models"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-ai-model NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M19.375 8.5a3.25 3.25 0 1 1-3.163 4h-3a3.252 3.252 0 0 1-4.443 2.509L7.214 17.76a3.25 3.25 0 1 1-1.342-.674l1.672-2.957A3.238 3.238 0 0 1 6.75 12c0-.907.371-1.727.97-2.316L6.117 6.846A3.253 3.253 0 0 1 1.875 3.75a3.25 3.25 0 1 1 5.526 2.32l1.603 2.836A3.25 3.25 0 0 1 13.093 11h3.119a3.252 3.252 0 0 1 3.163-2.5ZM10 10.25a1.75 1.75 0 1 0-.001 3.499A1.75 1.75 0 0 0 10 10.25ZM5.125 2a1.75 1.75 0 1 0 0 3.5 1.75 1.75 0 0 0 0-3.5Zm12.5 9.75a1.75 1.75 0 1 0 3.5 0 1.75 1.75 0 0 0-3.5 0Zm-14.25 8.5a1.75 1.75 0 1 0 3.501-.001 1.75 1.75 0 0 0-3.501.001Z"></path></svg><span class="NavLink-module__title--xw3ok">GitHub Models</span><span class="NavLink-module__subtitle--qC15H">Manage and compare prompts</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"mcp_registry","tag":"link","context":"platform","location":"navbar","label":"mcp_registry_link_platform_navbar"}' href="https://github.com/mcp"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-mcp NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M9.795 1.694a4.287 4.287 0 0 1 6.061 0 4.28 4.28 0 0 1 1.181 3.819 4.282 4.282 0 0 1 3.819 1.181 4.287 4.287 0 0 1 0 6.061l-6.793 6.793a.249.249 0 0 0 0 .353l2.617 2.618a.75.75 0 1 1-1.061 1.061l-2.617-2.618a1.75 1.75 0 0 1 0-2.475l6.793-6.793a2.785 2.785 0 1 0-3.939-3.939l-5.9 5.9a.734.734 0 0 1-.249.165.749.749 0 0 1-.812-1.225l5.9-5.901a2.785 2.785 0 1 0-3.939-3.939L2.931 10.68A.75.75 0 1 1 1.87 9.619l7.925-7.925Z"></path><path d="M12.42 4.069a.752.752 0 0 1 1.061 0 .752.752 0 0 1 0 1.061L7.33 11.28a2.788 2.788 0 0 0 0 3.94 2.788 2.788 0 0 0 3.94 0l6.15-6.151a.752.752 0 0 1 1.061 0 .752.752 0 0 1 0 1.061l-6.151 6.15a4.285 4.285 0 1 1-6.06-6.06l6.15-6.151Z"></path></svg><span class="NavLink-module__title--xw3ok">MCP Registry<sup class="NavLink-module__label--MrIhm">New</sup></span><span class="NavLink-module__subtitle--qC15H">Discover and integrate external tools</span></div></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">DEVELOPER WORKFLOWS</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"actions","tag":"link","context":"platform","location":"navbar","label":"actions_link_platform_navbar"}' href="https://github.com/features/actions"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-workflow NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M1 3a2 2 0 0 1 2-2h6.5a2 2 0 0 1 2 2v6.5a2 2 0 0 1-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 0 1 2-2H21a2 2 0 0 1 2 2V21a2 2 0 0 1-2 2h-6.5a2 2 0 0 1-2-2v-2.5H8.437A2.939 2.939 0 0 1 5.5 15.562V11.5H3a2 2 0 0 1-2-2Zm2-.5a.5.5 0 0 0-.5.5v6.5a.5.5 0 0 0 .5.5h6.5a.5.5 0 0 0 .5-.5V3a.5.5 0 0 0-.5-.5ZM14.5 14a.5.5 0 0 0-.5.5V21a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5v-6.5a.5.5 0 0 0-.5-.5Z"></path></svg><span class="NavLink-module__title--xw3ok">Actions</span><span class="NavLink-module__subtitle--qC15H">Automate any workflow</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"codespaces","tag":"link","context":"platform","location":"navbar","label":"codespaces_link_platform_navbar"}' href="https://github.com/features/codespaces"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-codespaces NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0 1 18.75 13H5.25a1.75 1.75 0 0 1-1.75-1.75Zm-2 12c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 0 1-1.75 1.75H3.25a1.75 1.75 0 0 1-1.75-1.75ZM5.25 3.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Zm-2 12a.25.25 0 0 0-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 0 0 .25-.25v-4a.25.25 0 0 0-.25-.25Z"></path><path d="M10 17.75a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path></svg><span class="NavLink-module__title--xw3ok">Codespaces</span><span class="NavLink-module__subtitle--qC15H">Instant dev environments</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"issues","tag":"link","context":"platform","location":"navbar","label":"issues_link_platform_navbar"}' href="https://github.com/features/issues"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-issue-opened NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Zm9.5 2a2 2 0 1 1-.001-3.999A2 2 0 0 1 12 14Z"></path></svg><span class="NavLink-module__title--xw3ok">Issues</span><span class="NavLink-module__subtitle--qC15H">Plan and track work</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"code_review","tag":"link","context":"platform","location":"navbar","label":"code_review_link_platform_navbar"}' href="https://github.com/features/code-review"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-code NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M15.22 4.97a.75.75 0 0 1 1.06 0l6.5 6.5a.75.75 0 0 1 0 1.06l-6.5 6.5a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L21.19 12l-5.97-5.97a.75.75 0 0 1 0-1.06Zm-6.44 0a.75.75 0 0 1 0 1.06L2.81 12l5.97 5.97a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-6.5-6.5a.75.75 0 0 1 0-1.06l6.5-6.5a.75.75 0 0 1 1.06 0Z"></path></svg><span class="NavLink-module__title--xw3ok">Code Review</span><span class="NavLink-module__subtitle--qC15H">Manage code changes</span></div></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">APPLICATION SECURITY</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_advanced_security","tag":"link","context":"platform","location":"navbar","label":"github_advanced_security_link_platform_navbar"}' href="https://github.com/security/advanced-security"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-shield-check NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path></svg><span class="NavLink-module__title--xw3ok">GitHub Advanced Security</span><span class="NavLink-module__subtitle--qC15H">Find and fix vulnerabilities</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"code_security","tag":"link","context":"platform","location":"navbar","label":"code_security_link_platform_navbar"}' href="https://github.com/security/advanced-security/code-security"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-code-square NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M10.3 8.24a.75.75 0 0 1-.04 1.06L7.352 12l2.908 2.7a.75.75 0 1 1-1.02 1.1l-3.5-3.25a.75.75 0 0 1 0-1.1l3.5-3.25a.75.75 0 0 1 1.06.04Zm3.44 1.06a.75.75 0 1 1 1.02-1.1l3.5 3.25a.75.75 0 0 1 0 1.1l-3.5 3.25a.75.75 0 1 1-1.02-1.1l2.908-2.7-2.908-2.7Z"></path><path d="M2 3.75C2 2.784 2.784 2 3.75 2h16.5c.966 0 1.75.784 1.75 1.75v16.5A1.75 1.75 0 0 1 20.25 22H3.75A1.75 1.75 0 0 1 2 20.25Zm1.75-.25a.25.25 0 0 0-.25.25v16.5c0 .138.112.25.25.25h16.5a.25.25 0 0 0 .25-.25V3.75a.25.25 0 0 0-.25-.25Z"></path></svg><span class="NavLink-module__title--xw3ok">Code security</span><span class="NavLink-module__subtitle--qC15H">Secure your code as you build</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"secret_protection","tag":"link","context":"platform","location":"navbar","label":"secret_protection_link_platform_navbar"}' href="https://github.com/security/advanced-security/secret-protection"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-lock NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M6 9V7.25C6 3.845 8.503 1 12 1s6 2.845 6 6.25V9h.5a2.5 2.5 0 0 1 2.5 2.5v8a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 19.5v-8A2.5 2.5 0 0 1 5.5 9Zm-1.5 2.5v8a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1v-8a1 1 0 0 0-1-1h-13a1 1 0 0 0-1 1Zm3-4.25V9h9V7.25c0-2.67-1.922-4.75-4.5-4.75-2.578 0-4.5 2.08-4.5 4.75Z"></path></svg><span class="NavLink-module__title--xw3ok">Secret protection</span><span class="NavLink-module__subtitle--qC15H">Stop leaks before they start</span></div></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n NavGroup-module__hasSeparator--AJeNz"><span class="NavGroup-module__title--TdKyz">EXPLORE</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"why_github","tag":"link","context":"platform","location":"navbar","label":"why_github_link_platform_navbar"}' href="https://github.com/why-github"><span class="NavLink-module__title--xw3ok">Why GitHub</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"documentation","tag":"link","context":"platform","location":"navbar","label":"documentation_link_platform_navbar"}' href="https://docs.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Documentation</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"blog","tag":"link","context":"platform","location":"navbar","label":"blog_link_platform_navbar"}' href="https://github.blog" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Blog</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"changelog","tag":"link","context":"platform","location":"navbar","label":"changelog_link_platform_navbar"}' href="https://github.blog/changelog" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Changelog</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"marketplace","tag":"link","context":"platform","location":"navbar","label":"marketplace_link_platform_navbar"}' href="https://github.com/marketplace"><span class="NavLink-module__title--xw3ok">Marketplace</span></a></li></ul></div></li></ul><div class="NavDropdown-module__trailingLinkContainer--MNB5T"><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"view_all_features","tag":"link","context":"platform","location":"navbar","label":"view_all_features_link_platform_navbar"}' href="https://github.com/features"><span class="NavLink-module__title--xw3ok">View all features</span><svg aria-hidden="true" class="octicon octicon-chevron-right NavLink-module__arrowIcon--g6Lip" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></a></div></div></div></li><li><div class="NavDropdown-module__container--bmXM2 js-details-container js-header-menu-item"><button aria-expanded="false" class="NavDropdown-module__button--Hq9UR js-details-target" type="button">Solutions<svg aria-hidden="true" class="octicon octicon-chevron-right NavDropdown-module__buttonIcon--SR0Ke" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></button><div class="NavDropdown-module__dropdown--Ig57Y"><ul class="NavDropdown-module__list--RwSSK"><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">BY COMPANY SIZE</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"enterprises","tag":"link","context":"solutions","location":"navbar","label":"enterprises_link_solutions_navbar"}' href="https://github.com/enterprise"><span class="NavLink-module__title--xw3ok">Enterprises</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"small_and_medium_teams","tag":"link","context":"solutions","location":"navbar","label":"small_and_medium_teams_link_solutions_navbar"}' href="https://github.com/team"><span class="NavLink-module__title--xw3ok">Small and medium teams</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"startups","tag":"link","context":"solutions","location":"navbar","label":"startups_link_solutions_navbar"}' href="https://github.com/enterprise/startups"><span class="NavLink-module__title--xw3ok">Startups</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"nonprofits","tag":"link","context":"solutions","location":"navbar","label":"nonprofits_link_solutions_navbar"}' href="https://github.com/solutions/industry/nonprofits"><span class="NavLink-module__title--xw3ok">Nonprofits</span></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">BY USE CASE</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"app_modernization","tag":"link","context":"solutions","location":"navbar","label":"app_modernization_link_solutions_navbar"}' href="https://github.com/solutions/use-case/app-modernization"><span class="NavLink-module__title--xw3ok">App Modernization</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"devsecops","tag":"link","context":"solutions","location":"navbar","label":"devsecops_link_solutions_navbar"}' href="https://github.com/solutions/use-case/devsecops"><span class="NavLink-module__title--xw3ok">DevSecOps</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"devops","tag":"link","context":"solutions","location":"navbar","label":"devops_link_solutions_navbar"}' href="https://github.com/solutions/use-case/devops"><span class="NavLink-module__title--xw3ok">DevOps</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"ci/cd","tag":"link","context":"solutions","location":"navbar","label":"ci/cd_link_solutions_navbar"}' href="https://github.com/solutions/use-case/ci-cd"><span class="NavLink-module__title--xw3ok">CI/CD</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"view_all_use_cases","tag":"link","context":"solutions","location":"navbar","label":"view_all_use_cases_link_solutions_navbar"}' href="https://github.com/solutions/use-case"><span class="NavLink-module__title--xw3ok">View all use cases</span><svg aria-hidden="true" class="octicon octicon-chevron-right NavLink-module__arrowIcon--g6Lip" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">BY INDUSTRY</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"healthcare","tag":"link","context":"solutions","location":"navbar","label":"healthcare_link_solutions_navbar"}' href="https://github.com/solutions/industry/healthcare"><span class="NavLink-module__title--xw3ok">Healthcare</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"financial_services","tag":"link","context":"solutions","location":"navbar","label":"financial_services_link_solutions_navbar"}' href="https://github.com/solutions/industry/financial-services"><span class="NavLink-module__title--xw3ok">Financial services</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"manufacturing","tag":"link","context":"solutions","location":"navbar","label":"manufacturing_link_solutions_navbar"}' href="https://github.com/solutions/industry/manufacturing"><span class="NavLink-module__title--xw3ok">Manufacturing</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"government","tag":"link","context":"solutions","location":"navbar","label":"government_link_solutions_navbar"}' href="https://github.com/solutions/industry/government"><span class="NavLink-module__title--xw3ok">Government</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"view_all_industries","tag":"link","context":"solutions","location":"navbar","label":"view_all_industries_link_solutions_navbar"}' href="https://github.com/solutions/industry"><span class="NavLink-module__title--xw3ok">View all industries</span><svg aria-hidden="true" class="octicon octicon-chevron-right NavLink-module__arrowIcon--g6Lip" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></a></li></ul></div></li></ul><div class="NavDropdown-module__trailingLinkContainer--MNB5T"><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"view_all_solutions","tag":"link","context":"solutions","location":"navbar","label":"view_all_solutions_link_solutions_navbar"}' href="https://github.com/solutions"><span class="NavLink-module__title--xw3ok">View all solutions</span><svg aria-hidden="true" class="octicon octicon-chevron-right NavLink-module__arrowIcon--g6Lip" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></a></div></div></div></li><li><div class="NavDropdown-module__container--bmXM2 js-details-container js-header-menu-item"><button aria-expanded="false" class="NavDropdown-module__button--Hq9UR js-details-target" type="button">Resources<svg aria-hidden="true" class="octicon octicon-chevron-right NavDropdown-module__buttonIcon--SR0Ke" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></button><div class="NavDropdown-module__dropdown--Ig57Y"><ul class="NavDropdown-module__list--RwSSK"><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">EXPLORE BY TOPIC</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"ai","tag":"link","context":"resources","location":"navbar","label":"ai_link_resources_navbar"}' href="https://github.com/resources/articles?topic=ai"><span class="NavLink-module__title--xw3ok">AI</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"software_development","tag":"link","context":"resources","location":"navbar","label":"software_development_link_resources_navbar"}' href="https://github.com/resources/articles?topic=software-development"><span class="NavLink-module__title--xw3ok">Software Development</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"devops","tag":"link","context":"resources","location":"navbar","label":"devops_link_resources_navbar"}' href="https://github.com/resources/articles?topic=devops"><span class="NavLink-module__title--xw3ok">DevOps</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"security","tag":"link","context":"resources","location":"navbar","label":"security_link_resources_navbar"}' href="https://github.com/resources/articles?topic=security"><span class="NavLink-module__title--xw3ok">Security</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"view_all_topics","tag":"link","context":"resources","location":"navbar","label":"view_all_topics_link_resources_navbar"}' href="https://github.com/resources/articles"><span class="NavLink-module__title--xw3ok">View all topics</span><svg aria-hidden="true" class="octicon octicon-chevron-right NavLink-module__arrowIcon--g6Lip" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">EXPLORE BY TYPE</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"customer_stories","tag":"link","context":"resources","location":"navbar","label":"customer_stories_link_resources_navbar"}' href="https://github.com/customer-stories"><span class="NavLink-module__title--xw3ok">Customer stories</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"events__webinars","tag":"link","context":"resources","location":"navbar","label":"events__webinars_link_resources_navbar"}' href="https://github.com/resources/events"><span class="NavLink-module__title--xw3ok">Events &amp; webinars</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"ebooks__reports","tag":"link","context":"resources","location":"navbar","label":"ebooks__reports_link_resources_navbar"}' href="https://github.com/resources/whitepapers"><span class="NavLink-module__title--xw3ok">Ebooks &amp; reports</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"business_insights","tag":"link","context":"resources","location":"navbar","label":"business_insights_link_resources_navbar"}' href="https://github.com/solutions/executive-insights"><span class="NavLink-module__title--xw3ok">Business insights</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_skills","tag":"link","context":"resources","location":"navbar","label":"github_skills_link_resources_navbar"}' href="https://skills.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">GitHub Skills</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">SUPPORT &amp; SERVICES</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"documentation","tag":"link","context":"resources","location":"navbar","label":"documentation_link_resources_navbar"}' href="https://docs.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Documentation</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"customer_support","tag":"link","context":"resources","location":"navbar","label":"customer_support_link_resources_navbar"}' href="https://support.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Customer support</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"community_forum","tag":"link","context":"resources","location":"navbar","label":"community_forum_link_resources_navbar"}' href="https://github.com/orgs/community/discussions"><span class="NavLink-module__title--xw3ok">Community forum</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"trust_center","tag":"link","context":"resources","location":"navbar","label":"trust_center_link_resources_navbar"}' href="https://github.com/trust-center"><span class="NavLink-module__title--xw3ok">Trust center</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"partners","tag":"link","context":"resources","location":"navbar","label":"partners_link_resources_navbar"}' href="https://github.com/partners"><span class="NavLink-module__title--xw3ok">Partners</span></a></li></ul></div></li></ul></div></div></li><li><div class="NavDropdown-module__container--bmXM2 js-details-container js-header-menu-item"><button aria-expanded="false" class="NavDropdown-module__button--Hq9UR js-details-target" type="button">Open Source<svg aria-hidden="true" class="octicon octicon-chevron-right NavDropdown-module__buttonIcon--SR0Ke" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></button><div class="NavDropdown-module__dropdown--Ig57Y"><ul class="NavDropdown-module__list--RwSSK"><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">COMMUNITY</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_sponsors","tag":"link","context":"open_source","location":"navbar","label":"github_sponsors_link_open_source_navbar"}' href="https://github.com/sponsors"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-sponsor-tiers NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M16.004 1.25C18.311 1.25 20 3.128 20 5.75c0 2.292-1.23 4.464-3.295 6.485-.481.47-.98.909-1.482 1.31l.265 1.32 1.375 7.5a.75.75 0 0 1-.982.844l-3.512-1.207a.75.75 0 0 0-.488 0L8.37 23.209a.75.75 0 0 1-.982-.844l1.378-7.512.261-1.309c-.5-.4-1-.838-1.481-1.31C5.479 10.215 4.25 8.043 4.25 5.75c0-2.622 1.689-4.5 3.996-4.5 1.55 0 2.947.752 3.832 1.967l.047.067.047-.067a4.726 4.726 0 0 1 3.612-1.962l.22-.005ZM13.89 14.531c-.418.285-.828.542-1.218.77l-.18.103a.75.75 0 0 1-.734 0l-.071-.04-.46-.272c-.282-.173-.573-.36-.868-.562l-.121.605-1.145 6.239 2.3-.79a2.248 2.248 0 0 1 1.284-.054l.18.053 2.299.79-1.141-6.226-.125-.616ZM16.004 2.75c-1.464 0-2.731.983-3.159 2.459-.209.721-1.231.721-1.44 0-.428-1.476-1.695-2.459-3.16-2.459-1.44 0-2.495 1.173-2.495 3 0 1.811 1.039 3.647 2.844 5.412a19.624 19.624 0 0 0 3.734 2.84l-.019-.011-.184-.111.147-.088a19.81 19.81 0 0 0 3.015-2.278l.37-.352C17.46 9.397 18.5 7.561 18.5 5.75c0-1.827-1.055-3-2.496-3Z"></path></svg><span class="NavLink-module__title--xw3ok">GitHub Sponsors</span><span class="NavLink-module__subtitle--qC15H">Fund open source developers</span></div></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">PROGRAMS</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"security_lab","tag":"link","context":"open_source","location":"navbar","label":"security_lab_link_open_source_navbar"}' href="https://securitylab.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Security Lab</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"maintainer_community","tag":"link","context":"open_source","location":"navbar","label":"maintainer_community_link_open_source_navbar"}' href="https://maintainers.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Maintainer Community</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"accelerator","tag":"link","context":"open_source","location":"navbar","label":"accelerator_link_open_source_navbar"}' href="https://github.com/accelerator"><span class="NavLink-module__title--xw3ok">Accelerator</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"archive_program","tag":"link","context":"open_source","location":"navbar","label":"archive_program_link_open_source_navbar"}' href="https://archiveprogram.github.com" rel="noreferrer" target="_blank"><span class="NavLink-module__title--xw3ok">Archive Program</span><svg aria-hidden="true" class="octicon octicon-link-external NavLink-module__externalIcon--JurQ9" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"></path></svg></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">REPOSITORIES</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"topics","tag":"link","context":"open_source","location":"navbar","label":"topics_link_open_source_navbar"}' href="https://github.com/topics"><span class="NavLink-module__title--xw3ok">Topics</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"trending","tag":"link","context":"open_source","location":"navbar","label":"trending_link_open_source_navbar"}' href="https://github.com/trending"><span class="NavLink-module__title--xw3ok">Trending</span></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"collections","tag":"link","context":"open_source","location":"navbar","label":"collections_link_open_source_navbar"}' href="https://github.com/collections"><span class="NavLink-module__title--xw3ok">Collections</span></a></li></ul></div></li></ul></div></div></li><li><div class="NavDropdown-module__container--bmXM2 js-details-container js-header-menu-item"><button aria-expanded="false" class="NavDropdown-module__button--Hq9UR js-details-target" type="button">Enterprise<svg aria-hidden="true" class="octicon octicon-chevron-right NavDropdown-module__buttonIcon--SR0Ke" display="inline-block" fill="currentColor" focusable="false" height="16" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 16 16" width="16"><path d="M6.22 3.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L9.94 8 6.22 4.28a.75.75 0 0 1 0-1.06Z"></path></svg></button><div class="NavDropdown-module__dropdown--Ig57Y"><ul class="NavDropdown-module__list--RwSSK"><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">ENTERPRISE SOLUTIONS</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"enterprise_platform","tag":"link","context":"enterprise","location":"navbar","label":"enterprise_platform_link_enterprise_navbar"}' href="https://github.com/enterprise"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-stack NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M11.063 1.456a1.749 1.749 0 0 1 1.874 0l8.383 5.316a1.751 1.751 0 0 1 0 2.956l-8.383 5.316a1.749 1.749 0 0 1-1.874 0L2.68 9.728a1.751 1.751 0 0 1 0-2.956Zm1.071 1.267a.25.25 0 0 0-.268 0L3.483 8.039a.25.25 0 0 0 0 .422l8.383 5.316a.25.25 0 0 0 .268 0l8.383-5.316a.25.25 0 0 0 0-.422Z"></path><path d="M1.867 12.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path><path d="M1.867 16.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path></svg><span class="NavLink-module__title--xw3ok">Enterprise platform</span><span class="NavLink-module__subtitle--qC15H">AI-powered developer platform</span></div></a></li></ul></div></li><li><div class="NavGroup-module__group--T925n"><span class="NavGroup-module__title--TdKyz">AVAILABLE ADD-ONS</span><ul class="NavGroup-module__list--M8eGv"><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"github_advanced_security","tag":"link","context":"enterprise","location":"navbar","label":"github_advanced_security_link_enterprise_navbar"}' href="https://github.com/security/advanced-security"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-shield-check NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path></svg><span class="NavLink-module__title--xw3ok">GitHub Advanced Security</span><span class="NavLink-module__subtitle--qC15H">Enterprise-grade security features</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"copilot_for_business","tag":"link","context":"enterprise","location":"navbar","label":"copilot_for_business_link_enterprise_navbar"}' href="https://github.com/features/copilot/copilot-business"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-copilot NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path></svg><span class="NavLink-module__title--xw3ok">Copilot for Business</span><span class="NavLink-module__subtitle--qC15H">Enterprise-grade AI features</span></div></a></li><li><a class="NavLink-module__link--n48VB" data-analytics-event='{"action":"premium_support","tag":"link","context":"enterprise","location":"navbar","label":"premium_support_link_enterprise_navbar"}' href="https://github.com/premium-support"><div class="NavLink-module__text--SdWkb"><svg aria-hidden="true" class="octicon octicon-comment-discussion NavLink-module__icon--h0sw7" display="inline-block" fill="currentColor" focusable="false" height="24" overflow="visible" style="vertical-align:text-bottom" viewbox="0 0 24 24" width="24"><path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path></svg><span class="NavLink-module__title--xw3ok">Premium Support</span><span class="NavLink-module__subtitle--qC15H">Enterprise-grade 24/7 support</span></div></a></li></ul></div></li></ul></div></div></li><li><a class="NavLink-module__link--n48VB MarketingNavigation-module__navLink--U9Uuk" data-analytics-event='{"action":"pricing","tag":"link","context":"pricing","location":"navbar","label":"pricing_link_pricing_navbar"}' href="https://github.com/pricing"><span class="NavLink-module__title--xw3ok">Pricing</span></a></li></ul></nav><script id="__PRIMER_DATA_:R0:__" type="application/json">{"resolvedServerColorMode":"day"}</script></div>
+</react-partial>
 <div class="d-flex flex-column flex-lg-row width-full flex-justify-end flex-lg-items-center text-center mt-3 mt-lg-0 text-lg-left ml-lg-3">
-<qbsearch-input class="search-input" data-blackbird-suggestions-path="/search/suggestions" data-copilot-chat-enabled="false" data-current-org="" data-current-owner="" data-current-repository="" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="UM8cuyEH_wThNAQlI22FvdNQLd0WgzFovkx5OMileg8hq6nU0SgiKfqJClrT8lU8xlw93EImqogXi4F94SMFpg" data-header-redesign-enabled="false" data-initial-value="" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-logged-in="false" data-max-custom-scopes="10" data-nl-search-enabled="false" data-retain-scroll-position="true" data-scope="">
+<qbsearch-input class="search-input" data-blackbird-suggestions-path="/search/suggestions" data-copilot-chat-enabled="false" data-current-org="" data-current-owner="" data-current-repository="" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="YSdnWz08OseQphhzg1V4ry99obk4yzNoPaubVkDKTERU3moH7i-AJ43yb3cNyTJkf_LiTwG7S8k0EEvJHB5xtw" data-header-redesign-enabled="false" data-initial-value="" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-logged-in="false" data-max-custom-scopes="10" data-nl-search-enabled="false" data-retain-scroll-position="true" data-scope="">
 <div class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded" data-action="click:qbsearch-input#searchInputContainerClicked">
 <button aria-haspopup="dialog" aria-label="Search or jump to…" autocapitalize="off" class="header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none" data-action="click:qbsearch-input#handleExpand" data-analytics-event='{"location":"navbar","action":"searchbar","context":"global","tag":"input","label":"searchbar_input_global_navbar"}' data-hotkey="s,/" data-target="qbsearch-input.inputButton" placeholder="Search or jump to..." type="button">
 <div class="mr-2 color-fg-muted">
@@ -819,7 +223,7 @@
 <div aria-hidden="true" class="QueryBuilder-StyledInputContent" data-target="query-builder.styledInputContent"></div>
 <div class="QueryBuilder-InputWrapper">
 <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-<input aria-describedby="validation-bf60bc8c-06d0-448f-9e1b-006a18685d19" aria-expanded="false" autocomplete="off" class="FormControl-input QueryBuilder-Input FormControl-medium" data-action="
+<input aria-describedby="validation-69b15e64-da25-410a-8617-1aaf1855d06d" aria-expanded="false" autocomplete="off" class="FormControl-input QueryBuilder-Input FormControl-medium" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1013,7 +417,7 @@
                     mousedown:query-builder#resultsMousedown
                   " data-persist-list="false" data-target="query-builder.resultsList" id="query-builder-test-results" role="listbox" tabindex="-1"></ul>
 </div>
-<div class="FormControl-inlineValidation" hidden="hidden" id="validation-bf60bc8c-06d0-448f-9e1b-006a18685d19">
+<div class="FormControl-inlineValidation" hidden="hidden" id="validation-69b15e64-da25-410a-8617-1aaf1855d06d">
 <span class="FormControl-inlineValidation--visual">
 <svg aria-hidden="true" class="octicon octicon-alert-fill" data-view-component="true" height="12" version="1.1" viewbox="0 0 12 12" width="12">
 <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1050,7 +454,7 @@
 </div>
 </div>
 <scrollable-region data-labelled-by="feedback-dialog-title">
-<div class="Overlay-body" data-view-component="true"> <!-- '"` --><!-- </textarea></xmp> --><form accept-charset="UTF-8" action="/search/feedback" data-turbo="false" id="code-search-feedback-form" method="post"><input data-csrf="true" name="authenticity_token" type="hidden" value="JM7RuQrRFC5xeXMzqvNXsgY/S+Q+opYqAHMsrZ4+KFtp0CNQDoVRnclef29iBzacO9ZKwbeEJ6EffHlsFhLqyQ=="/>
+<div class="Overlay-body" data-view-component="true"> <!-- '"` --><!-- </textarea></xmp> --><form accept-charset="UTF-8" action="/search/feedback" data-turbo="false" id="code-search-feedback-form" method="post"><input data-csrf="true" name="authenticity_token" type="hidden" value="uowPXwUIVQTTCf3MI3D6MJNnZunzUh3ES/KkNi8uPxbrAN4t1BMEnukfCkA0h9DJQUgVl7vkn9k41b0l9YdrzQ=="/>
 <p>We read every piece of feedback, and take your input very seriously.</p>
 <textarea class="form-control width-full mb-2" id="feedback" name="feedback" style="height: 120px"></textarea>
 <input aria-label="Include my email address so I can be contacted" class="form-control mr-2" id="include_email" name="include_email" type="checkbox"/>
@@ -1084,14 +488,14 @@
 <scrollable-region data-labelled-by="custom-scopes-dialog-title">
 <div class="Overlay-body" data-view-component="true"> <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 <div class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm" hidden="">
-<!-- '"` --><!-- </textarea></xmp> --><form accept-charset="UTF-8" action="/search/custom_scopes" data-turbo="false" id="custom-scopes-dialog-form" method="post"><input data-csrf="true" name="authenticity_token" type="hidden" value="gorAKY13omMR79Nyv4ciXPC1nyo5wCe51t5ilxwu3QeUCQTaD+LUuRUvxzhPvHDnwfcvyxOPis9q59VlyvCClw==">
+<!-- '"` --><!-- </textarea></xmp> --><form accept-charset="UTF-8" action="/search/custom_scopes" data-turbo="false" id="custom-scopes-dialog-form" method="post"><input data-csrf="true" name="authenticity_token" type="hidden" value="hLKF14/LAHv/YAzq9jgcUIfE08cI7YnyQ/PKZ07JnEIKKoKTDxY6lRumRsVL9SKxXVYyop27cF8UdQozKNHgow==">
 <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 <input data-target="custom-scopes.customScopesIdField" id="custom_scope_id" name="custom_scope_id" type="hidden"/>
 <div class="form-group">
 <label for="custom_scope_name">Name</label>
 <auto-check required="" src="/search/custom_scopes/check_name">
 <input autocomplete="off" class="form-control" data-target="custom-scopes.customScopesNameField" id="custom_scope_name" maxlength="50" name="custom_scope_name" placeholder="github-ruby" required="" type="text"/>
-<input data-csrf="true" type="hidden" value="b9q48MBT9Ghj3o3RFLhaVvCjulchracUbuHozBCmXnOAWEfhoFYgMJgqKju6ncxICHftwgeQJ1qLid12HgPKwA==">
+<input data-csrf="true" type="hidden" value="fa3tMEPpk7comZv8IhrIjOkYLZCuz2NpZTjTnbaWDdhI53SOZ30mLhTXIA1AFT0db8Y4wKinCCqI+lqfnn7S1Q==">
 </input></auto-check>
 </div>
 <div class="form-group">
@@ -1126,12 +530,12 @@
               </a>
 <div class="AppHeader-appearanceSettings">
 <react-partial-anchor>
-<button aria-labelledby="tooltip-5c42e93c-fa79-49a0-8b55-5e6e35aef62b" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait" data-target="react-partial-anchor.anchor" data-view-component="true" disabled="disabled" id="icon-button-6e0c61e1-af6e-45d7-98e1-67da8c7e83af" type="button"> <svg aria-hidden="true" class="octicon octicon-sliders Button-visual" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<button aria-labelledby="tooltip-67b18b95-7f31-4eb8-ac4b-8096b5df6f95" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait" data-target="react-partial-anchor.anchor" data-view-component="true" disabled="disabled" id="icon-button-637803ac-c854-4d92-96b8-fe0c0860489a" type="button"> <svg aria-hidden="true" class="octicon octicon-sliders Button-visual" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-6e0c61e1-af6e-45d7-98e1-67da8c7e83af" id="tooltip-5c42e93c-fa79-49a0-8b55-5e6e35aef62b" popover="manual">Appearance settings</tool-tip>
+</button><tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-637803ac-c854-4d92-96b8-fe0c0860489a" id="tooltip-67b18b95-7f31-4eb8-ac4b-8096b5df6f95" popover="manual">Appearance settings</tool-tip>
 <template data-target="react-partial-anchor.template">
-<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.5e7f07b3b8c1e951002c.module.css" media="all" rel="stylesheet">
+<link crossorigin="anonymous" href="https://github.githubassets.com/assets/primer-react.53f37102c46fd176a96b.module.css" media="all" rel="stylesheet">
 <link crossorigin="anonymous" href="https://github.githubassets.com/assets/appearance-settings.6c63a6de228d6520804d.module.css" media="all" rel="stylesheet">
 <react-partial data-attempted-ssr="false" data-react-profiling="false" data-ssr="false" partial-name="appearance-settings">
 <script data-target="react-partial.embeddedData" type="application/json">{"props":{}}</script>
@@ -1142,7 +546,7 @@
 </div>
 <button class="sr-only js-header-menu-focus-trap d-block d-lg-none" type="button">Resetting focus</button>
 </div>
-</div>
+</link></link></div>
 </div>
 </div>
 </header>
@@ -1153,10 +557,10 @@
 <span class="js-stale-session-flash-signed-in" hidden="">You signed in with another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 <span class="js-stale-session-flash-signed-out" hidden="">You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 <span class="js-stale-session-flash-switched" hidden="">You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
-<button aria-labelledby="tooltip-16dc0753-b932-401f-aefd-4fbaef17ce9f" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-f677d8a0-4a14-400f-b608-dd1c64b4dcd5" type="button"> <svg aria-hidden="true" class="octicon octicon-x Button-visual" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<button aria-labelledby="tooltip-6d4cf47b-1846-46eb-9401-9ae02eefecd8" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close" data-view-component="true" id="icon-button-f6239179-6f1e-491b-bf70-8e5a6f9167e5" type="button"> <svg aria-hidden="true" class="octicon octicon-x Button-visual" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-f677d8a0-4a14-400f-b608-dd1c64b4dcd5" id="tooltip-16dc0753-b932-401f-aefd-4fbaef17ce9f" popover="manual">Dismiss alert</tool-tip>
+</button><tool-tip class="sr-only position-absolute" data-direction="s" data-type="label" data-view-component="true" for="icon-button-f6239179-6f1e-491b-bf70-8e5a6f9167e5" id="tooltip-6d4cf47b-1846-46eb-9401-9ae02eefecd8" popover="manual">Dismiss alert</tool-tip>
 </div>
 </link></link></div>
 <div class="show-on-focus" id="start-of-content"></div>
@@ -3279,594 +2683,6 @@
 <article class="Box-row">
 <div class="float-right d-flex">
 <div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":958172562,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="b1c1dc1748e562ffbce7d89f13989b303d47662c0e147b0b218f4252fc6bcfde" data-view-component="true" href="/login?return_to=%2Fget-convex%2Fchef" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":958172562,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="151be209383d3c1c334c6724d15208a57a5b4c0bc03db5a99982f142d807ce2e" data-view-component="true" href="/get-convex/chef"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        get-convex /
-</span>
-      chef</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      The only AI app builder that knows backend
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #3178c6"></span>
-<span itemprop="programmingLanguage">TypeScript</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/get-convex/chef/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        2,676</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/get-convex/chef/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        515</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jordanhunt22/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jordanhunt22"><img alt="@jordanhunt22" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/65152573?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Nicolapps/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Nicolapps"><img alt="@Nicolapps" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/7029582?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/emmaling27/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/emmaling27"><img alt="@emmaling27" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/21979288?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/thomasballinger/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thomasballinger"><img alt="@thomasballinger" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/458879?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/sshader/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sshader"><img alt="@sshader" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/15620796?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        61 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":741012134,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="07b4eb1c18e3bdf8f4f3c9062e27add58a5e63504d63737dbaa86a52e83182ea" data-view-component="true" href="/login?return_to=%2Fsuitenumerique%2Fdocs" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":741012134,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="fb2528726052b77a1eb1e3ce624c7f21e64f04cac7fcbae114200a2320d33739" data-view-component="true" href="/suitenumerique/docs"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        suitenumerique /
-</span>
-      docs</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #3572A5"></span>
-<span itemprop="programmingLanguage">Python</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/suitenumerique/docs/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        14,182</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/suitenumerique/docs/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        427</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/AntoLC/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AntoLC"><img alt="@AntoLC" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/25994652?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/sampaccoud/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sampaccoud"><img alt="@sampaccoud" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1427165?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/lunika/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lunika"><img alt="@lunika" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/767834?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" href="/apps/renovate"><img alt="@renovate" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/2740?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/PanchoutNathan/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/PanchoutNathan"><img alt="@PanchoutNathan" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/19410531?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        26 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":1024118326,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="711dbc150eca115f2032ac071d52ea01c6173b89c306acf27abccd6e09e1fd56" data-view-component="true" href="/login?return_to=%2FTencent%2FWeKnora" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":1024118326,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="f3c7b774a0ad1108040aa95389b49c730afa20e92de78903a20b72a8f5cc5c56" data-view-component="true" href="/Tencent/WeKnora"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        Tencent /
-</span>
-      WeKnora</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #00ADD8"></span>
-<span itemprop="programmingLanguage">Go</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Tencent/WeKnora/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        7,164</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Tencent/WeKnora/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        810</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/lyingbug/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/go?since=daily","user_id":20227709}}' data-hydro-click-hmac="f52615b542c9bdab9aa002cccec24bcd2faef75d97d318a81df151ee1d2cead4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lyingbug"><img alt="@lyingbug" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/11257935?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/begoniezhao/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/go?since=daily","user_id":20227709}}' data-hydro-click-hmac="f52615b542c9bdab9aa002cccec24bcd2faef75d97d318a81df151ee1d2cead4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/begoniezhao"><img alt="@begoniezhao" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/216642699?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Liwx1014/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/go?since=daily","user_id":20227709}}' data-hydro-click-hmac="f52615b542c9bdab9aa002cccec24bcd2faef75d97d318a81df151ee1d2cead4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Liwx1014"><img alt="@Liwx1014" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/186271593?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/NannaOlympicBroadcast/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/go?since=daily","user_id":20227709}}' data-hydro-click-hmac="f52615b542c9bdab9aa002cccec24bcd2faef75d97d318a81df151ee1d2cead4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/NannaOlympicBroadcast"><img alt="@NannaOlympicBroadcast" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/111996670?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/fatelei/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/go?since=daily","user_id":20227709}}' data-hydro-click-hmac="f52615b542c9bdab9aa002cccec24bcd2faef75d97d318a81df151ee1d2cead4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fatelei"><img alt="@fatelei" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/961094?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        57 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":679506386,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="193e58fb2f331154b739949eaa4e19925b437e7b133d315f23d00bce34fa1a67" data-view-component="true" href="/login?return_to=%2Fjanhq%2Fjan" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":679506386,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="2a0a1d4b1cb498d39d502dabf73edacc44707631eddfbf21d5419825a3f720f3" data-view-component="true" href="/janhq/jan"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        janhq /
-</span>
-      jan</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #3178c6"></span>
-<span itemprop="programmingLanguage">TypeScript</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/janhq/jan/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        38,929</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/janhq/jan/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        2,346</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/louis-menlo/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/louis-menlo"><img alt="@louis-menlo" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/133622055?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/urmauur/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/urmauur"><img alt="@urmauur" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/10354610?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/0xHieu01/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/0xHieu01"><img alt="@0xHieu01" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/150573299?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jan-service-account/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jan-service-account"><img alt="@jan-service-account" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/136811300?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/hiento09/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hiento09"><img alt="@hiento09" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/136591877?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        109 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":311525798,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="06acf62c3fdf7ce035a24b99d1f8471c99b2ddea1c669dd98fd5dc9ba72dedf5" data-view-component="true" href="/login?return_to=%2Fmicrosoft%2FWeb-Dev-For-Beginners" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":311525798,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="d5da3d4b6e100bb856ddb050b9775782b7ea1eeb8650b54bdbb997b7253ae55b" data-view-component="true" href="/microsoft/Web-Dev-For-Beginners"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        microsoft /
-</span>
-      Web-Dev-For-Beginners</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #f1e05a"></span>
-<span itemprop="programmingLanguage">JavaScript</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/microsoft/Web-Dev-For-Beginners/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        93,706</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/microsoft/Web-Dev-For-Beginners/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        14,542</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jlooper/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?spoken_language_code=en","user_id":241364930}}' data-hydro-click-hmac="8e406e2754628e58f8220aa63f3e94c52fc99b3397f15c73839ffaf652c125b4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jlooper"><img alt="@jlooper" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/leestott/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?spoken_language_code=en","user_id":241364930}}' data-hydro-click-hmac="8e406e2754628e58f8220aa63f3e94c52fc99b3397f15c73839ffaf652c125b4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/leestott"><img alt="@leestott" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/softchris/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?spoken_language_code=en","user_id":241364930}}' data-hydro-click-hmac="8e406e2754628e58f8220aa63f3e94c52fc99b3397f15c73839ffaf652c125b4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/softchris"><img alt="@softchris" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/4598064?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ManuSquall/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?spoken_language_code=en","user_id":241364930}}' data-hydro-click-hmac="8e406e2754628e58f8220aa63f3e94c52fc99b3397f15c73839ffaf652c125b4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ManuSquall"><img alt="@ManuSquall" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/29026887?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/San1ay/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?spoken_language_code=en","user_id":241364930}}' data-hydro-click-hmac="8e406e2754628e58f8220aa63f3e94c52fc99b3397f15c73839ffaf652c125b4" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/San1ay"><img alt="@San1ay" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/54913971?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        327 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<a aria-label="Sponsor @hacksider" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"hacksider","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="763e685a2a930470c2f8aafef322eb003dc77586e396e152d0146709d6fd3506" data-view-component="true" href="/sponsors/hacksider"> <span class="Button-content">
-<span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
-</svg>
-<span class="d-none d-md-inline v-align-middle">
-      Sponsor
-    </span></span>
-</span>
-</a>
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":695864515,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="abb6a17b6aa2fc6004683603fa5a268851c42779026c5d0e6d3ef83a8670ace1" data-view-component="true" href="/login?return_to=%2Fhacksider%2FDeep-Live-Cam" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":695864515,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="3fd8c88a1ef184a4c5116f8cd0060dfb19b3701abe533f74571c22cfaa5fe185" data-view-component="true" href="/hacksider/Deep-Live-Cam"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        hacksider /
-</span>
-      Deep-Live-Cam</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #3572A5"></span>
-<span itemprop="programmingLanguage">Python</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/hacksider/Deep-Live-Cam/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        74,701</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/hacksider/Deep-Live-Cam/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        10,877</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/hacksider/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hacksider"><img alt="@hacksider" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1267200?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/KRSHH/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/KRSHH"><img alt="@KRSHH" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/136873090?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/vic4key/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vic4key"><img alt="@vic4key" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/5672864?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/pereiraroland26/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pereiraroland26"><img alt="@pereiraroland26" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/52257639?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/kier007/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kier007"><img alt="@kier007" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/8604601?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        148 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":552877440,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="b885d33fdf6385e803e6c3848a45640c06d46e4a09e45866eedce1264f54524c" data-view-component="true" href="/login?return_to=%2Fjuspay%2Fhyperswitch" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":552877440,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="22ace2963a10ddb2f4fb3039b08082236586c9e93201b3e4c59acaf8e9fa2e66" data-view-component="true" href="/juspay/hyperswitch"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        juspay /
-</span>
-      hyperswitch</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #dea584"></span>
-<span itemprop="programmingLanguage">Rust</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/juspay/hyperswitch/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        38,900</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/juspay/hyperswitch/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        4,510</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/Rust?since=monthly","user_id":null}}' data-hydro-click-hmac="ad0a5efe1793d4f088b1ba2c690cd0f3b77e7d9bdefba31dd99828c88b2fc30f" href="/apps/hyperswitch-bot"><img alt="@hyperswitch-bot" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/411175?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/Rust?since=monthly","user_id":null}}' data-hydro-click-hmac="ad0a5efe1793d4f088b1ba2c690cd0f3b77e7d9bdefba31dd99828c88b2fc30f" href="/apps/github-actions"><img alt="@github-actions" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/15368?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/SanchithHegde/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/Rust?since=monthly","user_id":null}}' data-hydro-click-hmac="ad0a5efe1793d4f088b1ba2c690cd0f3b77e7d9bdefba31dd99828c88b2fc30f" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/SanchithHegde"><img alt="@SanchithHegde" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/22217505?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Narayanbhat166/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/Rust?since=monthly","user_id":null}}' data-hydro-click-hmac="ad0a5efe1793d4f088b1ba2c690cd0f3b77e7d9bdefba31dd99828c88b2fc30f" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Narayanbhat166"><img alt="@Narayanbhat166" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/48803246?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/pixincreate/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/Rust?since=monthly","user_id":null}}' data-hydro-click-hmac="ad0a5efe1793d4f088b1ba2c690cd0f3b77e7d9bdefba31dd99828c88b2fc30f" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pixincreate"><img alt="@pixincreate" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/69745008?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        245 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":612230,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="b016a9e8348b3a69d85970fba0383ee26e27cb0fc9ad0ada0adb9240f053a6ac" data-view-component="true" href="/login?return_to=%2Fnvm-sh%2Fnvm" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":612230,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="f032da8f13b28bbc047c3692f705ad9a7fbd033a291a5e7a5e2bd24fda0197b1" data-view-component="true" href="/nvm-sh/nvm"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        nvm-sh /
-</span>
-      nvm</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #89e051"></span>
-<span itemprop="programmingLanguage">Shell</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/nvm-sh/nvm/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        88,829</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/nvm-sh/nvm/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        9,511</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ljharb/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ljharb"><img alt="@ljharb" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/PeterDaveHello/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/PeterDaveHello"><img alt="@PeterDaveHello" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/creationix/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/creationix"><img alt="@creationix" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/89353?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/koenpunt/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/koenpunt"><img alt="@koenpunt" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/351038?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/lukechilds/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lukechilds"><img alt="@lukechilds" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2123375?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        83 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":585860664,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="4ac082c2eafa86f52d1177a93f6343ed20d178167d2dd234cbdd5ce9d6871cbb" data-view-component="true" href="/login?return_to=%2Fgithub%2Fcopilot-cli" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":585860664,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="84a6a899435e1a173c4f569d71a89ad80a3ddd610a0cbd5aa05b92ace92801c9" data-view-component="true" href="/github/copilot-cli"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        github /
-</span>
-      copilot-cli</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/github/copilot-cli/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        4,489</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/github/copilot-cli/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        286</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/RyanHecht/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=daily&amp;spoken_language_code=","user_id":null}}' data-hydro-click-hmac="2be35e142d383711c49ea2076f79c9a5c83e595bb556675c22d7926707a75028" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/RyanHecht"><img alt="@RyanHecht" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/5344055?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/tidy-dev/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=daily&amp;spoken_language_code=","user_id":null}}' data-hydro-click-hmac="2be35e142d383711c49ea2076f79c9a5c83e595bb556675c22d7926707a75028" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tidy-dev"><img alt="@tidy-dev" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/75402236?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/lostintangent/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=daily&amp;spoken_language_code=","user_id":null}}' data-hydro-click-hmac="2be35e142d383711c49ea2076f79c9a5c83e595bb556675c22d7926707a75028" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lostintangent"><img alt="@lostintangent" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/116461?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/andyfeller/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=daily&amp;spoken_language_code=","user_id":null}}' data-hydro-click-hmac="2be35e142d383711c49ea2076f79c9a5c83e595bb556675c22d7926707a75028" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/andyfeller"><img alt="@andyfeller" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2089743?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/johanrosenkilde/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=daily&amp;spoken_language_code=","user_id":null}}' data-hydro-click-hmac="2be35e142d383711c49ea2076f79c9a5c83e595bb556675c22d7926707a75028" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/johanrosenkilde"><img alt="@johanrosenkilde" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/3774274?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        61 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":332357698,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="ec45aaae75d79a6dec4e69da668686daa4f26800019486929b030b11472b4cbc" data-view-component="true" href="/login?return_to=%2FYunaiV%2Fruoyi-vue-pro" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":332357698,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="a519237b0d41a84360e9d1dfa328a7b4bb53d4e6ef53392c2033a079d6abe1d7" data-view-component="true" href="/YunaiV/ruoyi-vue-pro"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        YunaiV /
-</span>
-      ruoyi-vue-pro</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue &amp; Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #b07219"></span>
-<span itemprop="programmingLanguage">Java</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/YunaiV/ruoyi-vue-pro/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        33,873</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/YunaiV/ruoyi-vue-pro/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        7,313</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/YunaiV/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":240736306}}' data-hydro-click-hmac="4187c945e6ae0f431694c1d66d6b6a79bb71b4080f83bab88c4df4f5d420eb77" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/YunaiV"><img alt="@YunaiV" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2015545?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/cherishsince/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":240736306}}' data-hydro-click-hmac="4187c945e6ae0f431694c1d66d6b6a79bb71b4080f83bab88c4df4f5d420eb77" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cherishsince"><img alt="@cherishsince" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/10973855?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/yangzongzhuan/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":240736306}}' data-hydro-click-hmac="4187c945e6ae0f431694c1d66d6b6a79bb71b4080f83bab88c4df4f5d420eb77" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/yangzongzhuan"><img alt="@yangzongzhuan" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/19240310?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/cooling-jason/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":240736306}}' data-hydro-click-hmac="4187c945e6ae0f431694c1d66d6b6a79bb71b4080f83bab88c4df4f5d420eb77" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cooling-jason"><img alt="@cooling-jason" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/35036171?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/owen118z/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":240736306}}' data-hydro-click-hmac="4187c945e6ae0f431694c1d66d6b6a79bb71b4080f83bab88c4df4f5d420eb77" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/owen118z"><img alt="@owen118z" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/5166848?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        26 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":704881002,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="15ce7f4ba548eec8bba92739dbb76f65e8a1e16c23c3cdb26b2fe81a9856101b" data-view-component="true" href="/login?return_to=%2Fhanxi%2Fxiaomusic" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":704881002,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="d2a773336b0d80deebbc5b8c1571400134719209f78cc7fde394a0efbf2b480a" data-view-component="true" href="/hanxi/xiaomusic"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        hanxi /
-</span>
-      xiaomusic</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #3572A5"></span>
-<span itemprop="programmingLanguage">Python</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/hanxi/xiaomusic/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        6,506</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/hanxi/xiaomusic/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        639</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/hanxi/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hanxi"><img alt="@hanxi" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1185757?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" href="/apps/github-actions"><img alt="@github-actions" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/15368?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/flymin/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/flymin"><img alt="@flymin" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/28671430?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/52fisher/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/52fisher"><img alt="@52fisher" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/32198215?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/grayana/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/grayana"><img alt="@grayana" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/55790859?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        103 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
 <a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":822604462,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="f4beefb96faea8c9d388a8c6ca1325f81f251a25abaadba990810bfaea9d38f7" data-view-component="true" href="/login?return_to=%2F666ghj%2FBettaFish" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
@@ -3896,83 +2712,30 @@
 <a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/666ghj/BettaFish/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        3,199</a>
+        11,265</a>
 <a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/666ghj/BettaFish/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>
-        359</a>
+        1,796</a>
 <span class="d-inline-block mr-3" data-view-component="true">
         Built by
 
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/666ghj/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/666ghj"><img alt="@666ghj" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Qst137/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Qst137"><img alt="@Qst137" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/YYL469/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/YYL469"><img alt="@YYL469" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/145646858?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/redhongx/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/redhongx"><img alt="@redhongx" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/113490885?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/sukiyra/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sukiyra"><img alt="@sukiyra" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/130278416?s=40&amp;v=4" width="20"/></a>
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/666ghj/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/666ghj"><img alt="@666ghj" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Qst137/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Qst137"><img alt="@Qst137" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/139198328?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/YYL469/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/YYL469"><img alt="@YYL469" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/145646858?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ghmark675/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ghmark675"><img alt="@ghmark675" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/redhongx/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python?since=daily","user_id":null}}' data-hydro-click-hmac="70abde0bab0d89334ffc671a34a50a0bde51fb19cc9dfab7abe8ce3c2f623fe1" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/redhongx"><img alt="@redhongx" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/113490885?s=40&amp;v=4" width="20"/></a>
 </span>
 <span class="d-inline-block float-sm-right" data-view-component="true">
 <svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        540 stars today
+        4,523 stars today
 </span> </div>
 </article>
 <article class="Box-row">
 <div class="float-right d-flex">
-<div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":668195240,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="cc101016db09011cceaca3424f6d4164df9cb6c278320bca05360789a5001f9a" data-view-component="true" href="/login?return_to=%2Fpathwaycom%2Fllm-app" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-<span class="d-none d-md-inline" data-view-component="true">
-          Star
-</span>
-</a></div>
-</div>
-<h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":668195240,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="229b664f1ccfd6fae625a6e8e8b63a9de1d04fa654240e62ff73104636fa96ae" data-view-component="true" href="/pathwaycom/llm-app"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
-</svg>
-<span class="text-normal" data-view-component="true">
-        pathwaycom /
-</span>
-      llm-app</a> </h2>
-<p class="col-9 color-fg-muted my-1 pr-4">
-      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
-    </p>
-<div class="f6 color-fg-muted mt-2">
-<span class="d-inline-block ml-0 mr-3">
-<span class="repo-language-color" style="background-color: #DA5B0B"></span>
-<span itemprop="programmingLanguage">Jupyter Notebook</span>
-</span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/pathwaycom/llm-app/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        46,388</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/pathwaycom/llm-app/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-</svg>
-        1,192</a>
-<span class="d-inline-block mr-3" data-view-component="true">
-        Built by
-
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/berkecanrizai/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook","user_id":null}}' data-hydro-click-hmac="ab9db0251281f541ea4f92e67bd93340e214eb806678e1d0fc1273603249ee70" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/berkecanrizai"><img alt="@berkecanrizai" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/63911408?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/szymondudycz/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook","user_id":null}}' data-hydro-click-hmac="ab9db0251281f541ea4f92e67bd93340e214eb806678e1d0fc1273603249ee70" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/szymondudycz"><img alt="@szymondudycz" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2479355?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/pw-ppodhajski/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook","user_id":null}}' data-hydro-click-hmac="ab9db0251281f541ea4f92e67bd93340e214eb806678e1d0fc1273603249ee70" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pw-ppodhajski"><img alt="@pw-ppodhajski" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/106311100?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/dxtrous/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook","user_id":null}}' data-hydro-click-hmac="ab9db0251281f541ea4f92e67bd93340e214eb806678e1d0fc1273603249ee70" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dxtrous"><img alt="@dxtrous" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/15914792?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mdmalhou/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook","user_id":null}}' data-hydro-click-hmac="ab9db0251281f541ea4f92e67bd93340e214eb806678e1d0fc1273603249ee70" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mdmalhou"><img alt="@mdmalhou" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/123164531?s=40&amp;v=4" width="20"/></a>
-</span>
-<span class="d-inline-block float-sm-right" data-view-component="true">
-<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
-<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
-</svg>
-        224 stars today
-</span> </div>
-</article>
-<article class="Box-row">
-<div class="float-right d-flex">
-<a aria-label="Sponsor @lingodotdev" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"lingodotdev","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="2e3d3809ceee3e3af68d3484e81ebfe769c028eca9719d155907a01a523bab27" data-view-component="true" href="/sponsors/lingodotdev"> <span class="Button-content">
+<a aria-label="Sponsor @sst" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"sst","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="c61aa90ccd5fa87c8d6784067dc1a9f61401c6f95b8d103881c83b36ea76ba76" data-view-component="true" href="/sponsors/sst"> <span class="Button-content">
 <span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
 </svg>
@@ -3982,7 +2745,7 @@
 </span>
 </a>
 <div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":771479895,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="5b077564c2662dd866002ee1d1d7f9eb86fe81c40ffccfb4bbb32ffc4f5d88a9" data-view-component="true" href="/login?return_to=%2Flingodotdev%2Flingo.dev" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":1023522611,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="ce5283c3363eb3dbfcb975a70602c2500a6678eebbbbf516580cba60f57ecfe8" data-view-component="true" href="/login?return_to=%2Fsst%2Fopentui" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -3993,49 +2756,49 @@
 </a></div>
 </div>
 <h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":771479895,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="23a82e5daf077393b4877429fc13bcf65c82d3c5c325b37cb47a420cb2f5462e" data-view-component="true" href="/lingodotdev/lingo.dev"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":1023522611,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="f1b505b30fd874576220e57dc3502aedfc8586c9ccb5ac56073f1d2d2ae565ab" data-view-component="true" href="/sst/opentui"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
 </svg>
 <span class="text-normal" data-view-component="true">
-        lingodotdev /
+        sst /
 </span>
-      lingo.dev</a> </h2>
+      opentui</a> </h2>
 <p class="col-9 color-fg-muted my-1 pr-4">
-      ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
+      OpenTUI is a library for building terminal user interfaces (TUIs)
     </p>
 <div class="f6 color-fg-muted mt-2">
 <span class="d-inline-block ml-0 mr-3">
 <span class="repo-language-color" style="background-color: #3178c6"></span>
 <span itemprop="programmingLanguage">TypeScript</span>
 </span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/lingodotdev/lingo.dev/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/sst/opentui/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        4,011</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/lingodotdev/lingo.dev/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+        3,927</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/sst/opentui/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>
-        606</a>
+        148</a>
 <span class="d-inline-block mr-3" data-view-component="true">
         Built by
 
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/maxprilutskiy/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/maxprilutskiy"><img alt="@maxprilutskiy" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/5614659?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" href="/apps/github-actions"><img alt="@github-actions" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/15368?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mathio/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mathio"><img alt="@mathio" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1561771?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" href="/apps/dependabot"><img alt="@dependabot" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/29110?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/vrcprl/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/typescript?since=daily","user_id":null}}' data-hydro-click-hmac="b5bc302007e64fe377217be093819cf3a31d6a93f76702903e027ddf52269f17" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vrcprl"><img alt="@vrcprl" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/17295459?s=40&amp;v=4" width="20"/></a>
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/kommander/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kommander"><img alt="@kommander" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/335157?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/msmps/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/msmps"><img alt="@msmps" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/7691252?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Adictya/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Adictya"><img alt="@Adictya" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/14136384?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/fezproof/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/fezproof"><img alt="@fezproof" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/26830309?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/thdxr/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thdxr"><img alt="@thdxr" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4" width="20"/></a>
 </span>
 <span class="d-inline-block float-sm-right" data-view-component="true">
 <svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        94 stars today
+        249 stars today
 </span> </div>
 </article>
 <article class="Box-row">
 <div class="float-right d-flex">
 <div class="BtnGroup d-flex" data-view-component="true">
-<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":19415064,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="833318feb13768218869a3f8a321e8f0b0d30f19f7074ded6031711548b0172a" data-view-component="true" href="/login?return_to=%2Fossu%2Fcomputer-science" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":999030842,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="6b8972d6d38c99c64e6b59d600d6c92a82c84189cfe652a936dcd01302d4fb13" data-view-component="true" href="/login?return_to=%2FGeeeekExplorer%2Fnano-vllm" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -4046,43 +2809,923 @@
 </a></div>
 </div>
 <h2 class="h3 lh-condensed">
-<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":19415064,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="dddf36fe62c293e6b2069d15cc10dd342ea2744d21f367351326883e1249e79c" data-view-component="true" href="/ossu/computer-science"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":999030842,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="921b4e3e6f01fd628565899b3ca68745fea9def5358c73a06a11b6328cb4fc39" data-view-component="true" href="/GeeeekExplorer/nano-vllm"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
 </svg>
 <span class="text-normal" data-view-component="true">
-        ossu /
+        GeeeekExplorer /
 </span>
-      computer-science</a> </h2>
+      nano-vllm</a> </h2>
 <p class="col-9 color-fg-muted my-1 pr-4">
-      🎓 Path to a free self-taught education in Computer Science!
+      Nano vLLM
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/GeeeekExplorer/nano-vllm/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        8,160</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/GeeeekExplorer/nano-vllm/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        1,005</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/GeeeekExplorer/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":125430497}}' data-hydro-click-hmac="a87491ed5350b8a1ff41da0a290c63aa13f2ab93ab1cfd559af3cf5515ccc34b" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/GeeeekExplorer"><img alt="@GeeeekExplorer" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/38156925?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/cheunglei/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":125430497}}' data-hydro-click-hmac="a87491ed5350b8a1ff41da0a290c63aa13f2ab93ab1cfd559af3cf5515ccc34b" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cheunglei"><img alt="@cheunglei" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/41486723?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/PeterDing/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":125430497}}' data-hydro-click-hmac="a87491ed5350b8a1ff41da0a290c63aa13f2ab93ab1cfd559af3cf5515ccc34b" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/PeterDing"><img alt="@PeterDing" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/670690?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/TonyLianLong/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":125430497}}' data-hydro-click-hmac="a87491ed5350b8a1ff41da0a290c63aa13f2ab93ab1cfd559af3cf5515ccc34b" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TonyLianLong"><img alt="@TonyLianLong" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1451234?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jinghuan-Chen/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":125430497}}' data-hydro-click-hmac="a87491ed5350b8a1ff41da0a290c63aa13f2ab93ab1cfd559af3cf5515ccc34b" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jinghuan-Chen"><img alt="@jinghuan-Chen" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/42742857?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        333 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<a aria-label="Sponsor @mudler" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"mudler","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="fe28050f06688bf369cab52259c7c4e0d4cf1345583a453f066cf6b687f03c01" data-view-component="true" href="/sponsors/mudler"> <span class="Button-content">
+<span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
+</svg>
+<span class="d-none d-md-inline v-align-middle">
+      Sponsor
+    </span></span>
+</span>
+</a>
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":615869301,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="a20f7a7902adce5816e8b572c580e90d117e916414277aa90c21ce468a07ba70" data-view-component="true" href="/login?return_to=%2Fmudler%2FLocalAI" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":615869301,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="30ebd67e0e384ef78f33abcc50317bbf30c42a3b05b9ba3330998e158b39b603" data-view-component="true" href="/mudler/LocalAI"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        mudler /
+</span>
+      LocalAI</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #00ADD8"></span>
+<span itemprop="programmingLanguage">Go</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/mudler/LocalAI/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        36,884</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/mudler/LocalAI/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        2,916</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mudler/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":62628008}}' data-hydro-click-hmac="c8a1798f6d351ef1f7f8e5ae0c9396dd11f2053ea2085639416b64f679713dc8" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mudler"><img alt="@mudler" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/localai-bot/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":62628008}}' data-hydro-click-hmac="c8a1798f6d351ef1f7f8e5ae0c9396dd11f2053ea2085639416b64f679713dc8" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/localai-bot"><img alt="@localai-bot" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/139863280?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":62628008}}' data-hydro-click-hmac="c8a1798f6d351ef1f7f8e5ae0c9396dd11f2053ea2085639416b64f679713dc8" href="/apps/dependabot"><img alt="@dependabot" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/29110?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":62628008}}' data-hydro-click-hmac="c8a1798f6d351ef1f7f8e5ae0c9396dd11f2053ea2085639416b64f679713dc8" href="/apps/renovate"><img alt="@renovate" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/2740?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/dave-gray101/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":62628008}}' data-hydro-click-hmac="c8a1798f6d351ef1f7f8e5ae0c9396dd11f2053ea2085639416b64f679713dc8" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dave-gray101"><img alt="@dave-gray101" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/15875595?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        330 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":691347156,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="4c07cd0495173d4080af197f5e6bf3ca339f38b9bda29e45694fa238c4083907" data-view-component="true" href="/login?return_to=%2F1Panel-dev%2FMaxKB" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":691347156,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="d5c351cc01fc3a3434317bc9198a09aae63cb2e71fa22f8ed57e785b37564a38" data-view-component="true" href="/1Panel-dev/MaxKB"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        1Panel-dev /
+</span>
+      MaxKB</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/1Panel-dev/MaxKB/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        19,095</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/1Panel-dev/MaxKB/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        2,482</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/shaohuzhang1/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/shaohuzhang1"><img alt="@shaohuzhang1" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/80892890?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/wangdan-fit2cloud/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wangdan-fit2cloud"><img alt="@wangdan-fit2cloud" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/79562285?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/liuruibin/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/liuruibin"><img alt="@liuruibin" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/23045261?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/wxg0103/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wxg0103"><img alt="@wxg0103" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/46886316?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/liqiang-fit2cloud/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/liqiang-fit2cloud"><img alt="@liqiang-fit2cloud" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/20766823?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        147 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<a aria-label="Sponsor @imthenachoman" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"imthenachoman","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="cd7b875784951df76e1050c67ce8d7790b3fdbbfa98cecab2cbe934b7aed1d9a" data-view-component="true" href="/sponsors/imthenachoman"> <span class="Button-content">
+<span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
+</svg>
+<span class="d-none d-md-inline v-align-middle">
+      Sponsor
+    </span></span>
+</span>
+</a>
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":169839893,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="6f8a395944193122ca9c988b649c82fe29deb670b1db9befe32bf4644076932e" data-view-component="true" href="/login?return_to=%2Fimthenachoman%2FHow-To-Secure-A-Linux-Server" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":169839893,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="89b97c1494e3b8c119b7de519468db80eb6d56ee553cdfcc9c24ee9a18d4ae8b" data-view-component="true" href="/imthenachoman/How-To-Secure-A-Linux-Server"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        imthenachoman /
+</span>
+      How-To-Secure-A-Linux-Server</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      An evolving how-to guide for securing a Linux server.
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/imthenachoman/How-To-Secure-A-Linux-Server/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        20,743</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/imthenachoman/How-To-Secure-A-Linux-Server/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        1,308</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/imthenachoman/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=monthly","user_id":null}}' data-hydro-click-hmac="ba01cef57fe84a748ac95be4ded51040510ea879ae9f791b2a050ba68df7f872" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/imthenachoman"><img alt="@imthenachoman" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/83817?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/LaurenceJJones/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=monthly","user_id":null}}' data-hydro-click-hmac="ba01cef57fe84a748ac95be4ded51040510ea879ae9f791b2a050ba68df7f872" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/LaurenceJJones"><img alt="@LaurenceJJones" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/23139695?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/hellresistor/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=monthly","user_id":null}}' data-hydro-click-hmac="ba01cef57fe84a748ac95be4ded51040510ea879ae9f791b2a050ba68df7f872" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hellresistor"><img alt="@hellresistor" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/50468493?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/nidamanx/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=monthly","user_id":null}}' data-hydro-click-hmac="ba01cef57fe84a748ac95be4ded51040510ea879ae9f791b2a050ba68df7f872" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/nidamanx"><img alt="@nidamanx" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1094368?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/JacksonChen666/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/unknown?since=monthly","user_id":null}}' data-hydro-click-hmac="ba01cef57fe84a748ac95be4ded51040510ea879ae9f791b2a050ba68df7f872" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/JacksonChen666"><img alt="@JacksonChen666" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/50755746?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        151 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<a aria-label="Sponsor @Raphire" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"Raphire","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="8b966b3b955163b5773382b3ab217afcc5ff34d5642e9e100bdafad0a36a0859" data-view-component="true" href="/sponsors/Raphire"> <span class="Button-content">
+<span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
+</svg>
+<span class="d-none d-md-inline v-align-middle">
+      Sponsor
+    </span></span>
+</span>
+</a>
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":307843105,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="597300c8c47aeaa391bd8d6d3db7e6558dbe6fb3901e7a6de4304abd95490908" data-view-component="true" href="/login?return_to=%2FRaphire%2FWin11Debloat" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":307843105,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="6c914708860ac1a520d7b1327c79b7a7dd9ba5413515a40f35927d6508ae950a" data-view-component="true" href="/Raphire/Win11Debloat"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        Raphire /
+</span>
+      Win11Debloat</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #012456"></span>
+<span itemprop="programmingLanguage">PowerShell</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Raphire/Win11Debloat/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        31,710</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Raphire/Win11Debloat/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        1,247</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Raphire/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Raphire"><img alt="@Raphire" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/9938813?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/tsumi/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/tsumi"><img alt="@tsumi" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1663025?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/SashankBhamidi/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/SashankBhamidi"><img alt="@SashankBhamidi" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/66299104?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/N0tHorizon/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/N0tHorizon"><img alt="@N0tHorizon" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/100943586?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/kapad/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kapad"><img alt="@kapad" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2017355?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        539 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":971243074,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="e5a6027200459dbe104b00c5c6ea3acc0a76676fdb83fad404731cd130b6377e" data-view-component="true" href="/login?return_to=%2FDearVa%2FEverywhere" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":971243074,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="00e040cdf61075711476a3f5354fabdf075b492f3607093d9f4819c514049464" data-view-component="true" href="/DearVa/Everywhere"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        DearVa /
+</span>
+      Everywhere</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #178600"></span>
+<span itemprop="programmingLanguage">C#</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/DearVa/Everywhere/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        2,427</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/DearVa/Everywhere/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        126</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/DearVa/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":113298501}}' data-hydro-click-hmac="db14536c82a5143b4f746da0950d87a9beec8780d998c0a5ef777d6851af1203" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DearVa"><img alt="@DearVa" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/55902546?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/AuroraZiling/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":113298501}}' data-hydro-click-hmac="db14536c82a5143b4f746da0950d87a9beec8780d998c0a5ef777d6851af1203" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AuroraZiling"><img alt="@AuroraZiling" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/69903523?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/TheNotoBarth/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":113298501}}' data-hydro-click-hmac="db14536c82a5143b4f746da0950d87a9beec8780d998c0a5ef777d6851af1203" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TheNotoBarth"><img alt="@TheNotoBarth" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/143720284?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="copilot" data-hovercard-url="/copilot/hovercard?bot=copilot-pull-request-reviewer" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":113298501}}' data-hydro-click-hmac="db14536c82a5143b4f746da0950d87a9beec8780d998c0a5ef777d6851af1203" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/apps/copilot-pull-request-reviewer"><img alt="@Copilot" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/946600?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/navono/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":113298501}}' data-hydro-click-hmac="db14536c82a5143b4f746da0950d87a9beec8780d998c0a5ef777d6851af1203" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/navono"><img alt="@navono" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/3746639?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        391 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":983246568,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="97470f2e44f5fd49bbb4f749b1a61e13b0abb9411ca82982c951ee6f6ee7f20f" data-view-component="true" href="/login?return_to=%2FHKUDS%2FDeepCode" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":983246568,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="d4645273eab61f5ac3fe63ec8480e8a3ee27814c6f95ea479441e642c1525c95" data-view-component="true" href="/HKUDS/DeepCode"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        HKUDS /
+</span>
+      DeepCode</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      "DeepCode: Open Agentic Coding (Paper2Code &amp; Text2Web &amp; Text2Backend)"
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/HKUDS/DeepCode/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        9,101</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/HKUDS/DeepCode/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        1,244</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Zongwei9888/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Zongwei9888"><img alt="@Zongwei9888" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/145887958?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/LarFii/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/LarFii"><img alt="@LarFii" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/49157727?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/LZH-YS1998/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/LZH-YS1998"><img alt="@LZH-YS1998" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/90381931?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/chaohuang-ai/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/chaohuang-ai"><img alt="@chaohuang-ai" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/204865953?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        373 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<a aria-label="Sponsor @Fosowl" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"Fosowl","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="563022b2a26716b60895618b52902e5f2547ef5e800ee387a632aa3661093774" data-view-component="true" href="/sponsors/Fosowl"> <span class="Button-content">
+<span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
+</svg>
+<span class="d-none d-md-inline v-align-middle">
+      Sponsor
+    </span></span>
+</span>
+</a>
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":935604638,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="790d82ed21efe26194391d51cde6eb61cd45ee7c83a419b862675f45a7f0c703" data-view-component="true" href="/login?return_to=%2FFosowl%2FagenticSeek" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":935604638,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="c95331052c29338c015497d97372b0a278f080a5bda7f6714bc6522c69ea73ca" data-view-component="true" href="/Fosowl/agenticSeek"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        Fosowl /
+</span>
+      agenticSeek</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Fosowl/agenticSeek/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        23,243</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Fosowl/agenticSeek/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        2,498</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Fosowl/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Fosowl"><img alt="@Fosowl" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/49105846?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/steveh8758/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/steveh8758"><img alt="@steveh8758" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/55958098?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/klimentij/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/klimentij"><img alt="@klimentij" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/3247669?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ganeshnikhil/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ganeshnikhil"><img alt="@ganeshnikhil" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/73976037?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/sukrucildirr/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/python","user_id":null}}' data-hydro-click-hmac="b4de47b613a898241a2502cffb4d1839317a4212dc6e7ff4a5e615d8525e057c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sukrucildirr"><img alt="@sukrucildirr" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/32969880?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        325 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":219616873,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="5f9864701f435b069c2560e145ed6968527d564c18979c6360365bdbe86e13e4" data-view-component="true" href="/login?return_to=%2Fcharmbracelet%2Fglow" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":219616873,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="9f0a6f44448a181bc16db61c57c7e1d6acc1ce771e904e9e87a9afec75d9a720" data-view-component="true" href="/charmbracelet/glow"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        charmbracelet /
+</span>
+      glow</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      Render markdown on the CLI, with pizzazz! 💅🏻
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #00ADD8"></span>
+<span itemprop="programmingLanguage">Go</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/charmbracelet/glow/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        20,720</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/charmbracelet/glow/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        498</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/meowgorithm/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":30176865}}' data-hydro-click-hmac="f4f28cd2cfe5317504fac0a421067ba08ca6e29d4b4a288886cfbcf72483c33d" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/meowgorithm"><img alt="@meowgorithm" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/25087?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/muesli/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":30176865}}' data-hydro-click-hmac="f4f28cd2cfe5317504fac0a421067ba08ca6e29d4b4a288886cfbcf72483c33d" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/muesli"><img alt="@muesli" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/146378?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":30176865}}' data-hydro-click-hmac="f4f28cd2cfe5317504fac0a421067ba08ca6e29d4b4a288886cfbcf72483c33d" href="/apps/dependabot"><img alt="@dependabot" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/29110?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/caarlos0/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":30176865}}' data-hydro-click-hmac="f4f28cd2cfe5317504fac0a421067ba08ca6e29d4b4a288886cfbcf72483c33d" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/caarlos0"><img alt="@caarlos0" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/245435?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/penguwin/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":30176865}}' data-hydro-click-hmac="f4f28cd2cfe5317504fac0a421067ba08ca6e29d4b4a288886cfbcf72483c33d" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/penguwin"><img alt="@penguwin" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/13225611?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        322 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<a aria-label="Sponsor @mudler" class="Button--secondary Button--small Button mr-2" data-hydro-click='{"event_type":"sponsors.button_click","payload":{"button":"TRENDING_REPO_SPONSOR","sponsorable_login":"mudler","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="fe28050f06688bf369cab52259c7c4e0d4cf1345583a453f066cf6b687f03c01" data-view-component="true" href="/sponsors/mudler"> <span class="Button-content">
+<span class="Button-label"><svg aria-hidden="true" class="octicon octicon-heart icon-sponsor mr-0 mr-md-1 v-align-middle color-fg-sponsors anim-pulse-in" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
+</svg>
+<span class="d-none d-md-inline v-align-middle">
+      Sponsor
+    </span></span>
+</span>
+</a>
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":367481529,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="c01df42c2750de8f04b4fec6e4dca4eb0054ee007fdd3a61a976a788508a7e52" data-view-component="true" href="/login?return_to=%2Fmudler%2Fedgevpn" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":367481529,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="c5e48319d42a52429cc0ff4f9da7a5eac8e3e820f9c49e892c5d43c2d2d1eeb7" data-view-component="true" href="/mudler/edgevpn"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        mudler /
+</span>
+      edgevpn</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #00ADD8"></span>
+<span itemprop="programmingLanguage">Go</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/mudler/edgevpn/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        1,447</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/mudler/edgevpn/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        153</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mudler/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mudler"><img alt="@mudler" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2420543?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" href="/apps/renovate"><img alt="@renovate" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/2740?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" href="/apps/dependabot"><img alt="@dependabot" class="avatar mb-1" height="20" src="https://avatars.githubusercontent.com/in/29110?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mauromorales/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mauromorales"><img alt="@mauromorales" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/433958?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/thiswillbeyourgithub/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/thiswillbeyourgithub"><img alt="@thiswillbeyourgithub" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/26625900?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        157 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":523325759,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="c458288742935170f6e00a6d13ea011218b62909a3819b5a6b3478938447d54b" data-view-component="true" href="/login?return_to=%2Fhmjz100%2FLinkSwift" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":523325759,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="4e64ef079169cb85832300e9864452cc31b41241d2bf6728d6a191f56ec02e0d" data-view-component="true" href="/hmjz100/LinkSwift"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        hmjz100 /
+</span>
+      LinkSwift</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #f1e05a"></span>
+<span itemprop="programmingLanguage">JavaScript</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/hmjz100/LinkSwift/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        8,446</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/hmjz100/LinkSwift/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        407</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/hmjz100/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/JavaScript?since=daily","user_id":null}}' data-hydro-click-hmac="c19f13323de723bd33dd7b536c0952833b5e2d548537f68431cb3a92ec7dfd51" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hmjz100"><img alt="@hmjz100" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/98228280?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/MisaLiu/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/JavaScript?since=daily","user_id":null}}' data-hydro-click-hmac="c19f13323de723bd33dd7b536c0952833b5e2d548537f68431cb3a92ec7dfd51" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MisaLiu"><img alt="@MisaLiu" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/62408957?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/AstralFlare-owo/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/JavaScript?since=daily","user_id":null}}' data-hydro-click-hmac="c19f13323de723bd33dd7b536c0952833b5e2d548537f68431cb3a92ec7dfd51" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AstralFlare-owo"><img alt="@AstralFlare-owo" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/46892455?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        96 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":897067790,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="b32847c7e9ef88066cdfab5563e5f7b49dd476ca308989064c70b97d9548f5a9" data-view-component="true" href="/login?return_to=%2Fcoleam00%2Fottomator-agents" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":897067790,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="d423eca2173c439a1b2ff8546a27204c0ab9898ef29c5fb5c7c67a5c6f5a85d6" data-view-component="true" href="/coleam00/ottomator-agents"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        coleam00 /
+</span>
+      ottomator-agents</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/coleam00/ottomator-agents/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        4,647</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/coleam00/ottomator-agents/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        1,667</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/coleam00/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/coleam00"><img alt="@coleam00" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/47287758?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/32xnabin/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/32xnabin"><img alt="@32xnabin" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/2490891?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/Vondert/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":null}}' data-hydro-click-hmac="1624b778276e789a4b952f4f024b178ca5826544f935e57298c1d5b6ad8c3665" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Vondert"><img alt="@Vondert" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/95308300?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        26 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":419347358,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="fcf582d4ebc777758d879b4f948bf9175f729f5a27584cce95d0a5febf525d15" data-view-component="true" href="/login?return_to=%2FPKUFlyingPig%2Fcs-self-learning" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":419347358,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="469a6f7f6f3bba93d906ba9bdc4f9c24155db6962068f392b0d844f74035804a" data-view-component="true" href="/PKUFlyingPig/cs-self-learning"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        PKUFlyingPig /
+</span>
+      cs-self-learning</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      计算机自学指南
     </p>
 <div class="f6 color-fg-muted mt-2">
 <span class="d-inline-block ml-0 mr-3">
 <span class="repo-language-color" style="background-color: #e34c26"></span>
 <span itemprop="programmingLanguage">HTML</span>
 </span>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/ossu/computer-science/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/PKUFlyingPig/cs-self-learning/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        196,703</a>
-<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/ossu/computer-science/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+        68,592</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/PKUFlyingPig/cs-self-learning/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>
-        24,526</a>
+        7,676</a>
 <span class="d-inline-block mr-3" data-view-component="true">
         Built by
 
-          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ericdouglas/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/html?since=daily","user_id":241381989}}' data-hydro-click-hmac="34d7629fc6e1940a6cca97455a6087cda372a0c54f99c949efe82ff97c76864c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ericdouglas"><img alt="@ericdouglas" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/4119931?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/waciumawanjohi/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/html?since=daily","user_id":241381989}}' data-hydro-click-hmac="34d7629fc6e1940a6cca97455a6087cda372a0c54f99c949efe82ff97c76864c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/waciumawanjohi"><img alt="@waciumawanjohi" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/18407643?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/joshmhanson/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/html?since=daily","user_id":241381989}}' data-hydro-click-hmac="34d7629fc6e1940a6cca97455a6087cda372a0c54f99c949efe82ff97c76864c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/joshmhanson"><img alt="@joshmhanson" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/5695330?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mkghosh/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/html?since=daily","user_id":241381989}}' data-hydro-click-hmac="34d7629fc6e1940a6cca97455a6087cda372a0c54f99c949efe82ff97c76864c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mkghosh"><img alt="@mkghosh" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/10495809?s=40&amp;v=4" width="20"/></a>
-<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/pulkitkrishna00/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/html?since=daily","user_id":241381989}}' data-hydro-click-hmac="34d7629fc6e1940a6cca97455a6087cda372a0c54f99c949efe82ff97c76864c" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pulkitkrishna00"><img alt="@pulkitkrishna00" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/72264063?s=40&amp;v=4" width="20"/></a>
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/PKUFlyingPig/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":229216583}}' data-hydro-click-hmac="077ca579a832d74e2301b2fc00fd55c1ddca30534752d654585d35933d2c8344" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/PKUFlyingPig"><img alt="@PKUFlyingPig" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/60659728?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/smxm/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":229216583}}' data-hydro-click-hmac="077ca579a832d74e2301b2fc00fd55c1ddca30534752d654585d35933d2c8344" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/smxm"><img alt="@smxm" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/15178800?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/BarbarossaWang/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":229216583}}' data-hydro-click-hmac="077ca579a832d74e2301b2fc00fd55c1ddca30534752d654585d35933d2c8344" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/BarbarossaWang"><img alt="@BarbarossaWang" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/40034814?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/liudeyuan2021/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":229216583}}' data-hydro-click-hmac="077ca579a832d74e2301b2fc00fd55c1ddca30534752d654585d35933d2c8344" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/liudeyuan2021"><img alt="@liudeyuan2021" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/50735120?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/taylover2016/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":229216583}}' data-hydro-click-hmac="077ca579a832d74e2301b2fc00fd55c1ddca30534752d654585d35933d2c8344" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/taylover2016"><img alt="@taylover2016" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/53425593?s=40&amp;v=4" width="20"/></a>
 </span>
 <span class="d-inline-block float-sm-right" data-view-component="true">
 <svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg>
-        235 stars today
+        74 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":284008087,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="ff8e0e2234700560f74b81c7fe3dcd1c7771c0a5622cdab660a46d4f5d06948d" data-view-component="true" href="/login?return_to=%2Fcloudcommunity%2FFree-Certifications" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":284008087,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="9f4608068d369cdc98fe1e011d4302aef31faabd2013aca0e3738c4d94d0d68c" data-view-component="true" href="/cloudcommunity/Free-Certifications"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        cloudcommunity /
+</span>
+      Free-Certifications</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      A curated list of free courses with certifications. Also available at <a class="Link--inTextBlock" href="https://free-certifications.com/" rel="nofollow">https://free-certifications.com/</a>
+</p>
+<div class="f6 color-fg-muted mt-2">
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/cloudcommunity/Free-Certifications/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        43,044</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/cloudcommunity/Free-Certifications/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        2,892</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/karentamrazyan/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/karentamrazyan"><img alt="@karentamrazyan" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/123498?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/CloudStudyNet/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/CloudStudyNet"><img alt="@CloudStudyNet" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/148721954?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/diogomurta/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/diogomurta"><img alt="@diogomurta" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/44232737?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/sykezz/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/sykezz"><img alt="@sykezz" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/6332979?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/oldphones68/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="14a81dd1b5cd12f2e95030cb17362cb06eaa0349997a1d520f0bec614d40dc93" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/oldphones68"><img alt="@oldphones68" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/51379704?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        455 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":821372392,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="081862adc7fb92e579e922ee5c8d53fa11e0c03e9e9e1f11e7d5c7b4cbbd1e82" data-view-component="true" href="/login?return_to=%2FHandsOnLLM%2FHands-On-Large-Language-Models" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":821372392,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="d4165499f74a5dc66f0e003249ae68aa82402e653326f41de55f8d9d6947765a" data-view-component="true" href="/HandsOnLLM/Hands-On-Large-Language-Models"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        HandsOnLLM /
+</span>
+      Hands-On-Large-Language-Models</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #DA5B0B"></span>
+<span itemprop="programmingLanguage">Jupyter Notebook</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/HandsOnLLM/Hands-On-Large-Language-Models/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        17,372</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/HandsOnLLM/Hands-On-Large-Language-Models/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        4,059</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/MaartenGr/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook?since=daily","user_id":null}}' data-hydro-click-hmac="c02f586eff12bd98908a4b27cb47a7d6590c2ac4b02d02691ed36daf106fee44" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MaartenGr"><img alt="@MaartenGr" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/25746895?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/negativenagesh/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook?since=daily","user_id":null}}' data-hydro-click-hmac="c02f586eff12bd98908a4b27cb47a7d6590c2ac4b02d02691ed36daf106fee44" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/negativenagesh"><img alt="@negativenagesh" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/148525245?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jalammar/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook?since=daily","user_id":null}}' data-hydro-click-hmac="c02f586eff12bd98908a4b27cb47a7d6590c2ac4b02d02691ed36daf106fee44" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jalammar"><img alt="@jalammar" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1007956?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/dkapitan/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook?since=daily","user_id":null}}' data-hydro-click-hmac="c02f586eff12bd98908a4b27cb47a7d6590c2ac4b02d02691ed36daf106fee44" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dkapitan"><img alt="@dkapitan" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/4090894?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/dcarpintero/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending/jupyter-notebook?since=daily","user_id":null}}' data-hydro-click-hmac="c02f586eff12bd98908a4b27cb47a7d6590c2ac4b02d02691ed36daf106fee44" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dcarpintero"><img alt="@dcarpintero" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/6709785?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        140 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":143328315,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="bd41d36d1423cdcb04bcaeb7c9ec9fe87ed006816f2fe8c4a59d2e85a5dedc4c" data-view-component="true" href="/login?return_to=%2Fmindsdb%2Fmindsdb" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":143328315,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="8c2297d12316f52ff1aa5eabeb4c9db12d7d0620b0650d8a93dfaaafcd7c9d91" data-view-component="true" href="/mindsdb/mindsdb"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        mindsdb /
+</span>
+      mindsdb</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      Federated query engine for AI - The only MCP Server you'll ever need
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/mindsdb/mindsdb/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        36,940</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/mindsdb/mindsdb/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        5,946</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/StpMax/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=weekly&amp;spoken_language_code=en","user_id":null}}' data-hydro-click-hmac="03c5bb3c8302de3152535f1549dd79bdfd0a0ec2e74b846532e2cc70575052e3" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/StpMax"><img alt="@StpMax" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/4068133?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ZoranPandovski/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=weekly&amp;spoken_language_code=en","user_id":null}}' data-hydro-click-hmac="03c5bb3c8302de3152535f1549dd79bdfd0a0ec2e74b846532e2cc70575052e3" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ZoranPandovski"><img alt="@ZoranPandovski" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/7192539?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/George3d6/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=weekly&amp;spoken_language_code=en","user_id":null}}' data-hydro-click-hmac="03c5bb3c8302de3152535f1549dd79bdfd0a0ec2e74b846532e2cc70575052e3" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/George3d6"><img alt="@George3d6" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/23587658?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ea-rus/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=weekly&amp;spoken_language_code=en","user_id":null}}' data-hydro-click-hmac="03c5bb3c8302de3152535f1549dd79bdfd0a0ec2e74b846532e2cc70575052e3" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ea-rus"><img alt="@ea-rus" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/8502631?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/MinuraPunchihewa/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=weekly&amp;spoken_language_code=en","user_id":null}}' data-hydro-click-hmac="03c5bb3c8302de3152535f1549dd79bdfd0a0ec2e74b846532e2cc70575052e3" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/MinuraPunchihewa"><img alt="@MinuraPunchihewa" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/49385643?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        52 stars today
+</span> </div>
+</article>
+<article class="Box-row">
+<div class="float-right d-flex">
+<div class="BtnGroup d-flex" data-view-component="true">
+<a aria-label="You must be signed in to star a repository" class="tooltipped tooltipped-sw btn-sm btn" data-hydro-click='{"event_type":"authentication.click","payload":{"location_in_page":"star button","repository_id":764723738,"auth_type":"LOG_IN","originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="77f7d8bf3869abae84caf77045054234f245bf0df3e9c00d6495c07926a8af55" data-view-component="true" href="/login?return_to=%2FSkyvern-AI%2Fskyvern" rel="nofollow"> <svg aria-hidden="true" class="octicon octicon-star v-align-text-bottom d-none d-md-inline-block mr-2" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg><svg aria-hidden="true" class="octicon octicon-star mr-0 v-align-text-bottom d-inline-block d-md-none" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+<span class="d-none d-md-inline" data-view-component="true">
+          Star
+</span>
+</a></div>
+</div>
+<h2 class="h3 lh-condensed">
+<a class="Link" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"REPOSITORY","click_visual_representation":"REPOSITORY_NAME_HEADING","actor_id":null,"record_id":764723738,"originating_url":"https://github.com/trending","user_id":null}}' data-hydro-click-hmac="6e1a6960613e7dc671bd3e71446ff21cd663a40d14c029db61c76b22f8ac76a4" data-view-component="true" href="/Skyvern-AI/skyvern"><svg aria-hidden="true" class="octicon octicon-repo mr-1 color-fg-muted" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
+</svg>
+<span class="text-normal" data-view-component="true">
+        Skyvern-AI /
+</span>
+      skyvern</a> </h2>
+<p class="col-9 color-fg-muted my-1 pr-4">
+      Automate browser-based workflows with LLMs and Computer Vision
+    </p>
+<div class="f6 color-fg-muted mt-2">
+<span class="d-inline-block ml-0 mr-3">
+<span class="repo-language-color" style="background-color: #3572A5"></span>
+<span itemprop="programmingLanguage">Python</span>
+</span>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Skyvern-AI/skyvern/stargazers"><svg aria-label="star" class="octicon octicon-star" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        15,595</a>
+<a class="Link Link--muted d-inline-block mr-3" data-view-component="true" href="/Skyvern-AI/skyvern/forks"><svg aria-label="fork" class="octicon octicon-repo-forked" data-view-component="true" height="16" role="img" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
+</svg>
+        1,331</a>
+<span class="d-inline-block mr-3" data-view-component="true">
+        Built by
+
+          <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/wintonzheng/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/wintonzheng"><img alt="@wintonzheng" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/5225702?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/LawyZheng/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/LawyZheng"><img alt="@LawyZheng" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/26927551?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ykeremy/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ykeremy"><img alt="@ykeremy" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/26116031?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jomido/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jomido"><img alt="@jomido" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/1469593?s=40&amp;v=4" width="20"/></a>
+<a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/suchintan/hovercard" data-hydro-click='{"event_type":"explore.click","payload":{"click_context":"TRENDING_REPOSITORIES_PAGE","click_target":"CONTRIBUTING_DEVELOPER","click_visual_representation":"DEVELOPER_AVATAR","actor_id":null,"record_id":null,"originating_url":"https://github.com/trending?since=daily","user_id":20626812}}' data-hydro-click-hmac="1d26c583e2ee342487122ffdd51e7eb7854eaaee35925724e679d579187a405e" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/suchintan"><img alt="@suchintan" class="avatar mb-1 avatar-user" height="20" src="https://avatars.githubusercontent.com/u/3853670?s=40&amp;v=4" width="20"/></a>
+</span>
+<span class="d-inline-block float-sm-right" data-view-component="true">
+<svg aria-hidden="true" class="octicon octicon-star" data-view-component="true" height="16" version="1.1" viewbox="0 0 16 16" width="16">
+<path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
+</svg>
+        88 stars today
 </span> </div>
 </article>
 </div>
