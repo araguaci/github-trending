@@ -2,21 +2,21 @@
 
 #### trending
 * [prometheus / alertmanager](https://github.com/prometheus/alertmanager) ⭐ 7,556: Prometheus Alertmanager
-* [666ghj / BettaFish](https://github.com/666ghj/BettaFish) ⭐ 21,223: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+* [666ghj / BettaFish](https://github.com/666ghj/BettaFish) ⭐ 21,227: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * [simstudioai / sim](https://github.com/simstudioai/sim) ⭐ 17,575: Open-source platform to build and deploy AI agent workflows.
 * [lima-vm / lima](https://github.com/lima-vm/lima) ⭐ 18,385: Linux virtual machines, with a focus on running containers
-* [awslabs / mcp](https://github.com/awslabs/mcp) ⭐ 7,001: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
+* [awslabs / mcp](https://github.com/awslabs/mcp) ⭐ 7,002: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * [usestrix / strix](https://github.com/usestrix/strix) ⭐ 3,150: ✨ Open-source AI hackers for your apps 👨🏻‍💻
-* [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate) ⭐ 26,807: NVR with realtime local object detection for IP cameras
+* [blakeblackshear / frigate](https://github.com/blakeblackshear/frigate) ⭐ 26,808: NVR with realtime local object detection for IP cameras
 * [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 22,623: An evolving how-to guide for securing a Linux server.
-* [FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) ⭐ 10,006: FFmpeg Assembly Language Lessons
+* [FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) ⭐ 10,007: FFmpeg Assembly Language Lessons
 * [ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) ⭐ 585: 🦝 Rachoon — A self-hostable way to handle invoices
 * [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) ⭐ 212,652: All Algorithms implemented in Python
 * [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 332,740: A complete computer science study plan to become a software engineer.
-* [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 75,402: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+* [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 75,403: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 * [GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) ⭐ 692: GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 * [GopeedLab / gopeed](https://github.com/GopeedLab/gopeed) ⭐ 21,414: A modern download manager that supports all platforms. Built with Golang and Flutter.
-* [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 16,966: Automate browser based workflows with AI
+* [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 16,968: Automate browser based workflows with AI
 * [antiwork / gumroad](https://github.com/antiwork/gumroad) ⭐ 7,408: Sell stuff and see what sticks
 * [coder / code-server](https://github.com/coder/code-server) ⭐ 74,605: VS Code in the browser
 * [remix-run / react-router](https://github.com/remix-run/react-router) ⭐ 55,848: Declarative routing for React
@@ -52,7 +52,7 @@
 * [google / flatbuffers](https://github.com/google/flatbuffers) ⭐ 24,982: FlatBuffers: Memory Efficient Serialization Library
 * [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 12,064: TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 * [autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) ⭐ 1,329: 
-* [ggml-org / ggml](https://github.com/ggml-org/ggml) ⭐ 13,513: Tensor library for machine learning
+* [ggml-org / ggml](https://github.com/ggml-org/ggml) ⭐ 13,514: Tensor library for machine learning
 * [NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 4,328: Download web video and audio
 * [gabime / spdlog](https://github.com/gabime/spdlog) ⭐ 27,591: Fast C++ logging library.
 * [protocolbuffers / protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 69,551: Protocol Buffers - Google's data interchange format
@@ -73,7 +73,7 @@
 #### go
 * [prometheus / alertmanager](https://github.com/prometheus/alertmanager) ⭐ 7,556: Prometheus Alertmanager
 * [lima-vm / lima](https://github.com/lima-vm/lima) ⭐ 18,385: Linux virtual machines, with a focus on running containers
-* [containerd / containerd](https://github.com/containerd/containerd) ⭐ 19,532: An open and reliable container runtime
+* [containerd / containerd](https://github.com/containerd/containerd) ⭐ 19,533: An open and reliable container runtime
 * [mudler / LocalAI](https://github.com/mudler/LocalAI) ⭐ 37,766: 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
 * [temporalio / temporal](https://github.com/temporalio/temporal) ⭐ 16,483: Temporal service
 * [prometheus / node_exporter](https://github.com/prometheus/node_exporter) ⭐ 12,758: Exporter for machine metrics
@@ -81,7 +81,7 @@
 * [distribution / distribution](https://github.com/distribution/distribution) ⭐ 9,988: The toolkit to pack, ship, store, and deliver container content
 * [go-chi / chi](https://github.com/go-chi/chi) ⭐ 20,817: lightweight, idiomatic and composable router for building Go HTTP services
 * [kubernetes / autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 8,666: Autoscaling components for Kubernetes
-* [glanceapp / glance](https://github.com/glanceapp/glance) ⭐ 29,332: A self-hosted dashboard that puts all your feeds in one place
+* [glanceapp / glance](https://github.com/glanceapp/glance) ⭐ 29,333: A self-hosted dashboard that puts all your feeds in one place
 * [grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) ⭐ 1,825: MCP server for Grafana
 * [moby / moby](https://github.com/moby/moby) ⭐ 71,017: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 * [opencontainers / runc](https://github.com/opencontainers/runc) ⭐ 12,740: CLI tool for spawning and running containers according to the OCI specification
@@ -217,19 +217,19 @@
 * [scalar / scalar](https://github.com/scalar/scalar) ⭐ 12,703: Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
 #### python
-* [666ghj / BettaFish](https://github.com/666ghj/BettaFish) ⭐ 21,223: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+* [666ghj / BettaFish](https://github.com/666ghj/BettaFish) ⭐ 21,228: 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * [awslabs / mcp](https://github.com/awslabs/mcp) ⭐ 7,002: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * [usestrix / strix](https://github.com/usestrix/strix) ⭐ 3,150: ✨ Open-source AI hackers for your apps 👨🏻‍💻
 * [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) ⭐ 212,652: All Algorithms implemented in Python
-* [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 75,402: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 16,966: Automate browser based workflows with AI
+* [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 75,403: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+* [Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 16,968: Automate browser based workflows with AI
 * [topoteretes / cognee](https://github.com/topoteretes/cognee) ⭐ 8,129: Memory for AI Agents in 6 lines of code
-* [droidrun / droidrun](https://github.com/droidrun/droidrun) ⭐ 5,491: 
+* [droidrun / droidrun](https://github.com/droidrun/droidrun) ⭐ 5,492: 
 * [pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) ⭐ 13,242: GenAI Agent Framework, the Pydantic way
 * [SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) ⭐ 9,771: Main Sigma Rule Repository
-* [huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) ⭐ 35,697: The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
+* [huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) ⭐ 35,698: The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more
 * [sgl-project / sglang](https://github.com/sgl-project/sglang) ⭐ 19,961: SGLang is a fast serving framework for large language models and vision language models.
-* [JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) ⭐ 6,000: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+* [JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) ⭐ 6,001: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 * [sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) ⭐ 5,021: 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 * [localstack / localstack](https://github.com/localstack/localstack) ⭐ 62,360: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 * [jlowin / fastmcp](https://github.com/jlowin/fastmcp) ⭐ 20,058: 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -243,12 +243,12 @@
 * [coder / code-server](https://github.com/coder/code-server) ⭐ 74,605: VS Code in the browser
 * [remix-run / react-router](https://github.com/remix-run/react-router) ⭐ 55,848: Declarative routing for React
 * [ytmdesktop / ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) ⭐ 4,992: A Desktop App for YouTube Music
-* [microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) ⭐ 606: 
+* [microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) ⭐ 607: 
 * [slidevjs / slidev](https://github.com/slidevjs/slidev) ⭐ 41,468: Presentation Slides for Developers
 * [langgenius / dify](https://github.com/langgenius/dify) ⭐ 118,314: Production-ready platform for agentic workflow development.
 * [ourongxing / newsnow](https://github.com/ourongxing/newsnow) ⭐ 13,659: Elegant reading of real-time and hottest news
 * [mermaid-js / mermaid](https://github.com/mermaid-js/mermaid) ⭐ 83,964: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-* [nocobase / nocobase](https://github.com/nocobase/nocobase) ⭐ 18,721: NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+* [nocobase / nocobase](https://github.com/nocobase/nocobase) ⭐ 18,722: NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 * [Budibase / budibase](https://github.com/Budibase/budibase) ⭐ 27,242: Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 * [grafana / grafana](https://github.com/grafana/grafana) ⭐ 70,707: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 * [angular / components](https://github.com/angular/components) ⭐ 24,941: Component infrastructure and Material Design components for Angular
