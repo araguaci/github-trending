@@ -83,7 +83,7 @@ def scrape(language, filename):
     
     print(url)
 
-    r = requests.get(url, headers=HEADERS)
+    r = requests.get(url, headers=HEADERS, timeout=10.0)
     assert r.status_code == 200
     
     d = pq(r.content)
