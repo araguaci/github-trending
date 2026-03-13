@@ -106,7 +106,7 @@ def scrape(language, filename, use_api=False, github_token=None):
     
     print(f"Scraping: {url}")
 
-    r = requests.get(url, headers=HEADERS)
+    r = requests.get(url, headers=HEADERS, timeout=10.0)
     assert r.status_code == 200
     
     d = pq(r.content)
@@ -163,7 +163,7 @@ def scrape_with_stars(language, filename, use_api=False, github_token=None):
     
     print(f"Scraping: {url}")
 
-    r = requests.get(url, headers=HEADERS)
+    r = requests.get(url, headers=HEADERS, timeout=10.0)
     assert r.status_code == 200
     
     d = pq(r.content)
