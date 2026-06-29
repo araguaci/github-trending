@@ -7,6 +7,8 @@ from datetime import datetime, timedelta
 from collections import defaultdict, Counter
 import requests
 
+from docs_utils import daily_md_path
+
 class GitHubTrendingAnalyzer:
     def __init__(self, docs_path="docs"):
         self.docs_path = docs_path
@@ -18,7 +20,7 @@ class GitHubTrendingAnalyzer:
         data = []
         
         # Carregar dados dos arquivos de trending
-        for year in range(2017, 2026):
+        for year in range(2017, 2027):
             year_path = os.path.join(self.docs_path, str(year))
             if os.path.exists(year_path):
                 for file in os.listdir(year_path):
@@ -215,7 +217,7 @@ class GitHubTrendingAnalyzer:
     def generate_trending_now_page(self):
         """Gera página de trending atual"""
         today = datetime.now().strftime('%Y-%m-%d')
-        today_file = f"{today}.md"
+        today_file = str(daily_md_path(today))
         
         if not os.path.exists(today_file):
             print(f"⚠️ Arquivo de hoje não encontrado: {today_file}")

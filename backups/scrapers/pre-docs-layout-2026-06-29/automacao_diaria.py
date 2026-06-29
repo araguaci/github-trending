@@ -2,10 +2,10 @@
 # coding:utf-8
 
 """
-GitHub Trending Scraper - Script de Automação Diária Melhorado
+GitHub Trending Scraper - Script de Automa├º├úo Di├íria Melhorado
 ===============================================================
 
-Este script executa o scraping diário e atualiza a documentação
+Este script executa o scraping di├írio e atualiza a documenta├º├úo
 com as melhorias implementadas.
 
 Autor: Assistant AI
@@ -18,8 +18,6 @@ import subprocess
 import datetime
 import time
 from pathlib import Path
-
-from docs_utils import daily_md_path, update_year_index
 
 class DailyAutomation:
     def __init__(self):
@@ -34,18 +32,18 @@ class DailyAutomation:
         print(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] {message}")
         
     def check_environment(self):
-        """Verifica se o ambiente está configurado"""
+        """Verifica se o ambiente est├í configurado"""
         self.log("Verificando ambiente...")
         
         if not self.project_path.exists():
-            self.log("ERRO: Diretório do projeto não encontrado!", "red")
+            self.log("ERRO: Diret├│rio do projeto n├úo encontrado!", "red")
             return False
             
         if not self.python_exe.exists():
-            self.log("ERRO: Ambiente virtual não encontrado!", "red")
+            self.log("ERRO: Ambiente virtual n├úo encontrado!", "red")
             return False
             
-        self.log(f"Diretório: {self.project_path}")
+        self.log(f"Diret├│rio: {self.project_path}")
         return True
         
     def run_scraper(self):
@@ -73,25 +71,20 @@ class DailyAutomation:
         """Atualiza os arquivos README"""
         self.log("Atualizando README...")
         
-        trending_file = daily_md_path(self.today, self.project_path)
+        trending_file = self.project_path / f"{self.today}.md"
         
         if not trending_file.exists():
-            self.log(f"ERRO: Arquivo {trending_file} não encontrado!", "red")
+            self.log(f"ERRO: Arquivo {self.today}.md n├úo encontrado!", "red")
             return False
             
         try:
-            content = trending_file.read_text(encoding='utf-8')
-
             # Copiar para docs/README.md
             docs_readme = self.project_path / "docs" / "README.md"
-            docs_readme.write_text(content, encoding='utf-8')
+            docs_readme.write_text(trending_file.read_text(encoding='utf-8'), encoding='utf-8')
             
             # Copiar para README.md
             main_readme = self.project_path / "README.md"
-            main_readme.write_text(content, encoding='utf-8')
-
-            index_path = update_year_index(self.today, self.project_path)
-            self.log(f"Índice anual atualizado: {index_path}")
+            main_readme.write_text(trending_file.read_text(encoding='utf-8'), encoding='utf-8')
             
             self.log("README atualizado com sucesso!")
             return True
@@ -101,13 +94,13 @@ class DailyAutomation:
             return False
             
     def run_improvement_scripts(self):
-        """Executa os scripts de melhoria da documentação"""
-        self.log("Executando scripts de melhoria da documentação...")
+        """Executa os scripts de melhoria da documenta├º├úo"""
+        self.log("Executando scripts de melhoria da documenta├º├úo...")
         
         scripts = [
-            ("generate_analytics.py", "Gerando estatísticas"),
-            ("generate_repo_pages.py", "Gerando páginas de repositórios"),
-            ("generate_docsify_config.py", "Atualizando configuração Docsify")
+            ("generate_analytics.py", "Gerando estat├¡sticas"),
+            ("generate_repo_pages.py", "Gerando p├íginas de reposit├│rios"),
+            ("generate_docsify_config.py", "Atualizando configura├º├úo Docsify")
         ]
         
         for script, description in scripts:
@@ -119,35 +112,35 @@ class DailyAutomation:
                 ], cwd=self.project_path, capture_output=True, text=True)
                 
                 if result.returncode == 0:
-                    self.log(f"  ✓ {description} - Sucesso!")
+                    self.log(f"  Ô£ô {description} - Sucesso!")
                 else:
-                    self.log(f"  ✗ {description} - Erro: {result.stderr}", "red")
+                    self.log(f"  Ô£ù {description} - Erro: {result.stderr}", "red")
                     
             except Exception as e:
-                self.log(f"  ✗ {description} - Erro: {e}", "red")
+                self.log(f"  Ô£ù {description} - Erro: {e}", "red")
                 
-        # Atualizar configuração Docsify se o arquivo melhorado existir
+        # Atualizar configura├º├úo Docsify se o arquivo melhorado existir
         enhanced_config = self.project_path / "docs" / "index_enhanced.html"
         current_config = self.project_path / "docs" / "index.html"
         
         if enhanced_config.exists():
-            self.log("  - Aplicando configuração Docsify melhorada...")
+            self.log("  - Aplicando configura├º├úo Docsify melhorada...")
             try:
                 current_config.write_text(enhanced_config.read_text(encoding='utf-8'), encoding='utf-8')
-                self.log("  ✓ Configuração Docsify aplicada!")
+                self.log("  Ô£ô Configura├º├úo Docsify aplicada!")
             except Exception as e:
-                self.log(f"  ✗ Erro ao aplicar configuração: {e}", "red")
+                self.log(f"  Ô£ù Erro ao aplicar configura├º├úo: {e}", "red")
                 
     def git_commit_push(self):
-        """Faz commit e push das alterações"""
-        self.log("Fazendo commit das alterações...")
+        """Faz commit e push das altera├º├Áes"""
+        self.log("Fazendo commit das altera├º├Áes...")
         
         try:
             # Git add
             subprocess.run(["git", "add", "."], cwd=self.project_path, check=True)
             
             # Git commit
-            commit_message = f"Atualização diária {self.today} - Trending + Melhorias documentação"
+            commit_message = f"Atualiza├º├úo di├íria {self.today} - Trending + Melhorias documenta├º├úo"
             subprocess.run([
                 "git", "commit", "-m", commit_message
             ], cwd=self.project_path, check=True)
@@ -166,29 +159,28 @@ class DailyAutomation:
             return False
             
     def generate_summary(self):
-        """Gera resumo da execução"""
+        """Gera resumo da execu├º├úo"""
         self.log("=" * 50)
-        self.log("EXECUÇÃO CONCLUÍDA COM SUCESSO!")
+        self.log("EXECU├ç├âO CONCLU├ìDA COM SUCESSO!")
         self.log("=" * 50)
         self.log("Arquivos atualizados:")
-        self.log(f"  - docs/{self.today[:4]}/{self.today}.md (trending do dia)")
-        self.log(f"  - docs/{self.today[:4]}/index.md (índice anual)")
+        self.log(f"  - {self.today}.md (trending do dia)")
         self.log("  - docs/README.md")
         self.log("  - README.md")
-        self.log("  - docs/stats.md (estatísticas)")
+        self.log("  - docs/stats.md (estat├¡sticas)")
         self.log("  - docs/trending-now.md (trending atual)")
         self.log("  - docs/categories.md (categorias)")
-        self.log("  - docs/index.html (configuração Docsify)")
+        self.log("  - docs/index.html (configura├º├úo Docsify)")
         self.log("=" * 50)
         
         next_run = datetime.datetime.now() + datetime.timedelta(days=1)
-        self.log(f"Próxima execução: {next_run.strftime('%Y-%m-%d %H:%M:%S')}")
+        self.log(f"Pr├│xima execu├º├úo: {next_run.strftime('%Y-%m-%d %H:%M:%S')}")
         self.log("=" * 50)
         
     def run(self):
         """Executa o processo completo"""
         self.log("=" * 50)
-        self.log("GitHub Trending Scraper - Execução Diária")
+        self.log("GitHub Trending Scraper - Execu├º├úo Di├íria")
         self.log(f"Data: {self.timestamp}")
         self.log("=" * 50)
         
@@ -218,22 +210,22 @@ class DailyAutomation:
 
 
 def main():
-    """Função principal"""
+    """Fun├º├úo principal"""
     try:
         automation = DailyAutomation()
         success = automation.run()
         
         if success:
-            print("\n🎉 Automação diária concluída com sucesso!")
+            print("\n­ƒÄë Automa├º├úo di├íria conclu├¡da com sucesso!")
         else:
-            print("\n❌ Automação diária falhou!")
+            print("\nÔØî Automa├º├úo di├íria falhou!")
             sys.exit(1)
             
     except KeyboardInterrupt:
-        print("\n⚠️ Automação cancelada pelo usuário")
+        print("\nÔÜá´©Å Automa├º├úo cancelada pelo usu├írio")
         sys.exit(1)
     except Exception as e:
-        print(f"\n❌ Erro inesperado: {e}")
+        print(f"\nÔØî Erro inesperado: {e}")
         sys.exit(1)
 
 

@@ -8,8 +8,6 @@ import time
 import html2markdown
 from pyquery import PyQuery as pq
 
-from docs_utils import daily_md_path, update_year_index
-
 
 def git_add_commit_push(date, filename):
     cmd_git_add = 'git add {filename}'.format(filename=filename)
@@ -71,7 +69,7 @@ def scrape(language, filename):
 
 def job():
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-    filename = str(daily_md_path(strdate))
+    filename = '{date}.md'.format(date=strdate)
 
     # create markdown file
     createMarkdown(strdate, filename)
@@ -91,8 +89,6 @@ def job():
     scrape('python', filename)
     scrape('typescript', filename)
     #scrape('markdown', filename)
-
-    update_year_index(strdate)
     # git add commit push
     # git_add_commit_push(strdate, filename)
 

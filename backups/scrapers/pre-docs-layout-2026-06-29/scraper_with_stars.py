@@ -9,8 +9,6 @@ import html2markdown
 import re
 from pyquery import PyQuery as pq
 
-from docs_utils import daily_md_path, update_year_index
-
 
 def git_add_commit_push(date, filename):
     cmd_git_add = 'git add {filename}'.format(filename=filename)
@@ -28,7 +26,7 @@ def createMarkdown(date, filename):
 
 
 def extract_stars_from_html(item):
-    """Extrai o número de estrelas diretamente do HTML"""
+    """Extrai o n├║mero de estrelas diretamente do HTML"""
     i = pq(item)
     
     # Procura por elementos que contenham estrelas
@@ -36,13 +34,13 @@ def extract_stars_from_html(item):
     
     for element in stars_elements:
         element_text = pq(element).text().strip()
-        # Procura por números no texto (ex: "1.2k", "500", "1.5k")
+        # Procura por n├║meros no texto (ex: "1.2k", "500", "1.5k")
         stars_match = re.search(r'([\d,\.]+[kK]?)\s*stars?', element_text, re.IGNORECASE)
         if stars_match:
             stars_str = stars_match.group(1)
             return format_stars_count(stars_str)
     
-    # Fallback: procura por qualquer número seguido de 'k' ou números simples
+    # Fallback: procura por qualquer n├║mero seguido de 'k' ou n├║meros simples
     for element in stars_elements:
         element_text = pq(element).text().strip()
         if 'k' in element_text.lower() or element_text.isdigit():
@@ -55,18 +53,18 @@ def extract_stars_from_html(item):
 
 
 def format_stars_count(stars_str):
-    """Formata o número de estrelas para um formato consistente"""
+    """Formata o n├║mero de estrelas para um formato consistente"""
     if not stars_str:
         return "N/A"
     
     stars_str = stars_str.replace(',', '').strip()
     
     if 'k' in stars_str.lower():
-        # Remove 'k' e converte para número
+        # Remove 'k' e converte para n├║mero
         number = float(stars_str.lower().replace('k', ''))
         return f"{int(number * 1000):,}"
     else:
-        # Número simples
+        # N├║mero simples
         try:
             return f"{int(stars_str):,}"
         except ValueError:
@@ -112,19 +110,19 @@ def scrape(language, filename):
             url = i(".lh-condensed a").attr("href")
             url = "https://github.com" + url
             
-            # Extrair número de estrelas do HTML
+            # Extrair n├║mero de estrelas do HTML
             stars = extract_stars_from_html(item)
             
             # ownerImg = i("p.repo-list-meta a img").attr("src")
             # print(ownerImg)
-            f.write(u"* [{title}]({url}) ⭐ {stars}: {description}\n".format(
+            f.write(u"* [{title}]({url}) Ô¡É {stars}: {description}\n".format(
                 title=title, url=url, stars=stars, description=description
             ))
 
 
 def job():
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-    filename = str(daily_md_path(strdate))
+    filename = '{date}.md'.format(date=strdate)
 
     # create markdown file
     createMarkdown(strdate, filename)
@@ -144,8 +142,6 @@ def job():
     scrape('python', filename)
     scrape('typescript', filename)
     #scrape('markdown', filename)
-
-    update_year_index(strdate)
     # git add commit push
     # git_add_commit_push(strdate, filename)
 

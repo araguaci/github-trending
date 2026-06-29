@@ -146,7 +146,7 @@ Stars Growth Over Time:
         data = []
         
         # Buscar em todos os arquivos de trending
-        for year in range(2017, 2026):
+        for year in range(2017, 2027):
             year_path = os.path.join(self.docs_path, str(year))
             if os.path.exists(year_path):
                 for file in os.listdir(year_path):

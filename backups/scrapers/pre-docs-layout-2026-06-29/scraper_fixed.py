@@ -9,8 +9,6 @@ import html2markdown
 import re
 from pyquery import PyQuery as pq
 
-from docs_utils import daily_md_path, update_year_index
-
 
 def git_add_commit_push(date, filename):
     cmd_git_add = 'git add {filename}'.format(filename=filename)
@@ -28,10 +26,10 @@ def createMarkdown(date, filename):
 
 
 def extract_stars_from_html_improved(item):
-    """Versão melhorada para extrair estrelas do HTML do GitHub"""
+    """Vers├úo melhorada para extrair estrelas do HTML do GitHub"""
     i = pq(item)
     
-    # Múltiplos seletores para encontrar estrelas
+    # M├║ltiplos seletores para encontrar estrelas
     selectors = [
         'a[href*="/stargazers"]',
         'a[href*="/stars"]', 
@@ -53,7 +51,7 @@ def extract_stars_from_html_improved(item):
         for element in elements:
             element_text = pq(element).text().strip()
             
-            # Procura por padrões de números de estrelas
+            # Procura por padr├Áes de n├║meros de estrelas
             patterns = [
                 r'([\d,\.]+[kK]?)\s*stars?',  # "1.2k stars"
                 r'([\d,\.]+[kK]?)',           # "1.2k" ou "1234"
@@ -82,10 +80,10 @@ def extract_stars_from_html_improved(item):
         for match in matches:
             formatted_stars = format_stars_count(match)
             if formatted_stars != "N/A":
-                # Verificar se é um número razoável de estrelas
+                # Verificar se ├® um n├║mero razo├ível de estrelas
                 try:
                     num_stars = int(formatted_stars.replace(',', ''))
-                    if 0 <= num_stars <= 1000000:  # Range razoável
+                    if 0 <= num_stars <= 1000000:  # Range razo├ível
                         return formatted_stars
                 except:
                     continue
@@ -94,13 +92,13 @@ def extract_stars_from_html_improved(item):
 
 
 def format_stars_count(stars_str):
-    """Formata o número de estrelas para um formato consistente"""
+    """Formata o n├║mero de estrelas para um formato consistente"""
     if not stars_str:
         return "N/A"
     
     stars_str = str(stars_str).replace(',', '').strip()
     
-    # Remover caracteres não numéricos exceto k/K e ponto
+    # Remover caracteres n├úo num├®ricos exceto k/K e ponto
     stars_str = re.sub(r'[^\d\.kK]', '', stars_str)
     
     if not stars_str:
@@ -108,11 +106,11 @@ def format_stars_count(stars_str):
     
     try:
         if 'k' in stars_str.lower():
-            # Remove 'k' e converte para número
+            # Remove 'k' e converte para n├║mero
             number = float(stars_str.lower().replace('k', ''))
             return f"{int(number * 1000):,}"
         else:
-            # Número simples
+            # N├║mero simples
             number = float(stars_str)
             return f"{int(number):,}"
     except (ValueError, TypeError):
@@ -120,7 +118,7 @@ def format_stars_count(stars_str):
 
 
 def get_stars_from_api(owner, repo_name, github_token=None):
-    """Obtém o número de estrelas usando a API do GitHub"""
+    """Obt├®m o n├║mero de estrelas usando a API do GitHub"""
     url = f"https://api.github.com/repos/{owner}/{repo_name}"
     
     headers = {
@@ -136,15 +134,15 @@ def get_stars_from_api(owner, repo_name, github_token=None):
             data = response.json()
             return f"{data.get('stargazers_count', 0):,}"
         else:
-            print(f"⚠️ API Error {response.status_code} for {owner}/{repo_name}")
+            print(f"ÔÜá´©Å API Error {response.status_code} for {owner}/{repo_name}")
             return "N/A"
     except Exception as e:
-        print(f"❌ API Error for {owner}/{repo_name}: {e}")
+        print(f"ÔØî API Error for {owner}/{repo_name}: {e}")
         return "N/A"
 
 
 def scrape_with_stars_improved(language, filename, use_api=False, github_token=None):
-    """Versão melhorada que inclui estrelas com múltiplas estratégias"""
+    """Vers├úo melhorada que inclui estrelas com m├║ltiplas estrat├®gias"""
     HEADERS = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -154,15 +152,15 @@ def scrape_with_stars_improved(language, filename, use_api=False, github_token=N
 
     url = 'https://github.com/trending/{language}'.format(language=language)
     
-    print(f"🔍 Scraping: {url}")
+    print(f"­ƒöì Scraping: {url}")
 
     try:
         r = requests.get(url, headers=HEADERS, timeout=30)
         if r.status_code != 200:
-            print(f"❌ Erro HTTP {r.status_code} para {url}")
+            print(f"ÔØî Erro HTTP {r.status_code} para {url}")
             return
     except Exception as e:
-        print(f"❌ Erro de conexão para {url}: {e}")
+        print(f"ÔØî Erro de conex├úo para {url}: {e}")
         return
     
     d = pq(r.content)
@@ -195,11 +193,11 @@ def scrape_with_stars_improved(language, filename, use_api=False, github_token=N
                 
             total_count += 1
             
-            # Extrair informações do repositório
+            # Extrair informa├º├Áes do reposit├│rio
             repo_name = title.split('/')[-1].strip() if '/' in title else title.strip()
             owner_name = owner.strip() if owner else ""
             
-            # Obter número de estrelas com estratégia híbrida
+            # Obter n├║mero de estrelas com estrat├®gia h├¡brida
             stars = "N/A"
             
             if use_api and owner_name and repo_name:
@@ -219,25 +217,25 @@ def scrape_with_stars_improved(language, filename, use_api=False, github_token=N
                 if stars != "N/A":
                     success_count += 1
             
-            # Formatar saída com estrelas
-            f.write(u"* [{title}]({url}) ⭐ {stars}: {description}\n".format(
+            # Formatar sa├¡da com estrelas
+            f.write(u"* [{title}]({url}) Ô¡É {stars}: {description}\n".format(
                 title=title, url=url, stars=stars, description=description
             ))
         
-        # Estatísticas
+        # Estat├¡sticas
         success_rate = (success_count / total_count * 100) if total_count > 0 else 0
-        print(f"📊 {language}: {success_count}/{total_count} estrelas obtidas ({success_rate:.1f}%)")
+        print(f"­ƒôè {language}: {success_count}/{total_count} estrelas obtidas ({success_rate:.1f}%)")
 
 
 def job_improved(use_api=False, github_token=None):
-    """Versão melhorada da função job"""
+    """Vers├úo melhorada da fun├º├úo job"""
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
-    filename = str(daily_md_path(strdate))
+    filename = '{date}.md'.format(date=strdate)
 
-    print("🚀 Iniciando GitHub Trending Scraper Melhorado")
-    print(f"📅 Data: {strdate}")
-    print(f"📁 Arquivo: {filename}")
-    print(f"🔧 Modo: {'API' if use_api else 'HTML'}")
+    print("­ƒÜÇ Iniciando GitHub Trending Scraper Melhorado")
+    print(f"­ƒôà Data: {strdate}")
+    print(f"­ƒôü Arquivo: {filename}")
+    print(f"­ƒöº Modo: {'API' if use_api else 'HTML'}")
     print("=" * 50)
 
     # create markdown file
@@ -249,12 +247,10 @@ def job_improved(use_api=False, github_token=None):
     for lang in languages:
         scrape_with_stars_improved(lang, filename, use_api, github_token)
         time.sleep(1)  # Delay entre linguagens
-
-    update_year_index(strdate)
     
     print("=" * 50)
-    print("✅ Scraping concluído!")
-    print(f"📁 Arquivo gerado: {filename}")
+    print("Ô£à Scraping conclu├¡do!")
+    print(f"­ƒôü Arquivo gerado: {filename}")
     
     # git add commit push
     # git_add_commit_push(strdate, filename)
@@ -265,14 +261,14 @@ if __name__ == '__main__':
     # GITHUB_TOKEN = "seu_token_aqui"
     GITHUB_TOKEN = None
     
-    print("🔧 GitHub Trending Scraper - Versão Melhorada")
+    print("­ƒöº GitHub Trending Scraper - Vers├úo Melhorada")
     print("=" * 50)
-    print("💡 Dicas:")
-    print("   - use_api=True para maior precisão (mais lento)")
+    print("­ƒÆí Dicas:")
+    print("   - use_api=True para maior precis├úo (mais lento)")
     print("   - use_api=False para maior velocidade")
     print("   - Configure GITHUB_TOKEN para usar API")
     print("=" * 50)
     
     # use_api=True para usar a API do GitHub (mais preciso, mas mais lento)
-    # use_api=False para extrair do HTML (mais rápido, mas pode ser menos preciso)
+    # use_api=False para extrair do HTML (mais r├ípido, mas pode ser menos preciso)
     job_improved(use_api=False, github_token=GITHUB_TOKEN)
